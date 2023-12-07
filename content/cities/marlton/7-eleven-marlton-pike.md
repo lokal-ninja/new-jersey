@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /belford/7-eleven-leonardville-road/
+url: /marlton/7-eleven-marlton-pike/
 shop: convenience
 ---
