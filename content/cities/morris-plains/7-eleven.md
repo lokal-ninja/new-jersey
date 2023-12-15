@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /belford/7-eleven-nj-36/
+url: /morris-plains/7-eleven/
 shop: convenience
 ---
