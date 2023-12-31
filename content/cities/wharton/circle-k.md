@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /wayne/circle-k-nj-23/
+url: /wharton/circle-k/
 shop: convenience
 ---
