@@ -1,6 +1,6 @@
 ---
 title: Rutherford
 url: /rutherford/
-latitude: 40.827
-longitude: -74.102
+latitude: 40.836
+longitude: -74.114
 ---
