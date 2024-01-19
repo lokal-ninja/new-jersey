@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /wayne/gnc-willowbrook-mall/
+url: /hackettstown/gnc/
 shop: nutrition supplements
 ---
