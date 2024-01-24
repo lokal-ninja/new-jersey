@@ -1,6 +1,6 @@
 ---
 title: Wallington
 url: /wallington/
-latitude: 40.854
-longitude: -74.118
+latitude: 40.845
+longitude: -74.109
 ---
