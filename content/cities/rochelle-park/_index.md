@@ -1,6 +1,6 @@
 ---
 title: Rochelle Park
 url: /rochelle-park/
-latitude: 40.906
-longitude: -74.071
+latitude: 40.915
+longitude: -74.081
 ---

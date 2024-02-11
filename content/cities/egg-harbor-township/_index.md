@@ -1,6 +1,6 @@
 ---
 title: Egg Harbor Township
 url: /egg-harbor-township/
-latitude: 39.402
-longitude: -74.564
+latitude: 39.432
+longitude: -74.611
 ---

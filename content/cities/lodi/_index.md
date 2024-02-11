@@ -1,6 +1,6 @@
 ---
 title: Lodi
 url: /lodi/
-latitude: 40.892
-longitude: -74.073
+latitude: 40.879
+longitude: -74.085
 ---

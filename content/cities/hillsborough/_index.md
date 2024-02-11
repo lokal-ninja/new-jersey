@@ -1,6 +1,6 @@
 ---
 title: Hillsborough
 url: /hillsborough/
-latitude: 40.53
-longitude: -74.628
+latitude: 40.501
+longitude: -74.643
 ---

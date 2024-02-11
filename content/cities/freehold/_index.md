@@ -1,6 +1,6 @@
 ---
 title: Freehold
 url: /freehold/
-latitude: 40.258
-longitude: -74.275
+latitude: 40.243
+longitude: -74.277
 ---

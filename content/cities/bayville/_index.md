@@ -1,6 +1,6 @@
 ---
 title: Bayville
 url: /bayville/
-latitude: 39.892
-longitude: -74.161
+latitude: 39.914
+longitude: -74.153
 ---

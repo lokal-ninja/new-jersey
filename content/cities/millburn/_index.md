@@ -1,6 +1,6 @@
 ---
 title: Millburn
 url: /millburn/
-latitude: 40.725
-longitude: -74.308
+latitude: 40.723
+longitude: -74.296
 ---
