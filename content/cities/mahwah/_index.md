@@ -1,6 +1,6 @@
 ---
 title: Mahwah
 url: /mahwah/
-latitude: 41.079
-longitude: -74.164
+latitude: 41.099
+longitude: -74.145
 ---

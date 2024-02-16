@@ -1,6 +1,6 @@
 ---
 title: Sewell
 url: /sewell/
-latitude: 39.752
-longitude: -75.078
+latitude: 39.748
+longitude: -75.076
 ---

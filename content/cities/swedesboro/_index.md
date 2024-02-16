@@ -1,6 +1,6 @@
 ---
 title: Swedesboro
 url: /swedesboro/
-latitude: 39.759
-longitude: -75.36
+latitude: 39.756
+longitude: -75.354
 ---

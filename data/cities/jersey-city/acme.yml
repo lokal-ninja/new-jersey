@@ -1,11 +1,11 @@
-id: 265560949
-type: way
-latitude: 40.7335
-longitude: -74.0376
-postcode: "07310"
+id: 2617877365
+type: node
+latitude: 40.7106
+longitude: -74.10181
+postcode: "07305"
 city: Jersey City
-street: "18th Street"
-housenumber: 125
-phone: "+1-201-418-0580"
-opening_hours: ""
-website: "https://local.acmemarkets.com/nj/jersey-city/125-18th-st.html"
+street: "Route 440"
+housenumber: 321
+phone: "+1 201-946-2525"
+opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
+website: "https://local.acmemarkets.com/nj/jersey-city/321-route-440.html"
