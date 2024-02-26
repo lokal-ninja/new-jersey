@@ -1,6 +1,6 @@
 ---
 title: Hillside
 url: /hillside/
-latitude: 40.7
-longitude: -74.233
+latitude: 40.689
+longitude: -74.215
 ---
