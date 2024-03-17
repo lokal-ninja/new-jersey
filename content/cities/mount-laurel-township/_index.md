@@ -1,6 +1,6 @@
 ---
 title: Mount Laurel Township
 url: /mount-laurel-township/
-latitude: 39.917
-longitude: -74.943
+latitude: 39.943
+longitude: -74.95
 ---
