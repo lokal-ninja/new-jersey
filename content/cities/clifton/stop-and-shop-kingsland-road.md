@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /clifton/stop-and-shop-broad-street/
+url: /clifton/stop-and-shop-kingsland-road/
 shop: supermarket
 ---
