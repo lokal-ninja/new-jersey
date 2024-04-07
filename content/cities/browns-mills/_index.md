@@ -1,6 +1,6 @@
 ---
 title: Browns Mills
 url: /browns-mills/
-latitude: 39.954
-longitude: -74.549
+latitude: 39.976
+longitude: -74.581
 ---
