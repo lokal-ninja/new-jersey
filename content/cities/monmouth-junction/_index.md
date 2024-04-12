@@ -1,6 +1,6 @@
 ---
 title: Monmouth Junction
 url: /monmouth-junction/
-latitude: 40.385
-longitude: -74.572
+latitude: 40.382
+longitude: -74.574
 ---
