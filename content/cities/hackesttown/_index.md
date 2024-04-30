@@ -1,6 +1,6 @@
 ---
 title: Hackesttown
 url: /hackesttown/
-latitude: 40.853
-longitude: -74.828
+latitude: 40.843
+longitude: -74.82
 ---
