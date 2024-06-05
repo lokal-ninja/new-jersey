@@ -1,6 +1,6 @@
 ---
 title: Mount Arlington
 url: /mount-arlington/
-latitude: 40.899
-longitude: -74.635
+latitude: 40.928
+longitude: -74.634
 ---
