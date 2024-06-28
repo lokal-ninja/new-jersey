@@ -1,5 +1,5 @@
 ---
-title: "Krauszers Food Store"
+title: "Krauszer's Food Store"
 url: /bridgewater/krauszers-food-store/
 shop: convenience
 ---
