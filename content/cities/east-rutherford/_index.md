@@ -1,6 +1,6 @@
 ---
 title: East Rutherford
 url: /east-rutherford/
-latitude: 40.84
-longitude: -74.103
+latitude: 40.828
+longitude: -74.092
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lumberton
 url: /lumberton/
-latitude: 39.982
-longitude: -74.791
+latitude: 39.98
+longitude: -74.808
 ---
