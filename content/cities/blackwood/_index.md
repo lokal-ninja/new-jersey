@@ -1,6 +1,6 @@
 ---
 title: Blackwood
 url: /blackwood/
-latitude: 39.796
-longitude: -75.04
+latitude: 39.753
+longitude: -75.044
 ---

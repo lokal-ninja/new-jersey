@@ -1,6 +1,6 @@
 ---
 title: Manalapan
 url: /manalapan/
-latitude: 40.315
-longitude: -74.308
+latitude: 40.291
+longitude: -74.302
 ---

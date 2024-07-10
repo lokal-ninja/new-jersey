@@ -1,6 +1,6 @@
 ---
 title: Toms River
 url: /toms-river/
-latitude: 40.036
-longitude: -74.247
+latitude: 39.955
+longitude: -74.16
 ---

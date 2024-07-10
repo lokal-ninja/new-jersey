@@ -1,6 +1,6 @@
 ---
 title: Cape May
 url: /cape-may/
-latitude: 39.002
-longitude: -74.913
+latitude: 38.975
+longitude: -74.937
 ---

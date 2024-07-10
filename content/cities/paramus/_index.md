@@ -1,6 +1,6 @@
 ---
 title: Paramus
 url: /paramus/
-latitude: 40.979
-longitude: -74.085
+latitude: 40.966
+longitude: -74.075
 ---
