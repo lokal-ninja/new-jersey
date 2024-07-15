@@ -1,6 +1,6 @@
 ---
 title: Watchung
 url: /watchung/
-latitude: 40.639
-longitude: -74.423
+latitude: 40.64
+longitude: -74.421
 ---

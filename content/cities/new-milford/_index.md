@@ -1,6 +1,6 @@
 ---
 title: New Milford
 url: /new-milford/
-latitude: 40.92
-longitude: -74.026
+latitude: 40.945
+longitude: -74.017
 ---

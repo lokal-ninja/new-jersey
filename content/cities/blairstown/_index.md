@@ -1,6 +1,6 @@
 ---
 title: Blairstown
 url: /blairstown/
-latitude: 40.984
-longitude: -74.997
+latitude: 40.982
+longitude: -74.958
 ---

@@ -1,6 +1,6 @@
 ---
 title: Morristown
 url: /morristown/
-latitude: 40.795
-longitude: -74.48
+latitude: 40.799
+longitude: -74.474
 ---

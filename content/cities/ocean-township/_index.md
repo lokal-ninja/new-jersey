@@ -1,6 +1,6 @@
 ---
 title: Ocean Township
 url: /ocean-township/
-latitude: 40.231
+latitude: 40.23
 longitude: -74.047
 ---
