@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rockaway/walmart/
-shop: supermarket
+shop: department store
 ---
