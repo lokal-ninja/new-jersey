@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /atlan/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /browns-mills/hair-cuttery/
-shop: hairdresser
+shop: Friseur
 ---

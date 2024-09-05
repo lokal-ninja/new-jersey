@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /leonardo/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

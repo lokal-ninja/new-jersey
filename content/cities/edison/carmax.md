@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /edison/carmax/
-shop: car
+shop: Autohaus
 ---

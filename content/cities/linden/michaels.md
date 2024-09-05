@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /linden/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /wood-ridge/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

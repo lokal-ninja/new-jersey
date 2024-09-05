@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /howell/party-city/
-shop: party
+shop: Partyzubehör
 ---

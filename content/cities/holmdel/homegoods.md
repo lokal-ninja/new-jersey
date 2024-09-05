@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /holmdel/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

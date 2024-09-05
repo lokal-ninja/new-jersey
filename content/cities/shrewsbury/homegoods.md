@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /shrewsbury/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

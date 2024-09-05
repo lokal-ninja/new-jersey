@@ -1,5 +1,5 @@
 ---
 title: "Prohaircutters"
 url: /parsippany/prohaircutters/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /manahawkin/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

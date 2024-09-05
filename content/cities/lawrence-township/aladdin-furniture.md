@@ -1,5 +1,5 @@
 ---
 title: "Aladdin Furniture"
 url: /lawrence-township/aladdin-furniture/
-shop: furniture
+shop: Möbel
 ---

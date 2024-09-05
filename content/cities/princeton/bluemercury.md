@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /princeton/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

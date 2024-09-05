@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /bloomfield/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

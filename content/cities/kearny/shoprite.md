@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /kearny/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

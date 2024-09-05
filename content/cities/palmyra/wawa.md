@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /palmyra/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

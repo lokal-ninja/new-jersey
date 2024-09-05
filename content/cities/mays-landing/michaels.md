@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /mays-landing/michaels/
-shop: craft
+shop: Basteln
 ---

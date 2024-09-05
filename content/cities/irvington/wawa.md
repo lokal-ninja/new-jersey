@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /irvington/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

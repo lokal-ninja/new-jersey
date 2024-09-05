@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /westmont/acme/
-shop: supermarket
+shop: Supermarkt
 ---

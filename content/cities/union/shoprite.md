@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /union/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /paramus/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

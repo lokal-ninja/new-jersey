@@ -1,5 +1,5 @@
 ---
 title: "Gatto"
 url: /hoboken/gatto/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /south-plainfield/grainger/
-shop: trade
+shop: Baustoffe
 ---

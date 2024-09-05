@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /paramus/best-buy-bergen-town-center/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Closter Eye Care"
 url: /closter/closter-eye-care/
-shop: optician
+shop: Optiker
 ---

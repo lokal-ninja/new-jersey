@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /delran/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

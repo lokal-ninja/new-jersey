@@ -1,5 +1,5 @@
 ---
 title: "Ino Commercial Tires"
 url: /ledgewood/ino-commercial-tires/
-shop: tiles
+shop: Fliesen
 ---

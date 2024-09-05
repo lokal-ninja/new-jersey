@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bridgewater/petsmart/
-shop: pet
+shop: Tiere
 ---

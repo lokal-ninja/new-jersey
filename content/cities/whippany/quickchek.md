@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /whippany/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

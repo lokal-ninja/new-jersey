@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /lawrence-twp/tesla/
-shop: car
+shop: Autohaus
 ---

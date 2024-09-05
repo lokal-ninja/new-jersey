@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /haddonfield/acme/
-shop: supermarket
+shop: Supermarkt
 ---

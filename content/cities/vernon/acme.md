@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /vernon/acme/
-shop: supermarket
+shop: Supermarkt
 ---

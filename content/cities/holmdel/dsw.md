@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /holmdel/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /passaic/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

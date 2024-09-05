@@ -1,5 +1,5 @@
 ---
 title: "ABCrystal"
 url: /eatontown/abcrystal/
-shop: jewelry
+shop: Schmuck
 ---

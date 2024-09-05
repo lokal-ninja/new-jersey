@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /parsippany/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

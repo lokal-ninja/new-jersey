@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /netcong/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

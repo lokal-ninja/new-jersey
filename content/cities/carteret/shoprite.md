@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /carteret/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

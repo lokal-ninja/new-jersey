@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /newark/snipes/
-shop: shoes
+shop: Schuhe
 ---

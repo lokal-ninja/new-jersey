@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /hainesport/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

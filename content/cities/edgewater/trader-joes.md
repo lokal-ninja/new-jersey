@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /edgewater/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

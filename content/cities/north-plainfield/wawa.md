@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /north-plainfield/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

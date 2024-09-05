@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /hackensack/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

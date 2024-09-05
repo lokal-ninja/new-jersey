@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /watchung/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

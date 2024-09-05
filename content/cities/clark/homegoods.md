@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /clark/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

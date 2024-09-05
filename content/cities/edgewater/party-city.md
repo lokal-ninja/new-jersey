@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /edgewater/party-city/
-shop: party
+shop: Partyzubehör
 ---

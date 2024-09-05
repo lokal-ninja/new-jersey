@@ -1,5 +1,5 @@
 ---
 title: "Salem Nails"
 url: /pennsville/salem-nails/
-shop: beauty
+shop: Kosmetik
 ---

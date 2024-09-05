@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /brick/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

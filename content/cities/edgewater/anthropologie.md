@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /edgewater/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

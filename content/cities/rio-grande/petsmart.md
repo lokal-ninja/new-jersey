@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /rio-grande/petsmart/
-shop: pet
+shop: Tiere
 ---

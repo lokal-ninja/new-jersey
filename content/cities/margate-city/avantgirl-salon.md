@@ -1,5 +1,5 @@
 ---
 title: "AvantGirl Salon"
 url: /margate-city/avantgirl-salon/
-shop: hairdresser
+shop: Friseur
 ---

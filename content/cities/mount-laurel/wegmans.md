@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /mount-laurel/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

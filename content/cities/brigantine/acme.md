@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /brigantine/acme/
-shop: supermarket
+shop: Supermarkt
 ---

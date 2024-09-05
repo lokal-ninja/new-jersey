@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /vineland/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

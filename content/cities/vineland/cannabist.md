@@ -1,5 +1,5 @@
 ---
 title: "Cannabist"
 url: /vineland/cannabist/
-shop: cannabis
+shop: Hanf
 ---

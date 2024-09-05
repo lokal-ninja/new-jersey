@@ -1,5 +1,5 @@
 ---
 title: "ChazMaTazz"
 url: /princeton/chazmatazz/
-shop: clothes
+shop: Kleidung
 ---

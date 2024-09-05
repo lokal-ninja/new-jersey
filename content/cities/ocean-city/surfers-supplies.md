@@ -1,5 +1,5 @@
 ---
 title: "Surfers Supplies"
 url: /ocean-city/surfers-supplies/
-shop: clothes
+shop: Kleidung
 ---

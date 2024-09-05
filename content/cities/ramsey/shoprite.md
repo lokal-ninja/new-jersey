@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /ramsey/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

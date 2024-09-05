@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /sewell/acme/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /wildwood/acme/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Smoke"
 url: /vernon/galaxy-smoke/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

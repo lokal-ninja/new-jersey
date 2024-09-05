@@ -1,5 +1,5 @@
 ---
 title: "Leonia Laundromat"
 url: /leonia/leonia-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

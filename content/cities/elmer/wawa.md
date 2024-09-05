@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /elmer/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

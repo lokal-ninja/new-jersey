@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /upper-deerfield/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /brick/petco/
-shop: pet
+shop: Tiere
 ---

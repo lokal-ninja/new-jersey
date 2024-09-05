@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /north-bergen/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /keyport/7-eleven-broad-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /stirling/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /cherry-hill/costco/
-shop: wholesale
+shop: Großhandel
 ---

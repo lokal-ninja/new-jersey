@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /ocean-city/acme-west-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

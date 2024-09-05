@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /trenton/acme/
-shop: supermarket
+shop: Supermarkt
 ---

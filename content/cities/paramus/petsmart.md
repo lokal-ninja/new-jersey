@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /paramus/petsmart/
-shop: pet
+shop: Tiere
 ---

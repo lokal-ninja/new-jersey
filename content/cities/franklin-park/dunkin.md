@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /franklin-park/dunkin/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /audubon/acme/
-shop: supermarket
+shop: Supermarkt
 ---

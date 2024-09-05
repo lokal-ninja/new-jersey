@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /union/dsw/
-shop: shoes
+shop: Schuhe
 ---

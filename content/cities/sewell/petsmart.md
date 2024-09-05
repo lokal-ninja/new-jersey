@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /sewell/petsmart/
-shop: pet
+shop: Tiere
 ---

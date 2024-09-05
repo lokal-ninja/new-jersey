@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /north-bergen/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

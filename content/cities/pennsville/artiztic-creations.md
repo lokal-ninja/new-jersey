@@ -1,5 +1,5 @@
 ---
 title: "Artiztic Creations"
 url: /pennsville/artiztic-creations/
-shop: garden centre
+shop: Garten-Center
 ---

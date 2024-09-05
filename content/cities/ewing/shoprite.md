@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /ewing/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fairfield/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

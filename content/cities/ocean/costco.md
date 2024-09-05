@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /ocean/costco/
-shop: wholesale
+shop: Großhandel
 ---

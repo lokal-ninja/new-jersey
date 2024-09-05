@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /tuckerton/acme/
-shop: supermarket
+shop: Supermarkt
 ---

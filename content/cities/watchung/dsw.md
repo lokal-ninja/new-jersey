@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /watchung/dsw/
-shop: shoes
+shop: Schuhe
 ---

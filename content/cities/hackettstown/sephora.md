@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /hackettstown/sephora/
-shop: beauty
+shop: Kosmetik
 ---

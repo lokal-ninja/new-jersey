@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /monmouth-junction/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

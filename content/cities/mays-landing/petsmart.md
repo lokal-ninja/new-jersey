@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mays-landing/petsmart/
-shop: pet
+shop: Tiere
 ---
