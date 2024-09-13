@@ -1,5 +1,5 @@
 ---
 title: "Heads Audio"
 url: /upper-saddle-river/heads-audio/
-shop: Elektronik
+shop: electronics
 ---

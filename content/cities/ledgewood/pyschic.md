@@ -1,5 +1,5 @@
 ---
 title: "Pyschic"
 url: /ledgewood/pyschic/
-shop: Allgemein
+shop: shop
 ---

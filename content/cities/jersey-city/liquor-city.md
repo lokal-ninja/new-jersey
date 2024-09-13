@@ -1,5 +1,5 @@
 ---
 title: "Liquor City"
 url: /jersey-city/liquor-city/
-shop: Spirituosen
+shop: alcohol
 ---

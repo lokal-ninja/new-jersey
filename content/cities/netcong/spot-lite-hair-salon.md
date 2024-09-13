@@ -1,5 +1,5 @@
 ---
 title: "Spot-Lite Hair Salon"
 url: /netcong/spot-lite-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

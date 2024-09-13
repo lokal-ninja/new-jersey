@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /turnersville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

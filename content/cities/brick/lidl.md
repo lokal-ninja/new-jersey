@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /brick/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /budd-lake/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

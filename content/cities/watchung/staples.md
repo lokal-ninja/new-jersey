@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /watchung/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

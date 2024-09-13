@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /edgewater/guess/
-shop: Kleidung
+shop: clothes
 ---

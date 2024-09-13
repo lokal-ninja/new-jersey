@@ -1,5 +1,5 @@
 ---
 title: "Jonas Automotive Center"
 url: /bloomfield/jonas-automotive-center/
-shop: Autowerkstatt
+shop: car repair
 ---

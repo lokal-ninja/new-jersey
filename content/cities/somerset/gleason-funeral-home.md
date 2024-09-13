@@ -1,5 +1,5 @@
 ---
 title: "Gleason Funeral Home"
 url: /somerset/gleason-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

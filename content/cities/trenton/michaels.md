@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /trenton/michaels/
-shop: Basteln
+shop: craft
 ---

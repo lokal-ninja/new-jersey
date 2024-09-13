@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /park-ridge/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

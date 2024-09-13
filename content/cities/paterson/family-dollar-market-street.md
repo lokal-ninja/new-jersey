@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /paterson/family-dollar-market-street/
-shop: Kramladen
+shop: variety store
 ---

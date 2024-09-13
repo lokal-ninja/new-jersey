@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /princeton/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

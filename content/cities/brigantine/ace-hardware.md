@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /brigantine/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

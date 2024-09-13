@@ -1,5 +1,5 @@
 ---
 title: "Fashion Salon"
 url: /bound-brook/fashion-salon/
-shop: Kosmetik
+shop: beauty
 ---

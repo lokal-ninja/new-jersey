@@ -1,5 +1,5 @@
 ---
 title: "Aardvark Amusements"
 url: /south-amboy/aardvark-amusements/
-shop: Partyzubehör
+shop: party
 ---

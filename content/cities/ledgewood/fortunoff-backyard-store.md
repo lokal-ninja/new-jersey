@@ -1,5 +1,5 @@
 ---
 title: "Fortunoff Backyard Store"
 url: /ledgewood/fortunoff-backyard-store/
-shop: Möbel
+shop: furniture
 ---

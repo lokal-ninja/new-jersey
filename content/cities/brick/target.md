@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brick/target/
-shop: Warenhaus
+shop: department store
 ---

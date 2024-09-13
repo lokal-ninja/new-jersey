@@ -1,5 +1,5 @@
 ---
 title: "Klean Bubbles Launomat"
 url: /bound-brook/klean-bubbles-launomat/
-shop: Wäscherei
+shop: laundry
 ---

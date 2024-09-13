@@ -1,5 +1,5 @@
 ---
 title: "Polestar"
 url: /lawrence-township/polestar/
-shop: Autohaus
+shop: car
 ---

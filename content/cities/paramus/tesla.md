@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /paramus/tesla/
-shop: Autohaus
+shop: car
 ---

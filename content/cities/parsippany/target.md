@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /parsippany/target/
-shop: Supermarkt
+shop: supermarket
 ---

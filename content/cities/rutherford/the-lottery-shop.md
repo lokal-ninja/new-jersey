@@ -1,5 +1,5 @@
 ---
 title: "The Lottery Shop"
 url: /rutherford/the-lottery-shop/
-shop: Lebensmittel
+shop: convenience
 ---

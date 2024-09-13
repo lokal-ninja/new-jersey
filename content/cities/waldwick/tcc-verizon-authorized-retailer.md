@@ -1,5 +1,5 @@
 ---
 title: "TCC Verizon Authorized Retailer"
 url: /waldwick/tcc-verizon-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

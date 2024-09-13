@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /wayne/verizon-willowbrook-mall/
-shop: Handy
+shop: mobile phone
 ---

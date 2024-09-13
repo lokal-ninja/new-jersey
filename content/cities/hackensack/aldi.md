@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hackensack/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

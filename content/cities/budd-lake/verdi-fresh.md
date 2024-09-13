@@ -1,5 +1,5 @@
 ---
 title: "Verdi Fresh"
 url: /budd-lake/verdi-fresh/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jembro"
 url: /hawthorne/jembro/
-shop: Kramladen
+shop: variety store
 ---

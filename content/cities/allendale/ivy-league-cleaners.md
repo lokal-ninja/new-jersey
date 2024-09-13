@@ -1,5 +1,5 @@
 ---
 title: "Ivy League Cleaners"
 url: /allendale/ivy-league-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hazlet/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

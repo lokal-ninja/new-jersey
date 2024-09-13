@@ -1,5 +1,5 @@
 ---
 title: "Bloomfield Dry Cleaners"
 url: /bloomfield/bloomfield-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

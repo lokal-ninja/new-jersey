@@ -1,5 +1,5 @@
 ---
 title: "Willowbrook"
 url: /wayne/willowbrook/
-shop: Einkaufszentrum
+shop: mall
 ---

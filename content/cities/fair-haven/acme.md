@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /fair-haven/acme/
-shop: Supermarkt
+shop: supermarket
 ---

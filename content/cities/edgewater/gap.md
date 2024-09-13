@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /edgewater/gap/
-shop: Kleidung
+shop: clothes
 ---

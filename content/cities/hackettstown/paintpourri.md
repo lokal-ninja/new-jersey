@@ -1,5 +1,5 @@
 ---
 title: "Paintpourri"
 url: /hackettstown/paintpourri/
-shop: Farben
+shop: paint
 ---

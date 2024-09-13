@@ -1,5 +1,5 @@
 ---
 title: "Dubin Glass"
 url: /irvington/dubin-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

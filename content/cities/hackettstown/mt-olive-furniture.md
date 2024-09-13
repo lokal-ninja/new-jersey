@@ -1,5 +1,5 @@
 ---
 title: "Mt. Olive Furniture"
 url: /hackettstown/mt-olive-furniture/
-shop: Möbel
+shop: furniture
 ---

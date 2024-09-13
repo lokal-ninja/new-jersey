@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /morristown/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

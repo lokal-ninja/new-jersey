@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /ramsey/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picture Perfect"
 url: /toms-river/picture-perfect/
-shop: Rahmen
+shop: frame
 ---

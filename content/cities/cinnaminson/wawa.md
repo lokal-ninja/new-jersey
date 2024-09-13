@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /cinnaminson/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paola's Boutique"
 url: /bound-brook/paolas-boutique/
-shop: Kleidung
+shop: clothes
 ---

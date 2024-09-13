@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /brick/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

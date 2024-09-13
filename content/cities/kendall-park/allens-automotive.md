@@ -1,5 +1,5 @@
 ---
 title: "Allen's Automotive"
 url: /kendall-park/allens-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

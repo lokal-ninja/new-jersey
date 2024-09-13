@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /monmouth-junction/target/
-shop: Warenhaus
+shop: department store
 ---

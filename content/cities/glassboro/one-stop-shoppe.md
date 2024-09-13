@@ -1,5 +1,5 @@
 ---
 title: "One Stop Shoppe"
 url: /glassboro/one-stop-shoppe/
-shop: Lebensmittel
+shop: convenience
 ---

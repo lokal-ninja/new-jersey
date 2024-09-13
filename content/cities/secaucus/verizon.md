@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /secaucus/verizon/
-shop: Handy
+shop: mobile phone
 ---

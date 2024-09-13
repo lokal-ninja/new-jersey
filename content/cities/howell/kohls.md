@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /howell/kohls/
-shop: Warenhaus
+shop: department store
 ---

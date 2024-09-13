@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /ramsey/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

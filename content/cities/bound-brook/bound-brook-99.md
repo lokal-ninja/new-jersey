@@ -1,5 +1,5 @@
 ---
 title: "Bound Brook 99"
 url: /bound-brook/bound-brook-99/
-shop: Handy
+shop: mobile phone
 ---

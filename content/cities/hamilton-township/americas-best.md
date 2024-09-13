@@ -1,5 +1,5 @@
 ---
 title: "America's Best"
 url: /hamilton-township/americas-best/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J L Apter Jewish Memorial Chapel"
 url: /cedar-grove/j-l-apter-jewish-memorial-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

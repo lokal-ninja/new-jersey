@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /west-milford/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

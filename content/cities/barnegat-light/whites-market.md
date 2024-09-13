@@ -1,5 +1,5 @@
 ---
 title: "White's Market"
 url: /barnegat-light/whites-market/
-shop: Dorfladen
+shop: general
 ---

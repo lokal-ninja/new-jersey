@@ -1,5 +1,5 @@
 ---
 title: "Hackensack Auto Wreckers LLC"
 url: /hackensack/hackensack-auto-wreckers-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

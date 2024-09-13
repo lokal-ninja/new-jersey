@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /vineland/michaels/
-shop: Basteln
+shop: craft
 ---

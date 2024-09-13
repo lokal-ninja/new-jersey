@@ -1,5 +1,5 @@
 ---
 title: "Couture Traders"
 url: /ledgewood/couture-traders/
-shop: Leder
+shop: leather
 ---

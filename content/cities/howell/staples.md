@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /howell/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

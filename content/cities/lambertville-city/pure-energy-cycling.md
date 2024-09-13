@@ -1,5 +1,5 @@
 ---
 title: "Pure Energy Cycling"
 url: /lambertville-city/pure-energy-cycling/
-shop: Fahrrad
+shop: bicycle
 ---

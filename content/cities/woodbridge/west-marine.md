@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /woodbridge/west-marine/
-shop: Boot
+shop: boat
 ---

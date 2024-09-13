@@ -1,5 +1,5 @@
 ---
 title: "Copy Center"
 url: /toms-river/copy-center/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cub Liquor"
 url: /middlesex/cub-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

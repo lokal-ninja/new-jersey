@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /ocean-view/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

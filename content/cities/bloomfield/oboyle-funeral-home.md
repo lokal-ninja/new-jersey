@@ -1,5 +1,5 @@
 ---
 title: "O'Boyle Funeral Home"
 url: /bloomfield/oboyle-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

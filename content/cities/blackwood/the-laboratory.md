@@ -1,5 +1,5 @@
 ---
 title: "The Laboratory"
 url: /blackwood/the-laboratory/
-shop: Instrumente
+shop: musical instrument
 ---

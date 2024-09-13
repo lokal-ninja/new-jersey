@@ -1,5 +1,5 @@
 ---
 title: "LiLLiPiES"
 url: /princeton/lillipies/
-shop: Bäckerei
+shop: bakery
 ---

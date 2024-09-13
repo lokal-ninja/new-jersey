@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /watchung/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

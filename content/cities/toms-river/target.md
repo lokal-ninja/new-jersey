@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /toms-river/target/
-shop: Warenhaus
+shop: department store
 ---

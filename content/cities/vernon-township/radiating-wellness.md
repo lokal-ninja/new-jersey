@@ -1,5 +1,5 @@
 ---
 title: "Radiating Wellness"
 url: /vernon-township/radiating-wellness/
-shop: Kosmetik
+shop: beauty
 ---

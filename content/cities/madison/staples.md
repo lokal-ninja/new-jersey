@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /madison/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

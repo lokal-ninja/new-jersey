@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /ledgewood/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

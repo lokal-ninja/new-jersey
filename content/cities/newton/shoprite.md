@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /newton/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franklin Auto Care"
 url: /waldwick/franklin-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

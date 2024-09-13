@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /mount-laurel/mattress-firm/
-shop: Betten
+shop: bed
 ---

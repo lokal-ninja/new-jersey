@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /watchung/walmart/
-shop: Supermarkt
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kam Man Food"
 url: /edison/kam-man-food/
-shop: Supermarkt
+shop: supermarket
 ---

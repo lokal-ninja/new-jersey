@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /brick/mattress-firm/
-shop: Betten
+shop: bed
 ---

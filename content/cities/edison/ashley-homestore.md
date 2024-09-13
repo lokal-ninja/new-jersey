@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /edison/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

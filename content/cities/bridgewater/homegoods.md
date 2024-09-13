@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /bridgewater/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

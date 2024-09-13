@@ -1,5 +1,5 @@
 ---
 title: "Morris Canal Plaza"
 url: /ledgewood/morris-canal-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

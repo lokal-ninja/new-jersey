@@ -1,5 +1,5 @@
 ---
 title: "Evolve Med Spa"
 url: /red-bank/evolve-med-spa/
-shop: Kosmetik
+shop: beauty
 ---

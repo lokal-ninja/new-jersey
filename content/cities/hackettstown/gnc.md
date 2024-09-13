@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /hackettstown/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

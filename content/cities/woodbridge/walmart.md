@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /woodbridge/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steve's Pit Stop Automotive"
 url: /hackettstown/steves-pit-stop-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /north-brunswick/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

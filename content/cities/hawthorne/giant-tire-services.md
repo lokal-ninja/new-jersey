@@ -1,5 +1,5 @@
 ---
 title: "Giant Tire Services"
 url: /hawthorne/giant-tire-services/
-shop: Reifen
+shop: tyres
 ---

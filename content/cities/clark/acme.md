@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /clark/acme/
-shop: Supermarkt
+shop: supermarket
 ---

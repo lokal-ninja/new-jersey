@@ -1,5 +1,5 @@
 ---
 title: "Brunswick Square Mall"
 url: /east-brunswick/brunswick-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

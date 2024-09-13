@@ -1,5 +1,5 @@
 ---
 title: "Sensual Collection"
 url: /wayne/sensual-collection-corporate-drive/
-shop: Kosmetik
+shop: beauty
 ---

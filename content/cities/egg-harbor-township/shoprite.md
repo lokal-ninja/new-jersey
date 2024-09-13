@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /egg-harbor-township/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

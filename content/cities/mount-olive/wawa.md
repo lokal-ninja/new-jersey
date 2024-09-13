@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /mount-olive/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

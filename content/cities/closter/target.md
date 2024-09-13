@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /closter/target/
-shop: Warenhaus
+shop: department store
 ---

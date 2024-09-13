@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /princeton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

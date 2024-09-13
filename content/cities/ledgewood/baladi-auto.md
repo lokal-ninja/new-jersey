@@ -1,5 +1,5 @@
 ---
 title: "Baladi Auto"
 url: /ledgewood/baladi-auto/
-shop: Autohaus
+shop: car
 ---

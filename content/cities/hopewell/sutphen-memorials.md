@@ -1,5 +1,5 @@
 ---
 title: "Sutphen Memorials"
 url: /hopewell/sutphen-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

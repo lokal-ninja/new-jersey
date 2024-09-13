@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /wayne/ulta-beauty-hamburg-turnpike/
-shop: Kosmetik
+shop: beauty
 ---

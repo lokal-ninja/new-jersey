@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /brick/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

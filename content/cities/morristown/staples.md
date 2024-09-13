@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /morristown/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

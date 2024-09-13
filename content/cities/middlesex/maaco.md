@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /middlesex/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

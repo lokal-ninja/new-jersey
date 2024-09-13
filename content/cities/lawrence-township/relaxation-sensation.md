@@ -1,5 +1,5 @@
 ---
 title: "Relaxation Sensation"
 url: /lawrence-township/relaxation-sensation/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /raritan/burlington/
-shop: Warenhaus
+shop: department store
 ---

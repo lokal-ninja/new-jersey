@@ -1,5 +1,5 @@
 ---
 title: "twine."
 url: /hopewell/twine/
-shop: Andenken
+shop: gift
 ---

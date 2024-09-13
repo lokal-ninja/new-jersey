@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /cherry-hill/kohls/
-shop: Warenhaus
+shop: department store
 ---

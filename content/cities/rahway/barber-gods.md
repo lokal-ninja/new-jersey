@@ -1,5 +1,5 @@
 ---
 title: "Barber Gods"
 url: /rahway/barber-gods/
-shop: Friseur
+shop: hairdresser
 ---

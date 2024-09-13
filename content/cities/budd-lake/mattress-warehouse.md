@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /budd-lake/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

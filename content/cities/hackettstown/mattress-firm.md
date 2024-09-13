@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /hackettstown/mattress-firm/
-shop: Betten
+shop: bed
 ---

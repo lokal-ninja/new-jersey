@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /elizabeth/family-dollar-north-broad-street/
-shop: Kramladen
+shop: variety store
 ---

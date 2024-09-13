@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /flanders/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

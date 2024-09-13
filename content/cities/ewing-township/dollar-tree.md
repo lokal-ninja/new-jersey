@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /ewing-township/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

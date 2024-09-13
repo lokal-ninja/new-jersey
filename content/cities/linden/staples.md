@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /linden/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

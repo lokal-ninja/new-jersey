@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /randolph/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

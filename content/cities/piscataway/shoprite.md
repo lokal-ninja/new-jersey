@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /piscataway/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

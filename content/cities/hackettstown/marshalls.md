@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /hackettstown/marshalls/
-shop: Warenhaus
+shop: department store
 ---

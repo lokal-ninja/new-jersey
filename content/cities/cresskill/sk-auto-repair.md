@@ -1,5 +1,5 @@
 ---
 title: "SK Auto Repair"
 url: /cresskill/sk-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

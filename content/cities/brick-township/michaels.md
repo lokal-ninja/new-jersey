@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brick-township/michaels/
-shop: Basteln
+shop: craft
 ---

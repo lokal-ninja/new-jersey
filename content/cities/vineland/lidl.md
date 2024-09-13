@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /vineland/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

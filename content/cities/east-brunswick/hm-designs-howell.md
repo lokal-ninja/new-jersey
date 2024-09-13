@@ -1,5 +1,5 @@
 ---
 title: "HM Designs Howell"
 url: /east-brunswick/hm-designs-howell/
-shop: Baumarkt
+shop: doityourself
 ---

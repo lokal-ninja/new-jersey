@@ -1,5 +1,5 @@
 ---
 title: "Krauszer's Food Mart"
 url: /riverside/krauszers-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

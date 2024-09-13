@@ -1,5 +1,5 @@
 ---
 title: "ProAutomotive"
 url: /flanders/proautomotive/
-shop: Autowerkstatt
+shop: car repair
 ---

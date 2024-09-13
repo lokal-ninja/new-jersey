@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /brick/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

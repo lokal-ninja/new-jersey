@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fairfield/target/
-shop: Warenhaus
+shop: department store
 ---

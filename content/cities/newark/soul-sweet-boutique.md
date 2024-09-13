@@ -1,5 +1,5 @@
 ---
 title: "Soul Sweet Boutique"
 url: /newark/soul-sweet-boutique/
-shop: Konditorei
+shop: pastry
 ---

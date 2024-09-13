@@ -1,5 +1,5 @@
 ---
 title: "Good Guy Vapes"
 url: /englewood/good-guy-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /avalon/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

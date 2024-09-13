@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /wayne/walgreens-paterson-hamburg-turnpike/
-shop: Drogerie
+shop: chemist
 ---

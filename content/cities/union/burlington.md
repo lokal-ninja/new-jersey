@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /union/burlington/
-shop: Warenhaus
+shop: department store
 ---

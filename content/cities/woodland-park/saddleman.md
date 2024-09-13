@@ -1,5 +1,5 @@
 ---
 title: "Saddleman"
 url: /woodland-park/saddleman/
-shop: Autoteile
+shop: car parts
 ---

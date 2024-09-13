@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /stafford-township/costco/
-shop: Großhandel
+shop: wholesale
 ---

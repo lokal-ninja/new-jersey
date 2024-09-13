@@ -1,5 +1,5 @@
 ---
 title: "CN Multiservices"
 url: /bound-brook/cn-multiservices/
-shop: Allgemein
+shop: shop
 ---

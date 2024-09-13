@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /bound-brook/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

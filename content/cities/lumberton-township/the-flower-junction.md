@@ -1,5 +1,5 @@
 ---
 title: "The Flower Junction"
 url: /lumberton-township/the-flower-junction/
-shop: Blumen
+shop: florist
 ---

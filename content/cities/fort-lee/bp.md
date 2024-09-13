@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /fort-lee/bp/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /budd-lake/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /south-plainfield/five-below/
-shop: Kramladen
+shop: variety store
 ---

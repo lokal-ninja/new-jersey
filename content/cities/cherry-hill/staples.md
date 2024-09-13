@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cherry-hill/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

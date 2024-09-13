@@ -1,5 +1,5 @@
 ---
 title: "Mandalay Trading Company"
 url: /princeton/mandalay-trading-company/
-shop: Andenken
+shop: gift
 ---

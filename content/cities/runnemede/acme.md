@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /runnemede/acme/
-shop: Supermarkt
+shop: supermarket
 ---

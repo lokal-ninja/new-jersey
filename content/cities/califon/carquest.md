@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /califon/carquest/
-shop: Autoteile
+shop: car parts
 ---

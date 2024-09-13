@@ -1,5 +1,5 @@
 ---
 title: "Etched in Ink"
 url: /lake-hopatcong/etched-in-ink/
-shop: Tattoo
+shop: tattoo
 ---

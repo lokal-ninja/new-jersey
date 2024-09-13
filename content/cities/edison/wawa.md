@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /edison/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

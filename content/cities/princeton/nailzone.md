@@ -1,5 +1,5 @@
 ---
 title: "NailZone"
 url: /princeton/nailzone/
-shop: Kosmetik
+shop: beauty
 ---

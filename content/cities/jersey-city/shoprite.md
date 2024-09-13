@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /jersey-city/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jocy's Party Place"
 url: /bound-brook/jocys-party-place/
-shop: Partyzubehör
+shop: party
 ---

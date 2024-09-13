@@ -1,5 +1,5 @@
 ---
 title: "Bridges Book Center"
 url: /rahway/bridges-book-center/
-shop: Bücher
+shop: books
 ---

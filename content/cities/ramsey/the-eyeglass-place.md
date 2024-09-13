@@ -1,5 +1,5 @@
 ---
 title: "The Eyeglass Place"
 url: /ramsey/the-eyeglass-place/
-shop: Optiker
+shop: optician
 ---

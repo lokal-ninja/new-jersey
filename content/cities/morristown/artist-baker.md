@@ -1,5 +1,5 @@
 ---
 title: "Artist Baker"
 url: /morristown/artist-baker/
-shop: Bäckerei
+shop: bakery
 ---

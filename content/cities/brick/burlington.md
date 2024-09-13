@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /brick/burlington/
-shop: Warenhaus
+shop: department store
 ---

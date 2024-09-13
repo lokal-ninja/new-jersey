@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /paramus/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

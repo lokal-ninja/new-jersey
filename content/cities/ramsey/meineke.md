@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /ramsey/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

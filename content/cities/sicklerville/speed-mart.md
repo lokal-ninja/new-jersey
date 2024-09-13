@@ -1,5 +1,5 @@
 ---
 title: "Speed Mart"
 url: /sicklerville/speed-mart/
-shop: Lebensmittel
+shop: convenience
 ---

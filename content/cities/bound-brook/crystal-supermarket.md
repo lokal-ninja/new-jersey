@@ -1,5 +1,5 @@
 ---
 title: "Crystal Supermarket"
 url: /bound-brook/crystal-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

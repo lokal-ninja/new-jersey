@@ -1,5 +1,5 @@
 ---
 title: "Mio Barber Studio"
 url: /burlington-city/mio-barber-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ridgeline Motors"
 url: /ledgewood/ridgeline-motors/
-shop: Autohaus
+shop: car
 ---

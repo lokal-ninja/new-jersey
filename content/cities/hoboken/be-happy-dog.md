@@ -1,5 +1,5 @@
 ---
 title: "Be Happy Dog"
 url: /hoboken/be-happy-dog/
-shop: Tiersalon
+shop: pet grooming
 ---

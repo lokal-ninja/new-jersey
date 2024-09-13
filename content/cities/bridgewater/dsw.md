@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /bridgewater/dsw/
-shop: Schuhe
+shop: shoes
 ---

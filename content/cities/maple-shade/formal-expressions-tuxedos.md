@@ -1,5 +1,5 @@
 ---
 title: "Formal Expressions Tuxedos"
 url: /maple-shade/formal-expressions-tuxedos/
-shop: Kleidung
+shop: clothes
 ---

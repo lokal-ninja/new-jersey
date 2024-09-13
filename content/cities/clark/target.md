@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /clark/target/
-shop: Warenhaus
+shop: department store
 ---

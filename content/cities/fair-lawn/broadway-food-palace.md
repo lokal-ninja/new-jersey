@@ -1,5 +1,5 @@
 ---
 title: "Broadway Food Palace"
 url: /fair-lawn/broadway-food-palace/
-shop: Supermarkt
+shop: supermarket
 ---

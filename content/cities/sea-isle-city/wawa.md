@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /sea-isle-city/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

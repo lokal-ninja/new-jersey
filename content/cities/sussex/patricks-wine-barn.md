@@ -1,5 +1,5 @@
 ---
 title: "Patrick's Wine Barn"
 url: /sussex/patricks-wine-barn/
-shop: Wein
+shop: wine
 ---

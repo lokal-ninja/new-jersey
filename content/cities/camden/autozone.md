@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /camden/autozone/
-shop: Autoteile
+shop: car parts
 ---

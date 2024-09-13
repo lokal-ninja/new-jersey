@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /haledon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allendale Barber Shop"
 url: /allendale/allendale-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

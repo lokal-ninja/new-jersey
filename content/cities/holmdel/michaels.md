@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /holmdel/michaels/
-shop: Basteln
+shop: craft
 ---

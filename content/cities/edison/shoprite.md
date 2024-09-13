@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /edison/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

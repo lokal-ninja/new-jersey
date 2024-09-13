@@ -1,5 +1,5 @@
 ---
 title: "Dug's Rugs"
 url: /flanders/dugs-rugs/
-shop: Teppiche
+shop: carpet
 ---

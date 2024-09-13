@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /piscataway/petco/
-shop: Tiere
+shop: pet
 ---

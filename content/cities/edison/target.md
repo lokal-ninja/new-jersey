@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /edison/target/
-shop: Warenhaus
+shop: department store
 ---

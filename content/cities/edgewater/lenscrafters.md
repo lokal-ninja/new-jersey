@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /edgewater/lenscrafters/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amish Mike"
 url: /hackettstown/amish-mike/
-shop: Eisenwaren
+shop: hardware
 ---

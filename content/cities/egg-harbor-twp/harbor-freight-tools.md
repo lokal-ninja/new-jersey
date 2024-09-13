@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /egg-harbor-twp/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

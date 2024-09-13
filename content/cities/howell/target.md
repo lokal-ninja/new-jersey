@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /howell/target/
-shop: Warenhaus
+shop: department store
 ---

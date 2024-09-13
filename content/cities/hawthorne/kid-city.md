@@ -1,5 +1,5 @@
 ---
 title: "Kid City"
 url: /hawthorne/kid-city/
-shop: Kleidung
+shop: clothes
 ---

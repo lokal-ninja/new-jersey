@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /sea-girt/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hackettstown/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

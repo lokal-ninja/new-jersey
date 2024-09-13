@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /vauxhall/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piercing Pagoda"
 url: /wayne/piercing-pagoda-willowbrook-mall/
-shop: Piercing
+shop: piercing
 ---

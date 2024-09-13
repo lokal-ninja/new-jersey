@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /watchung/target/
-shop: Warenhaus
+shop: department store
 ---

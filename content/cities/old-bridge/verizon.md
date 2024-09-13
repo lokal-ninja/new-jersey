@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /old-bridge/verizon/
-shop: Handy
+shop: mobile phone
 ---

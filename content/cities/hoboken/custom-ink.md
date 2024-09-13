@@ -1,5 +1,5 @@
 ---
 title: "Custom Ink"
 url: /hoboken/custom-ink/
-shop: Kleidung
+shop: clothes
 ---

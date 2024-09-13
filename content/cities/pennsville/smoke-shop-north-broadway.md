@@ -1,5 +1,5 @@
 ---
 title: "Smoke Shop"
 url: /pennsville/smoke-shop-north-broadway/
-shop: Tabak
+shop: tobacco
 ---

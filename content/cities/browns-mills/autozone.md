@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /browns-mills/autozone/
-shop: Autoteile
+shop: car parts
 ---

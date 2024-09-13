@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /linden/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

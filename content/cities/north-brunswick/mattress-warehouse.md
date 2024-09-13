@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /north-brunswick/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

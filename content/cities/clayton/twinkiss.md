@@ -1,5 +1,5 @@
 ---
 title: "Twinkiss"
 url: /clayton/twinkiss/
-shop: Süßwaren
+shop: confectionery
 ---

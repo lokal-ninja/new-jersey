@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /princeton-junction/walgreens/
-shop: Drogerie
+shop: chemist
 ---

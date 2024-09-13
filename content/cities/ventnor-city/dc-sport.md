@@ -1,5 +1,5 @@
 ---
 title: "DC Sport"
 url: /ventnor-city/dc-sport/
-shop: Kleidung
+shop: clothes
 ---

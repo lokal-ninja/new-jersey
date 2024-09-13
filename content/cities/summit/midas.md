@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /summit/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

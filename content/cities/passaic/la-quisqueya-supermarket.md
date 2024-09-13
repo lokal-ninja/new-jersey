@@ -1,5 +1,5 @@
 ---
 title: "La Quisqueya Supermarket"
 url: /passaic/la-quisqueya-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

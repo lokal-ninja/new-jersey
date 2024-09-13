@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /marlton/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

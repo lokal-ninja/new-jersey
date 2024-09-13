@@ -1,5 +1,5 @@
 ---
 title: "Cotton On"
 url: /wayne/cotton-on/
-shop: Kleidung
+shop: clothes
 ---

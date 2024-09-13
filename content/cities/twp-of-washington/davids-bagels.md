@@ -1,5 +1,5 @@
 ---
 title: "David's Bagels"
 url: /twp-of-washington/davids-bagels/
-shop: Feinkost
+shop: deli
 ---

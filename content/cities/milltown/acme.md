@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /milltown/acme/
-shop: Supermarkt
+shop: supermarket
 ---

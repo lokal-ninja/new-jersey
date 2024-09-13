@@ -1,5 +1,5 @@
 ---
 title: "Pao Com Manteiga"
 url: /newark/pao-com-manteiga/
-shop: Bäckerei
+shop: bakery
 ---

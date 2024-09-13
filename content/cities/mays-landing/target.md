@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mays-landing/target/
-shop: Warenhaus
+shop: department store
 ---

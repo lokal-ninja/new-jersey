@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /closter/petco/
-shop: Tiere
+shop: pet
 ---

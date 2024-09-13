@@ -1,5 +1,5 @@
 ---
 title: "Elis Motors"
 url: /irvington/elis-motors/
-shop: Autohaus
+shop: car
 ---

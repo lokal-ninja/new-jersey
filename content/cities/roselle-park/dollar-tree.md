@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /roselle-park/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ramsey/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

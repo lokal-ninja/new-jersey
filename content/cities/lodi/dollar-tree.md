@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /lodi/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

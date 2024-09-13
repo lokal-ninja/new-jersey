@@ -1,5 +1,5 @@
 ---
 title: "Dairy Queen"
 url: /clark/dairy-queen/
-shop: Süßwaren
+shop: confectionery
 ---

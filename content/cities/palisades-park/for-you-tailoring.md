@@ -1,5 +1,5 @@
 ---
 title: "For You Tailoring"
 url: /palisades-park/for-you-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /livingston/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

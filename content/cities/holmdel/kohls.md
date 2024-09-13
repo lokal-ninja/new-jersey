@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /holmdel/kohls/
-shop: Warenhaus
+shop: department store
 ---

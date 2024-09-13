@@ -1,5 +1,5 @@
 ---
 title: "Las Rosas Bannnworth Funeral Home"
 url: /elizabeth/las-rosas-bannnworth-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

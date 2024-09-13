@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brick/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

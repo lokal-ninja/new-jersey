@@ -1,5 +1,5 @@
 ---
 title: "Cade Motor Company"
 url: /lawrence-township/cade-motor-company/
-shop: Autohaus
+shop: car
 ---

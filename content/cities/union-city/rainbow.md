@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /union-city/rainbow/
-shop: Kleidung
+shop: clothes
 ---

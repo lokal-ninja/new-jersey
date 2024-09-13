@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /somers-point/big-lots/
-shop: Warenhaus
+shop: department store
 ---

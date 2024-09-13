@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /manahawkin/target/
-shop: Warenhaus
+shop: department store
 ---

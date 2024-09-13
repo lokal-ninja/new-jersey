@@ -1,5 +1,5 @@
 ---
 title: "Sweet Eats Bakery"
 url: /voorhees/sweet-eats-bakery/
-shop: Bäckerei
+shop: bakery
 ---

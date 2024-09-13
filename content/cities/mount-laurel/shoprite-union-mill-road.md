@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /mount-laurel/shoprite-union-mill-road/
-shop: Supermarkt
+shop: supermarket
 ---

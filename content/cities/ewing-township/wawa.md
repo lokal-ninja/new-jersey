@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /ewing-township/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

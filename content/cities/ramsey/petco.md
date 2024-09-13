@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /ramsey/petco/
-shop: Tiere
+shop: pet
 ---

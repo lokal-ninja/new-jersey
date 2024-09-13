@@ -1,5 +1,5 @@
 ---
 title: "Crystal Clean Laundromat"
 url: /blairstown/crystal-clean-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

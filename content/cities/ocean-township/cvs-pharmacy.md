@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /ocean-township/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

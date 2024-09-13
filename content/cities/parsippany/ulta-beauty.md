@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /parsippany/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

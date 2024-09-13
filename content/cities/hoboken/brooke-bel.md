@@ -1,5 +1,5 @@
 ---
 title: "Brooke + Bel"
 url: /hoboken/brooke-bel/
-shop: Kleidung
+shop: clothes
 ---

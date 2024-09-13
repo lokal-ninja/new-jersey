@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bloomfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

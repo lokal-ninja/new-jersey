@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /flanders/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

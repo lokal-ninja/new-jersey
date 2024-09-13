@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pennsville/autozone/
-shop: Autoteile
+shop: car parts
 ---

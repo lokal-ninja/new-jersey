@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /edison/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

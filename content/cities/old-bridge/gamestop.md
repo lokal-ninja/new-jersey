@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /old-bridge/gamestop/
-shop: Videospiele
+shop: video games
 ---

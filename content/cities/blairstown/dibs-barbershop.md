@@ -1,5 +1,5 @@
 ---
 title: "DiB’s Barbershop"
 url: /blairstown/dibs-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HeavenLee Nail Spa"
 url: /hackettstown/heavenlee-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

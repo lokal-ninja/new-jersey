@@ -1,5 +1,5 @@
 ---
 title: "Michael's Deli and Groceries"
 url: /hopewell/michaels-deli-and-groceries/
-shop: Feinkost
+shop: deli
 ---

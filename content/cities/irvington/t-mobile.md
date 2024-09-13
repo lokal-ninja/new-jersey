@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /irvington/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

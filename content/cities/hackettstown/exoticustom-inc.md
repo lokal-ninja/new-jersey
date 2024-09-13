@@ -1,5 +1,5 @@
 ---
 title: "Exoticustom Inc"
 url: /hackettstown/exoticustom-inc/
-shop: Autoteile
+shop: car parts
 ---

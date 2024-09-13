@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /berlin/mattress-firm/
-shop: Betten
+shop: bed
 ---

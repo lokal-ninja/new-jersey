@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hackettstown/autozone/
-shop: Autoteile
+shop: car parts
 ---

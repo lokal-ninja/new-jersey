@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /mount-laurel-township/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

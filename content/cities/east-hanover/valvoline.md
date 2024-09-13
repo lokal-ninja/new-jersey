@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /east-hanover/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

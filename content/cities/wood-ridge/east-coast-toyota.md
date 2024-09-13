@@ -1,5 +1,5 @@
 ---
 title: "East Coast Toyota"
 url: /wood-ridge/east-coast-toyota/
-shop: Autohaus
+shop: car
 ---

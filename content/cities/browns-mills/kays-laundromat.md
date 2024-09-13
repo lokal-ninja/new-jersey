@@ -1,5 +1,5 @@
 ---
 title: "Kay's Laundromat"
 url: /browns-mills/kays-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Nails"
 url: /rahway/family-nails/
-shop: Kosmetik
+shop: beauty
 ---

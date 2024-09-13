@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /newark/dollar-general-2/
-shop: Kramladen
+shop: variety store
 ---

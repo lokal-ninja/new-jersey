@@ -1,5 +1,5 @@
 ---
 title: "Ascend Cannabis"
 url: /fort-lee/ascend-cannabis/
-shop: Hanf
+shop: cannabis
 ---

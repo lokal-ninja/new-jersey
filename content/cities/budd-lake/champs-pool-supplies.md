@@ -1,5 +1,5 @@
 ---
 title: "Champ's Pool Supplies"
 url: /budd-lake/champs-pool-supplies/
-shop: Pool
+shop: swimming pool
 ---

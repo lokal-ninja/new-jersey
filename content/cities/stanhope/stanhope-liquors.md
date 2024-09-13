@@ -1,5 +1,5 @@
 ---
 title: "Stanhope Liquors"
 url: /stanhope/stanhope-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

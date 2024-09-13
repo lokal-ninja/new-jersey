@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /lacey-township/mavis-discount-tire/
-shop: Reifen
+shop: tyres
 ---

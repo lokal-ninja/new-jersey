@@ -1,5 +1,5 @@
 ---
 title: "Ashcraft Funeral Home"
 url: /pennsville/ashcraft-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

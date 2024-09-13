@@ -1,5 +1,5 @@
 ---
 title: "Carlos Auto Electric"
 url: /newark/carlos-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

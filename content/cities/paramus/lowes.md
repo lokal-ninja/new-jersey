@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /paramus/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

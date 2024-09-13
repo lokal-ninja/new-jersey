@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /ventnor-city/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gala Florist"
 url: /lake-hopatcong/gala-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /edgewater/michaels/
-shop: Basteln
+shop: craft
 ---

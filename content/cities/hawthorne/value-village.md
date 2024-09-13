@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /hawthorne/value-village/
-shop: Gebrauchtwaren
+shop: charity
 ---

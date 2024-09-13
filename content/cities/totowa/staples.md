@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /totowa/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

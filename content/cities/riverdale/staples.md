@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /riverdale/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

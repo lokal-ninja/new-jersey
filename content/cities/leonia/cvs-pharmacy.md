@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /leonia/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

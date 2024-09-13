@@ -1,5 +1,5 @@
 ---
 title: "SpaOne"
 url: /clifton/spaone/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /union/costco/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dry Goods Vintage"
 url: /lambertville/dry-goods-vintage/
-shop: Kleidung
+shop: clothes
 ---

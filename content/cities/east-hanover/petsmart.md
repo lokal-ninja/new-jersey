@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /east-hanover/petsmart/
-shop: Tiere
+shop: pet
 ---

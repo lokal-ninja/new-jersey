@@ -1,5 +1,5 @@
 ---
 title: "Manor Beverages"
 url: /leonia/manor-beverages/
-shop: Spirituosen
+shop: alcohol
 ---

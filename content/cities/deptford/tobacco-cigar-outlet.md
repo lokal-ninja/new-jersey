@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Cigar Outlet"
 url: /deptford/tobacco-cigar-outlet/
-shop: Lebensmittel
+shop: convenience
 ---

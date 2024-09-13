@@ -1,5 +1,5 @@
 ---
 title: "Mercat"
 url: /edgewater/mercat/
-shop: Kleidung
+shop: clothes
 ---

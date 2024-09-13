@@ -1,5 +1,5 @@
 ---
 title: "Transmaster"
 url: /old-bridge/transmaster/
-shop: Autowerkstatt
+shop: car repair
 ---

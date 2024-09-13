@@ -1,5 +1,5 @@
 ---
 title: "Dollar Junction"
 url: /bloomfield/dollar-junction/
-shop: Dorfladen
+shop: general
 ---

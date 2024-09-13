@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /bayonne/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

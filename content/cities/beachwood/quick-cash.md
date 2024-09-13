@@ -1,5 +1,5 @@
 ---
 title: "Quick Cash"
 url: /beachwood/quick-cash/
-shop: Leiher
+shop: pawnbroker
 ---

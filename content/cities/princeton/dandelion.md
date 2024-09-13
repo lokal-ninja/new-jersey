@@ -1,5 +1,5 @@
 ---
 title: "Dandelion"
 url: /princeton/dandelion/
-shop: Schmuck
+shop: jewelry
 ---

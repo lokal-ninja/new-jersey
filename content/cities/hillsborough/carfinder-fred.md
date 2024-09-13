@@ -1,5 +1,5 @@
 ---
 title: "CarFinder Fred"
 url: /hillsborough/carfinder-fred/
-shop: Autohaus
+shop: car
 ---

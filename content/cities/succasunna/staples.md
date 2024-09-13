@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /succasunna/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Dulces"
 url: /palmyra/los-dulces/
-shop: Süßwaren
+shop: confectionery
 ---

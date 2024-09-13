@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /deptford/dsw/
-shop: Schuhe
+shop: shoes
 ---

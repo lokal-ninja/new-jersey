@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /north-plainfield/petco/
-shop: Tiere
+shop: pet
 ---

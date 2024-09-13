@@ -1,5 +1,5 @@
 ---
 title: "Magnit Bazaar"
 url: /fair-lawn/magnit-bazaar/
-shop: Dorfladen
+shop: general
 ---

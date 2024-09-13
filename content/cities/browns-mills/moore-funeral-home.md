@@ -1,5 +1,5 @@
 ---
 title: "Moore Funeral Home"
 url: /browns-mills/moore-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

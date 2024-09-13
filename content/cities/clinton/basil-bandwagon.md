@@ -1,5 +1,5 @@
 ---
 title: "Basil Bandwagon"
 url: /clinton/basil-bandwagon/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /piscataway/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

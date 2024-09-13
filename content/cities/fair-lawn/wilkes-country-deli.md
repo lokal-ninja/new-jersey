@@ -1,5 +1,5 @@
 ---
 title: "Wilkes Country Deli"
 url: /fair-lawn/wilkes-country-deli/
-shop: Feinkost
+shop: deli
 ---

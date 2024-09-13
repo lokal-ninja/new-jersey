@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /edgewater/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

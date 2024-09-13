@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wayne/gamestop-willowbrook-mall/
-shop: Videospiele
+shop: video games
 ---

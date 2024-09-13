@@ -1,5 +1,5 @@
 ---
 title: "Solo Motors"
 url: /hackettstown/solo-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calico Corners Calico Home"
 url: /short-hills/calico-corners-calico-home/
-shop: Textil
+shop: fabric
 ---

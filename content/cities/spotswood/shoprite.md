@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /spotswood/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

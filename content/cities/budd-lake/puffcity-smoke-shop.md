@@ -1,5 +1,5 @@
 ---
 title: "PuffCity Smoke Shop"
 url: /budd-lake/puffcity-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

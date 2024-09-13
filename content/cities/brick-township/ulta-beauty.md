@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /brick-township/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---
