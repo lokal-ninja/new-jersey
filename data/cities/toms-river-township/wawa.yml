@@ -1,11 +1,11 @@
 id: 1104685627
-type: way
+type: node
 latitude: 39.99453
 longitude: -74.06382
 postcode: "08735"
 city: Toms River Township
-street: "State Highway 35"
-housenumber: 3485
+street: State Highway 35
+housenumber: "3485"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

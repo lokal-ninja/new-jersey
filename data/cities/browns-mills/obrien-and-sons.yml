@@ -1,11 +1,11 @@
 id: 1291122355
-type: way
+type: node
 latitude: 39.97089
 longitude: -74.58724
 postcode: "08015"
 city: Browns Mills
-street: "Pembrown Road"
-housenumber: 63
+street: Pembrown Road
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

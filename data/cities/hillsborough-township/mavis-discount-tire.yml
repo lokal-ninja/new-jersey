@@ -1,11 +1,11 @@
 id: 175131130
-type: way
+type: node
 latitude: 40.5016
 longitude: -74.64785
 postcode: "08844"
 city: Hillsborough Township
-street: "Amwell Road"
-housenumber: 431
+street: Amwell Road
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

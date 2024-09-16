@@ -1,11 +1,11 @@
 id: 459758525
-type: way
+type: node
 latitude: 40.81393
 longitude: -74.01412
 postcode: "07047"
 city: North Bergen
-street: "88th Street"
-housenumber: 2100
-phone: "+1 201-758-2810"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3795/north-bergen-nj/whats-new"
+street: 88th Street
+housenumber: "2100"
+phone: +1 201-758-2810
+opening_hours: 24/7
+website: https://www.walmart.com/store/3795/north-bergen-nj/whats-new

@@ -1,11 +1,11 @@
 id: 640129523
-type: way
+type: node
 latitude: 40.82103
 longitude: -74.44921
 postcode: "07927"
 city: Cedar Knolls
-street: "Ridgedale Avenue"
-housenumber: 99
-phone: "+1 973-267-0350"
+street: Ridgedale Avenue
+housenumber: "99"
+phone: +1 973-267-0350
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/cedar-knolls/99-ridgedale-ave-39300"
+website: https://www.7-eleven.com/locations/nj/cedar-knolls/99-ridgedale-ave-39300

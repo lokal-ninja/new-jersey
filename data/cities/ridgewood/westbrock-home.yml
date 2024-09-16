@@ -1,11 +1,11 @@
 id: 332771274
-type: way
+type: node
 latitude: 40.98191
 longitude: -74.14184
 postcode: ""
 city: Ridgewood
-street: "Goffle Road"
-housenumber: 225
-phone: "201-445-0807"
+street: Goffle Road
+housenumber: "225"
+phone: 201-445-0807
 opening_hours: ""
-website: "https://wostbrockhome.com/contact/"
+website: https://wostbrockhome.com/contact/

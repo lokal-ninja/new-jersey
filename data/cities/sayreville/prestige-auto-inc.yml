@@ -1,11 +1,11 @@
 id: 952473698
-type: way
+type: node
 latitude: 40.45624
 longitude: -74.3626
 postcode: "08872"
 city: Sayreville
-street: "Washington Road"
-housenumber: 118
-phone: "+1-732-254-9745"
+street: Washington Road
+housenumber: "118"
+phone: +1-732-254-9745
 opening_hours: ""
-website: "https://www.prestigeautonj.com/"
+website: https://www.prestigeautonj.com/

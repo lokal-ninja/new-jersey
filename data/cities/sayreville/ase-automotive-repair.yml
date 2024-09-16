@@ -1,11 +1,11 @@
 id: 890864603
-type: way
+type: node
 latitude: 40.47085
 longitude: -74.35594
 postcode: "08872"
 city: Sayreville
-street: "Main Street"
-housenumber: 350
-phone: "732-416-8113"
+street: Main Street
+housenumber: "350"
+phone: 732-416-8113
 opening_hours: ""
 website: ""

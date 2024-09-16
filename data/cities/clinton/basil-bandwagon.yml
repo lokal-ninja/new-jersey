@@ -1,11 +1,11 @@
 id: 1185824566
-type: way
+type: node
 latitude: 40.6376
 longitude: -74.90586
 postcode: "08809"
 city: Clinton
-street: "Old Highway 22"
-housenumber: 38
-phone: "+1-908-735-3822"
+street: Old Highway 22
+housenumber: "38"
+phone: +1-908-735-3822
 opening_hours: ""
-website: "https://www.basilbandwagon.com/"
+website: https://www.basilbandwagon.com/

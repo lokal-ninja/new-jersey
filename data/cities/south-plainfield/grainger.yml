@@ -1,11 +1,11 @@
 id: 252075792
-type: way
+type: node
 latitude: 40.55195
 longitude: -74.42219
 postcode: "07080"
 city: South Plainfield
-street: "Hadley Road"
-housenumber: 1001
+street: Hadley Road
+housenumber: "1001"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.grainger.com/branch/South-Plainfield-Branch-523"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.grainger.com/branch/South-Plainfield-Branch-523

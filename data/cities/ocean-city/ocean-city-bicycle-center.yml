@@ -1,11 +1,11 @@
 id: 508522245
-type: way
+type: node
 latitude: 39.27782
 longitude: -74.57187
 postcode: "08226"
 city: Ocean City
 street: ""
-housenumber: 
-phone: "+1 609-399-5550"
-opening_hours: "Mo-Th 07:00-15:00; Fr-Su 07:00-17:00"
-website: "https://oceancitybicyclecenter.com/"
+housenumber: ""
+phone: +1 609-399-5550
+opening_hours: Mo-Th 07:00-15:00; Fr-Su 07:00-17:00
+website: https://oceancitybicyclecenter.com/

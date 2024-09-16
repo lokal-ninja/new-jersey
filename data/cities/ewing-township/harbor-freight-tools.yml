@@ -1,11 +1,11 @@
 id: 1205936684
-type: way
+type: node
 latitude: 40.24256
 longitude: -74.75243
 postcode: "08618"
 city: Ewing Township
-street: "North Olden Avenue"
-housenumber: 1550
-phone: "+1 609-392-0764"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1550-north-olden-ave-ewing-08638?number=281"
+street: North Olden Avenue
+housenumber: "1550"
+phone: +1 609-392-0764
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1550-north-olden-ave-ewing-08638?number=281

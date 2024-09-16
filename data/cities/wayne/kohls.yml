@@ -1,11 +1,11 @@
 id: 239369246
-type: way
+type: node
 latitude: 40.94483
 longitude: -74.27085
 postcode: "07470"
 city: Wayne
-street: "NJ-23"
-housenumber: 1800
-phone: "+1 973-696-6514"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/nj/wayne-543.shtml"
+street: NJ-23
+housenumber: "1800"
+phone: +1 973-696-6514
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/nj/wayne-543.shtml

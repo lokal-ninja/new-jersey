@@ -1,11 +1,11 @@
 id: 364692303
-type: way
+type: node
 latitude: 39.0781
 longitude: -74.8254
 postcode: "08210"
 city: Atlan
-street: "South Main Street"
-housenumber: 224
-phone: "+1 609-465-1461"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/492"
+street: South Main Street
+housenumber: "224"
+phone: +1 609-465-1461
+opening_hours: 24/7
+website: https://www.wawa.com/locations/492

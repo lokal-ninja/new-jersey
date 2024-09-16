@@ -1,11 +1,11 @@
 id: 489568326
-type: way
+type: node
 latitude: 40.1999
 longitude: -74.74307
 postcode: "08611"
 city: Trenton
-street: "Lalor Street"
-housenumber: 830
+street: Lalor Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

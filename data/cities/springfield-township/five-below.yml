@@ -4,8 +4,8 @@ latitude: 40.68451
 longitude: -74.32527
 postcode: "07081"
 city: Springfield Township
-street: "US 22"
-housenumber: 295
+street: US 22
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/nj/springfield-township/295-us-22"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/nj/springfield-township/295-us-22

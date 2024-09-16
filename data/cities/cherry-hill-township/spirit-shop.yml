@@ -1,11 +1,11 @@
 id: 460874011
-type: way
+type: node
 latitude: 39.89634
 longitude: -74.94955
 postcode: "08003"
 city: Cherry Hill Township
-street: "State Route 70"
-housenumber: 2077
+street: State Route 70
+housenumber: "2077"
 phone: ""
 opening_hours: ""
 website: ""

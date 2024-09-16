@@ -1,11 +1,11 @@
 id: 489560993
-type: way
+type: node
 latitude: 40.20782
 longitude: -74.75101
 postcode: "08611"
 city: Trenton
-street: "South Broad Street"
-housenumber: 818
+street: South Broad Street
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

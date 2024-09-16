@@ -1,11 +1,11 @@
 id: 975871493
-type: way
+type: node
 latitude: 40.91368
 longitude: -74.2666
 postcode: "07470"
 city: Wayne
-street: "Greenwood Avenue"
-housenumber: 58
+street: Greenwood Avenue
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

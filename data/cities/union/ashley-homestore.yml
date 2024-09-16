@@ -1,11 +1,11 @@
 id: 623437915
-type: way
+type: node
 latitude: 40.69521
 longitude: -74.25497
 postcode: "07083"
 city: Union
-street: "Morris Avenue"
-housenumber: 1701
-phone: "+1 732-548-1200"
+street: Morris Avenue
+housenumber: "1701"
+phone: +1 732-548-1200
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/new-jersey/union/9000845086/"
+website: https://stores.ashleyfurniture.com/store/us/new-jersey/union/9000845086/

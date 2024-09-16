@@ -1,11 +1,11 @@
 id: 693395484
-type: way
+type: node
 latitude: 40.78086
 longitude: -74.23521
 postcode: "07052"
 city: West Orange
-street: "Park Avenue"
-housenumber: 25
+street: Park Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

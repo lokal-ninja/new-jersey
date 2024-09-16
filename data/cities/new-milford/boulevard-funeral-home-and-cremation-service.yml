@@ -1,11 +1,11 @@
 id: 1289214497
-type: way
+type: node
 latitude: 40.91648
 longitude: -74.0252
 postcode: "07646"
 city: New Milford
-street: "River Road"
-housenumber: 1131
+street: River Road
+housenumber: "1131"
 phone: ""
 opening_hours: ""
 website: ""

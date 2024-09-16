@@ -1,11 +1,11 @@
 id: 888721373
-type: way
+type: node
 latitude: 40.46961
 longitude: -74.34875
 postcode: "08872"
 city: Sayreville
-street: "Pulaski Avenue"
-housenumber: 176
-phone: "732-698-0076"
+street: Pulaski Avenue
+housenumber: "176"
+phone: 732-698-0076
 opening_hours: ""
 website: ""

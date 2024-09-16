@@ -1,11 +1,11 @@
 id: 285601956
-type: way
+type: node
 latitude: 40.68607
 longitude: -74.31695
 postcode: "07081"
 city: Springfield
-street: "US 22"
-housenumber: 135
+street: US 22
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

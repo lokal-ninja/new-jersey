@@ -4,8 +4,8 @@ latitude: 40.89035
 longitude: -74.25063
 postcode: "07470"
 city: Wayne
-street: "NJ-23"
-housenumber: 57
-phone: "+1 973-785-4479"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nj/wayne-store1178.html"
+street: NJ-23
+housenumber: "57"
+phone: +1 973-785-4479
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nj/wayne-store1178.html

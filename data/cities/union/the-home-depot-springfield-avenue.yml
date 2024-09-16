@@ -1,11 +1,11 @@
 id: 480283163
-type: way
+type: node
 latitude: 40.71549
 longitude: -74.29155
 postcode: "07088"
 city: Union
-street: "Springfield Avenue"
-housenumber: 2445
-phone: "+1 908-687-7907"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Union-Rt-22/NJ/Union/07083/954"
+street: Springfield Avenue
+housenumber: "2445"
+phone: +1 908-687-7907
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Union-Rt-22/NJ/Union/07083/954

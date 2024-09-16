@@ -4,8 +4,8 @@ latitude: 40.45659
 longitude: -74.3968
 postcode: "08816"
 city: East Brunswick
-street: "NJ 18 North"
-housenumber: 300
-phone: "732-238-2022"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-20:00"
-website: "https://www.finewineseb.com/"
+street: NJ 18 North
+housenumber: "300"
+phone: 732-238-2022
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-20:00
+website: https://www.finewineseb.com/

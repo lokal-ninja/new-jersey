@@ -1,11 +1,11 @@
 id: 1017844842
-type: way
+type: node
 latitude: 40.1192
 longitude: -74.80518
 postcode: "08518"
 city: Florence
-street: "Broad Street"
-housenumber: 480
+street: Broad Street
+housenumber: "480"
 phone: "6094997415"
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

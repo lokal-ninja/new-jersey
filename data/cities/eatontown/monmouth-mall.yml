@@ -1,11 +1,12 @@
 id: 260004869
-type: way
+type: node
 latitude: 40.28818
 longitude: -74.05422
 postcode: "07724"
 city: Eatontown
-street: "Kings Highway"
-housenumber: 108
+street: Kings Highway
+housenumber: "108"
 phone: ""
-opening_hours: "24/7 off Interior permanently closed; only outside-facing stores remain open."
-website: "https://monmouthmallonline.com"
+opening_hours: 24/7 off "Interior permanently closed; only outside-facing stores remain
+    open."
+website: https://monmouthmallonline.com

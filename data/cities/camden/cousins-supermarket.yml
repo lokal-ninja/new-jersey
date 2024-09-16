@@ -1,11 +1,11 @@
 id: 265653850
-type: way
+type: node
 latitude: 39.94384
 longitude: -75.08862
 postcode: "08105"
 city: Camden
-street: "Marlton Pike"
-housenumber: 200
+street: Marlton Pike
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://cousinssupermarket.com/"
+website: https://cousinssupermarket.com/

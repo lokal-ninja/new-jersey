@@ -1,11 +1,11 @@
 id: 1280096794
-type: way
+type: node
 latitude: 40.80979
 longitude: -74.26034
 postcode: "07052"
 city: West Orange
-street: "Pleasant Valley Way"
-housenumber: 468
+street: Pleasant Valley Way
+housenumber: "468"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 705652624
-type: way
+type: node
 latitude: 40.56635
 longitude: -74.27281
 postcode: "07095"
 city: Woodbridge
-street: "Rahway Avenue"
-housenumber: 737
+street: Rahway Avenue
+housenumber: "737"
 phone: ""
 opening_hours: ""
 website: ""

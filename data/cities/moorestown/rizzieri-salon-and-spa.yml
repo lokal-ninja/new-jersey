@@ -4,8 +4,8 @@ latitude: 39.94419
 longitude: -74.96137
 postcode: "08057"
 city: Moorestown
-street: "NJ-38"
-housenumber: 400
-phone: "+1-856-985-1225"
-opening_hours: "Mo 12:00-20:00; Tu-Fr 08:00-20:00; Sa 08:00-16:00; Su 09:00-16:00"
-website: "https://www.rizzieri.com/"
+street: NJ-38
+housenumber: "400"
+phone: +1-856-985-1225
+opening_hours: Mo 12:00-20:00; Tu-Fr 08:00-20:00; Sa 08:00-16:00; Su 09:00-16:00
+website: https://www.rizzieri.com/

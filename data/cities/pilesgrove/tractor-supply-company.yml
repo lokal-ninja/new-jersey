@@ -1,11 +1,11 @@
 id: 659279472
-type: way
+type: node
 latitude: 39.64377
 longitude: -75.33914
 postcode: "08098"
 city: Pilesgrove
-street: "Route 45"
-housenumber: 862
-phone: "+1 856-769-7284"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Pilesgrove-NJ-08098_780"
+street: Route 45
+housenumber: "862"
+phone: +1 856-769-7284
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Pilesgrove-NJ-08098_780

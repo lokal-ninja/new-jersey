@@ -1,11 +1,11 @@
 id: 548236708
-type: way
+type: node
 latitude: 40.71478
 longitude: -74.31882
 postcode: "07081"
 city: Springfield
-street: "Morris Avenue"
-housenumber: 436
+street: Morris Avenue
+housenumber: "436"
 phone: ""
 opening_hours: ""
 website: ""

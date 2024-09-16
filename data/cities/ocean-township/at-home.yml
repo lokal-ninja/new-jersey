@@ -1,11 +1,11 @@
 id: 626055212
-type: way
+type: node
 latitude: 40.23181
 longitude: -74.0432
 postcode: "07712"
 city: Ocean Township
-street: "Asbury Avenue"
-housenumber: 2341
-phone: "+1-732-481-8891"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.athome.com/store-detail/?StoreID=New%20Jersey-Ocean%20Township"
+street: Asbury Avenue
+housenumber: "2341"
+phone: +1-732-481-8891
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.athome.com/store-detail/?StoreID=New%20Jersey-Ocean%20Township

@@ -1,11 +1,11 @@
 id: 737096844
-type: way
+type: node
 latitude: 40.998
 longitude: -74.30453
 postcode: "07457"
 city: Riverdale
-street: "Paterson-Hamburg Turnpike"
-housenumber: 73
+street: Paterson-Hamburg Turnpike
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

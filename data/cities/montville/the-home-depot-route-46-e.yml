@@ -1,11 +1,11 @@
 id: 426931954
-type: way
+type: node
 latitude: 40.86069
 longitude: -74.32193
 postcode: "07045"
 city: Montville
-street: "Route 46 E"
-housenumber: 79
+street: Route 46 E
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

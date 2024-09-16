@@ -1,11 +1,11 @@
 id: 37655662
-type: way
+type: node
 latitude: 39.71875
 longitude: -75.1099
 postcode: "08028"
 city: Glassboro
-street: "Dalton Drive"
-housenumber: 201
-phone: "+1 856-863-3700"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/554"
+street: Dalton Drive
+housenumber: "201"
+phone: +1 856-863-3700
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/554

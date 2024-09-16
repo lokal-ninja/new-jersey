@@ -1,11 +1,11 @@
 id: 244862993
-type: way
+type: node
 latitude: 40.99344
 longitude: -74.28105
 postcode: ""
 city: Pompton Lakes
-street: "Paterson-Hamburg Turnpike"
-housenumber: 745
+street: Paterson-Hamburg Turnpike
+housenumber: "745"
 phone: ""
 opening_hours: ""
 website: ""

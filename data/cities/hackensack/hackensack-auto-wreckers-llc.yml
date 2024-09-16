@@ -4,8 +4,8 @@ latitude: 40.89158
 longitude: -74.04984
 postcode: "07601"
 city: Hackensack
-street: "2nd Street"
-housenumber: 308
-phone: "+1-201-342-0116"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://hackensackautowreckers.com"
+street: 2nd Street
+housenumber: "308"
+phone: +1-201-342-0116
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://hackensackautowreckers.com

@@ -1,11 +1,11 @@
 id: 793936625
-type: way
+type: node
 latitude: 40.88824
 longitude: -74.55564
 postcode: "07801"
 city: Dover
-street: "E. McFarlan Street"
-housenumber: 65
+street: E. McFarlan Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

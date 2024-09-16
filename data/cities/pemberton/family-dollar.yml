@@ -1,11 +1,11 @@
 id: 422183609
-type: way
+type: node
 latitude: 39.97989
 longitude: -74.68024
 postcode: "08068"
 city: Pemberton
-street: "Fort Dix Road"
-housenumber: 25
-phone: "(609) 997-0409"
+street: Fort Dix Road
+housenumber: "25"
+phone: (609) 997-0409
 opening_hours: ""
-website: "https://familydollar.com/"
+website: https://familydollar.com/

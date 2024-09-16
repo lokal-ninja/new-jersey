@@ -1,11 +1,11 @@
 id: 847367458
-type: way
+type: node
 latitude: 40.8499
 longitude: -74.82419
 postcode: "07840"
 city: Hackettstown
-street: "Willow Grove Street"
-housenumber: 111
-phone: "+1-908-979-4990"
+street: Willow Grove Street
+housenumber: "111"
+phone: +1-908-979-4990
 opening_hours: ""
 website: ""

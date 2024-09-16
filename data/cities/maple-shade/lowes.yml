@@ -1,11 +1,11 @@
 id: 452713338
-type: way
+type: node
 latitude: 39.94035
 longitude: -74.97341
 postcode: "08052"
 city: Maple Shade
-street: "NJ-73"
-housenumber: 2834
-phone: "+1 856-727-0990"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nj-maple-shade/1637"
+street: NJ-73
+housenumber: "2834"
+phone: +1 856-727-0990
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nj-maple-shade/1637

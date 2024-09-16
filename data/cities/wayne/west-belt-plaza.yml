@@ -1,11 +1,11 @@
 id: 58569773
-type: way
+type: node
 latitude: 40.89078
 longitude: -74.25056
 postcode: "07470"
 city: Wayne
-street: "West Belt Plaza"
-housenumber: 22
+street: West Belt Plaza
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 457098927
-type: way
+type: node
 latitude: 40.5547
 longitude: -74.27689
 postcode: "07095"
 city: Woodbridge
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

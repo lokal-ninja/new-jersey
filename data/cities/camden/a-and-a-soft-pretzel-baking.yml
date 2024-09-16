@@ -1,11 +1,11 @@
 id: 265500681
-type: way
+type: node
 latitude: 39.96175
 longitude: -75.08782
 postcode: "08105"
 city: Camden
-street: "North 32nd Street"
-housenumber: 1100
+street: North 32nd Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

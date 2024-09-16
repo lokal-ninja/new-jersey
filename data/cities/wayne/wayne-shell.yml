@@ -1,11 +1,11 @@
 id: 272115502
-type: way
+type: node
 latitude: 40.92655
 longitude: -74.24579
 postcode: "07470"
 city: Wayne
-street: "Alps Road"
-housenumber: 558
+street: Alps Road
+housenumber: "558"
 phone: ""
 opening_hours: ""
 website: ""

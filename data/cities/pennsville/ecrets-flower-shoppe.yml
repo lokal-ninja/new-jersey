@@ -1,11 +1,11 @@
 id: 746785781
-type: way
+type: node
 latitude: 39.64002
 longitude: -75.5167
 postcode: "08070"
 city: Pennsville
-street: "South Broadway"
-housenumber: 287
+street: South Broadway
+housenumber: "287"
 phone: ""
-opening_hours: "Mo-Fr 10:30-17:30; Sa 8:00-14:00"
+opening_hours: Mo-Fr 10:30-17:30; Sa 8:00-14:00
 website: ""

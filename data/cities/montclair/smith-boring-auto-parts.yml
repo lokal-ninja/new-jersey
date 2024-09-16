@@ -1,11 +1,11 @@
 id: 290695631
-type: way
+type: node
 latitude: 40.81013
 longitude: -74.21393
 postcode: "07042"
 city: Montclair
-street: "Elm Street"
-housenumber: 10
+street: Elm Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

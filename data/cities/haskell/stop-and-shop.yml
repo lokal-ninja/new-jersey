@@ -1,11 +1,11 @@
 id: 229362005
-type: way
+type: node
 latitude: 41.01897
 longitude: -74.29897
 postcode: "07420"
 city: Haskell
-street: "Union Avenue"
-housenumber: 4
+street: Union Avenue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

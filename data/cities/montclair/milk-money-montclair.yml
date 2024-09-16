@@ -1,11 +1,11 @@
 id: 491624253
-type: way
+type: node
 latitude: 40.81477
 longitude: -74.22138
 postcode: "07042"
 city: Montclair
-street: "Church Street"
-housenumber: 76
+street: Church Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

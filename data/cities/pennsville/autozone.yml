@@ -1,11 +1,11 @@
 id: 745482226
-type: way
+type: node
 latitude: 39.64374
 longitude: -75.51859
 postcode: "08070"
 city: Pennsville
-street: "South Broadway"
-housenumber: 235
+street: South Broadway
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nj/pennsville/235-s-broadway.html"
+website: https://www.autozone.com/locations/nj/pennsville/235-s-broadway.html

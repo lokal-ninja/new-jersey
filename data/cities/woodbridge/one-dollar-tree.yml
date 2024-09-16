@@ -1,11 +1,11 @@
 id: 96660063
-type: way
+type: node
 latitude: 40.53475
 longitude: -74.29479
 postcode: "07095"
 city: Woodbridge
-street: "U.S. 9"
-housenumber: 306
+street: U.S. 9
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

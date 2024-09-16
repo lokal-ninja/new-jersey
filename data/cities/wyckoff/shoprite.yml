@@ -1,11 +1,11 @@
 id: 731905565
-type: way
+type: node
 latitude: 41.01303
 longitude: -74.1697
 postcode: "07481"
 city: Wyckoff
-street: "Greenwood Avenue"
-housenumber: 430
-phone: "+1 201-560-0490"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/140"
+street: Greenwood Avenue
+housenumber: "430"
+phone: +1 201-560-0490
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/140

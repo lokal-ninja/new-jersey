@@ -1,11 +1,11 @@
 id: 27110667
-type: way
+type: node
 latitude: 40.72725
 longitude: -74.0376
 postcode: "07310"
 city: Jersey City
-street: "Mall Drive East"
-housenumber: 40
-phone: "+1 201-656-5420"
-opening_hours: "Mo-Th 11:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.kohls.com/stores/nj/jerseycity-1045.shtml"
+street: Mall Drive East
+housenumber: "40"
+phone: +1 201-656-5420
+opening_hours: Mo-Th 11:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.kohls.com/stores/nj/jerseycity-1045.shtml

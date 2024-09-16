@@ -1,11 +1,11 @@
 id: 256590420
-type: way
+type: node
 latitude: 40.84433
 longitude: -74.46731
 postcode: "07950"
 city: Morris Plains
-street: "State Route 10"
-housenumber: 1711
-phone: "+1 973-829-0197"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/nj/morrisplains-383.shtml"
+street: State Route 10
+housenumber: "1711"
+phone: +1 973-829-0197
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/nj/morrisplains-383.shtml

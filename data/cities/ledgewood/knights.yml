@@ -1,11 +1,11 @@
 id: 1281843455
-type: way
+type: node
 latitude: 40.87459
 longitude: -74.64601
 postcode: "07852"
 city: Ledgewood
-street: "Main Street"
-housenumber: 171
+street: Main Street
+housenumber: "171"
 phone: ""
 opening_hours: ""
-website: "https://www.knightsautorepair.com/"
+website: https://www.knightsautorepair.com/

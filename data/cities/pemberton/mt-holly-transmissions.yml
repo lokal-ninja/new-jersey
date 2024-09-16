@@ -1,11 +1,11 @@
 id: 421647393
-type: way
+type: node
 latitude: 39.98339
 longitude: -74.67788
 postcode: "08068"
 city: Pemberton
-street: "Fort Dix Road"
-housenumber: 105
-phone: "(609) 894-4609"
+street: Fort Dix Road
+housenumber: "105"
+phone: (609) 894-4609
 opening_hours: ""
 website: ""

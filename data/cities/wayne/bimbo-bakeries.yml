@@ -1,11 +1,11 @@
 id: 274177242
-type: way
+type: node
 latitude: 40.91065
 longitude: -74.24283
 postcode: "07470"
 city: Wayne
-street: "Riverview Drive"
-housenumber: 100
+street: Riverview Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

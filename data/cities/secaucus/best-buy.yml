@@ -1,11 +1,11 @@
 id: 1182340094
-type: way
+type: node
 latitude: 40.79194
 longitude: -74.05154
 postcode: "07094"
 city: Secaucus
-street: "Mill Creek Drive"
-housenumber: 3
-phone: "+1 201-325-2277"
+street: Mill Creek Drive
+housenumber: "3"
+phone: +1 201-325-2277
 opening_hours: ""
-website: "https://stores.bestbuy.com/nj/secaucus/3-mill-creek-dr-474.html"
+website: https://stores.bestbuy.com/nj/secaucus/3-mill-creek-dr-474.html

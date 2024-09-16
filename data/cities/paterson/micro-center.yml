@@ -1,11 +1,11 @@
 id: 1239128350
-type: way
+type: node
 latitude: 40.90712
 longitude: -74.13364
 postcode: "07504"
 city: Paterson
-street: "McLean Boulevard"
-housenumber: 263
+street: McLean Boulevard
+housenumber: "263"
 phone: ""
 opening_hours: ""
 website: ""

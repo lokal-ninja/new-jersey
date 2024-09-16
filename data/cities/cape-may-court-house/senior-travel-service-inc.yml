@@ -4,8 +4,8 @@ latitude: 39.08171
 longitude: -74.82454
 postcode: "08210"
 city: Cape May Court House
-street: "South Main Street"
-housenumber: 15
-phone: "+1-800-257-8910"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://seniortravelservice.com/"
+street: South Main Street
+housenumber: "15"
+phone: +1-800-257-8910
+opening_hours: Mo-Fr 09:00-17:00
+website: https://seniortravelservice.com/

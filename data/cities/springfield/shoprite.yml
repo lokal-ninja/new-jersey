@@ -1,11 +1,11 @@
 id: 256092402
-type: way
+type: node
 latitude: 40.71925
 longitude: -74.33134
 postcode: "07081"
 city: Springfield
-street: "Morris Turnpike"
-housenumber: 727
-phone: "+1 973-376-3028"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.shoprite.com/pd/stores/NJ/Springfield/ShopRite-of-Springfield/586E751"
+street: Morris Turnpike
+housenumber: "727"
+phone: +1 973-376-3028
+opening_hours: Mo-Sa 07:00-22:00
+website: http://www.shoprite.com/pd/stores/NJ/Springfield/ShopRite-of-Springfield/586E751

@@ -1,11 +1,11 @@
 id: 489599294
-type: way
+type: node
 latitude: 40.22078
 longitude: -74.74512
 postcode: "08609"
 city: Trenton
-street: "Chambers Street"
-housenumber: 250
+street: Chambers Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

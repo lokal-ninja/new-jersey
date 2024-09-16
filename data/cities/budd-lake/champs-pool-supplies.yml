@@ -1,11 +1,11 @@
 id: 1248779308
-type: way
+type: node
 latitude: 40.87929
 longitude: -74.7316
 postcode: "07828"
 city: Budd Lake
-street: "US-46"
-housenumber: 141
-phone: "(862) 254-2319"
+street: US-46
+housenumber: "141"
+phone: (862) 254-2319
 opening_hours: ""
-website: "https://champspools.com/"
+website: https://champspools.com/

@@ -1,11 +1,11 @@
 id: 245567520
-type: way
+type: node
 latitude: 40.13141
 longitude: -74.22695
 postcode: "07731"
 city: Howell
-street: "US Highway 9"
-housenumber: 4900
-phone: "+1 732-886-9100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2195/howell-nj/whats-new"
+street: US Highway 9
+housenumber: "4900"
+phone: +1 732-886-9100
+opening_hours: 24/7
+website: https://www.walmart.com/store/2195/howell-nj/whats-new

@@ -1,11 +1,11 @@
 id: 626340064
-type: way
+type: node
 latitude: 39.35123
 longitude: -74.45599
 postcode: "08401"
 city: Atlantic City
-street: "Ventnor Avenue"
-housenumber: 3725
+street: Ventnor Avenue
+housenumber: "3725"
 phone: ""
 opening_hours: ""
 website: ""

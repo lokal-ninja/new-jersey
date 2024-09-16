@@ -1,11 +1,11 @@
 id: 1253829941
-type: way
+type: node
 latitude: 40.61831
 longitude: -74.24823
 postcode: "07036"
 city: Linden
-street: "West Edgar Road"
-housenumber: 701
-phone: "+1 908-523-1520"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Linden/NJ/Linden/07036/934"
+street: West Edgar Road
+housenumber: "701"
+phone: +1 908-523-1520
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Linden/NJ/Linden/07036/934

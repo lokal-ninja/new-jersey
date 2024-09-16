@@ -1,11 +1,11 @@
 id: 693400044
-type: way
+type: node
 latitude: 40.8056
 longitude: -74.19264
 postcode: "07003"
 city: Bloomfield
-street: "Broad Street"
-housenumber: 357
+street: Broad Street
+housenumber: "357"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.45247
 longitude: -74.29908
 postcode: "08859"
 city: Parlin
-street: "US Route 9"
-housenumber: 1064
+street: US Route 9
+housenumber: "1064"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/nj/parlin/1064-us-route-9"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/nj/parlin/1064-us-route-9

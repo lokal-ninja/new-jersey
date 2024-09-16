@@ -1,11 +1,11 @@
 id: 513992102
-type: way
+type: node
 latitude: 40.30797
 longitude: -74.78506
 postcode: "08534"
 city: Pennington
-street: "Pennington Road"
-housenumber: 2558
+street: Pennington Road
+housenumber: "2558"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 735244178
-type: way
+type: node
 latitude: 40.12176
 longitude: -74.04759
 postcode: "08736"
 city: Manasquan
-street: "East Main Street"
-housenumber: 192
-phone: "+1 732-223-6180"
+street: East Main Street
+housenumber: "192"
+phone: +1 732-223-6180
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/manasquan/192-main-st-11042"
+website: https://www.7-eleven.com/locations/nj/manasquan/192-main-st-11042

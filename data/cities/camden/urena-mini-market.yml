@@ -1,11 +1,11 @@
 id: 265871905
-type: way
+type: node
 latitude: 39.91807
 longitude: -75.11077
 postcode: "08104"
 city: Camden
-street: "South 9th Street"
-housenumber: 2101
+street: South 9th Street
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

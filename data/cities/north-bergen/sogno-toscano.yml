@@ -1,11 +1,11 @@
 id: 456887966
-type: way
+type: node
 latitude: 40.78903
 longitude: -74.03487
 postcode: "07047"
 city: North Bergen
-street: "West Side Avenue"
-housenumber: 4800
+street: West Side Avenue
+housenumber: "4800"
 phone: ""
 opening_hours: ""
-website: "https://sognotoscano.com/"
+website: https://sognotoscano.com/

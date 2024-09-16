@@ -1,11 +1,11 @@
 id: 97011028
-type: way
+type: node
 latitude: 40.22591
 longitude: -74.66228
 postcode: "08690"
 city: Hamilton Township
-street: "Route 33"
+street: Route 33
 housenumber: 1215-1309
-phone: "+1 609-890-3160"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/nj/hamilton/pet-supplies-hamilton-nj-2873.html"
+phone: +1 609-890-3160
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/nj/hamilton/pet-supplies-hamilton-nj-2873.html

@@ -1,11 +1,11 @@
 id: 204592407
-type: way
+type: node
 latitude: 40.56442
 longitude: -74.29977
 postcode: "08830"
 city: Iselin
-street: "US 1"
-housenumber: 801
+street: US 1
+housenumber: "801"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nj/iselin/801-route-1-and-green-st"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/nj/iselin/801-route-1-and-green-st

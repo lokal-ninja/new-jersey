@@ -1,11 +1,11 @@
 id: 230160713
-type: way
+type: node
 latitude: 40.89232
 longitude: -74.7168
 postcode: "07828"
 city: Budd Lake
-street: "US 46"
-housenumber: 11
-phone: "+1 973 2409524"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off"
-website: "https://www.rndpartsservice.com/"
+street: US 46
+housenumber: "11"
+phone: +1 973 2409524
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off
+website: https://www.rndpartsservice.com/

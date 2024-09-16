@@ -1,11 +1,11 @@
 id: 1094393719
-type: way
+type: node
 latitude: 40.86591
 longitude: -74.2198
 postcode: "07009"
 city: Cedar Grove
-street: "Cliffside Drive"
-housenumber: 11
+street: Cliffside Drive
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 889067461
-type: way
+type: node
 latitude: 40.4586
 longitude: -74.29612
 postcode: "08859"
 city: Parlin
-street: "US 9"
-housenumber: 984
-phone: "732-727-1455"
+street: US 9
+housenumber: "984"
+phone: 732-727-1455
 opening_hours: ""
 website: ""

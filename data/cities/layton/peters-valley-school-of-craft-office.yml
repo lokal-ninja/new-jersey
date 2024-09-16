@@ -1,11 +1,11 @@
 id: 448239368
-type: way
+type: node
 latitude: 41.19601
 longitude: -74.85111
 postcode: "07851"
 city: Layton
-street: "Kuhn Road"
-housenumber: 19
-phone: "973-948-5200"
+street: Kuhn Road
+housenumber: "19"
+phone: 973-948-5200
 opening_hours: ""
-website: "https://petersvalley.org/"
+website: https://petersvalley.org/

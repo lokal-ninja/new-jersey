@@ -1,11 +1,11 @@
 id: 1004111596
-type: way
+type: node
 latitude: 40.8858
 longitude: -73.98433
 postcode: "07631"
 city: Englewood
-street: "South Van Brunt Street"
-housenumber: 328
-phone: "+1-201-627-1500"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.englewoodbestautobody.com"
+street: South Van Brunt Street
+housenumber: "328"
+phone: +1-201-627-1500
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.englewoodbestautobody.com

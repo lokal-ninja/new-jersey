@@ -4,8 +4,8 @@ latitude: 40.21232
 longitude: -74.75888
 postcode: "08611"
 city: Trenton
-street: "2nd Street"
-housenumber: 5
+street: 2nd Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

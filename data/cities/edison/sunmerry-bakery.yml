@@ -4,8 +4,8 @@ latitude: 40.507
 longitude: -74.39659
 postcode: "08817"
 city: Edison
-street: "US Highway 1"
-housenumber: 561
-phone: "+1 732-354-4378"
-opening_hours: "08:00-21:00"
-website: "https://www.sunmerryus.com/"
+street: US Highway 1
+housenumber: "561"
+phone: +1 732-354-4378
+opening_hours: 08:00-21:00
+website: https://www.sunmerryus.com/

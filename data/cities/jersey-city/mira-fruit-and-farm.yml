@@ -4,8 +4,8 @@ latitude: 40.73195
 longitude: -74.06655
 postcode: "07306"
 city: Jersey City
-street: "John F. Kennedy Boulevard"
-housenumber: 2823
-phone: "+1-201-938-1150"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:30"
+street: John F. Kennedy Boulevard
+housenumber: "2823"
+phone: +1-201-938-1150
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:30
 website: ""

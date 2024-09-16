@@ -1,11 +1,11 @@
 id: 439418560
-type: way
+type: node
 latitude: 39.89319
 longitude: -74.87693
 postcode: "08053"
 city: Evesham
-street: "Marlton Pike"
-housenumber: 795
+street: Marlton Pike
+housenumber: "795"
 phone: ""
 opening_hours: ""
 website: ""

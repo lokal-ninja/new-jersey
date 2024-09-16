@@ -1,11 +1,11 @@
 id: 586409358
-type: way
+type: node
 latitude: 40.95439
 longitude: -74.20626
 postcode: "07470"
 city: Wayne
-street: "Harrier Court"
-housenumber: 35
+street: Harrier Court
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

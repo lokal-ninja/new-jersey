@@ -1,11 +1,11 @@
 id: 239369265
-type: way
+type: node
 latitude: 40.93564
 longitude: -74.27001
 postcode: "07470"
 city: Wayne
-street: "NJ-23"
-housenumber: 1515
+street: NJ-23
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

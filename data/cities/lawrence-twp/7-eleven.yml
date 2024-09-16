@@ -1,11 +1,11 @@
 id: 1007838349
-type: way
+type: node
 latitude: 40.24277
 longitude: -74.75096
 postcode: "08648"
 city: Lawrence twp
-street: "Spruce Street"
-housenumber: 920
-phone: "+1 609-599-9150"
+street: Spruce Street
+housenumber: "920"
+phone: +1 609-599-9150
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/lawrenceville/1601-princeton-ave-37039"
+website: https://www.7-eleven.com/locations/nj/lawrenceville/1601-princeton-ave-37039

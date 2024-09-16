@@ -1,11 +1,11 @@
 id: 839928670
-type: way
+type: node
 latitude: 40.81547
 longitude: -74.20707
 postcode: "07042"
 city: Montclair
-street: "Grove Street"
-housenumber: 123
+street: Grove Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

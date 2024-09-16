@@ -1,11 +1,11 @@
 id: 29416243
-type: way
+type: node
 latitude: 40.67672
 longitude: -74.16989
 postcode: "07201"
 city: Elizabeth
-street: "Ikea Drive"
-housenumber: 1000
-phone: "1-888-888-4532"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
+street: Ikea Drive
+housenumber: "1000"
+phone: 1-888-888-4532
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
 website: ""

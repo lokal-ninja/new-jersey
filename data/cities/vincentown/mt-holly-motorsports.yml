@@ -1,11 +1,11 @@
 id: 536897620
-type: way
+type: node
 latitude: 39.92785
 longitude: -74.74186
 postcode: "08088"
 city: Vincentown
-street: "Route 206"
-housenumber: 2044
-phone: "+1 609 859 0333"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00; Su,Mo,PH off"
-website: "https://www.mthollymotorsports.com/"
+street: Route 206
+housenumber: "2044"
+phone: +1 609 859 0333
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00; Su,Mo,PH off
+website: https://www.mthollymotorsports.com/

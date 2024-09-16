@@ -1,11 +1,11 @@
 id: 731905564
-type: way
+type: node
 latitude: 41.01305
 longitude: -74.1674
 postcode: "07481"
 city: Wyckoff
-street: "Franklin Avenue"
-housenumber: 337
+street: Franklin Avenue
+housenumber: "337"
 phone: ""
 opening_hours: ""
 website: ""

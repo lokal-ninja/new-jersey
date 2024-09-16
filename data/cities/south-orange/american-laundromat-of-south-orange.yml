@@ -1,11 +1,11 @@
 id: 1280900642
-type: way
+type: node
 latitude: 40.73987
 longitude: -74.26457
 postcode: "07079"
 city: South Orange
-street: "Valley Street"
-housenumber: 347
+street: Valley Street
+housenumber: "347"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

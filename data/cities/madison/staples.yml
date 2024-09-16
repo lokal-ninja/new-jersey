@@ -4,8 +4,8 @@ latitude: 40.75059
 longitude: -74.39909
 postcode: "07940"
 city: Madison
-street: "Main Street"
-housenumber: 300
+street: Main Street
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nj/madison/300-main-street-suite-65"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/nj/madison/300-main-street-suite-65

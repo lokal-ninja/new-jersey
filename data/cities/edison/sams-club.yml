@@ -1,11 +1,11 @@
 id: 204706703
-type: way
+type: node
 latitude: 40.51804
 longitude: -74.37615
 postcode: "08817"
 city: Edison
-street: "US Highway 1"
-housenumber: 883
-phone: "+1 732-321-0182"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/edison-nj-sams-club/6369"
+street: US Highway 1
+housenumber: "883"
+phone: +1 732-321-0182
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/edison-nj-sams-club/6369

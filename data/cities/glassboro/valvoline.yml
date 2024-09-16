@@ -1,11 +1,11 @@
 id: 255324000
-type: way
+type: node
 latitude: 39.71317
 longitude: -75.1107
 postcode: "08028"
 city: Glassboro
-street: "Greentree Road"
-housenumber: 110
-phone: "+1 856-881-8845"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00"
-website: "https://store.vioc.com/nj/glassboro/oil-change-an3150.html"
+street: Greentree Road
+housenumber: "110"
+phone: +1 856-881-8845
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00
+website: https://store.vioc.com/nj/glassboro/oil-change-an3150.html

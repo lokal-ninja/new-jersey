@@ -1,11 +1,11 @@
 id: 783358383
-type: way
+type: node
 latitude: 39.76742
 longitude: -75.08768
 postcode: "08080"
 city: Sewell
-street: "Egg Harbor Road"
-housenumber: 267
+street: Egg Harbor Road
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

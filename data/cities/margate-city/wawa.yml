@@ -1,11 +1,11 @@
 id: 751727922
-type: way
+type: node
 latitude: 39.32213
 longitude: -74.51413
 postcode: ""
 city: Margate City
-street: "Ventnor Avenue"
-housenumber: 9300
+street: Ventnor Avenue
+housenumber: "9300"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

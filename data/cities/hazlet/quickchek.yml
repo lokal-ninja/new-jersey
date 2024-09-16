@@ -1,11 +1,11 @@
 id: 376080967
-type: way
+type: node
 latitude: 40.43294
 longitude: -74.1804
 postcode: "07730"
 city: Hazlet
-street: "NJ 36"
-housenumber: 1170
+street: NJ 36
+housenumber: "1170"
 phone: ""
 opening_hours: ""
 website: ""

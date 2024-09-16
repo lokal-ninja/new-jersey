@@ -1,11 +1,11 @@
 id: 1219110555
-type: way
+type: node
 latitude: 39.735
 longitude: -75.03899
 postcode: "08012"
 city: Turnersville
-street: "State Route 42"
-housenumber: 3941
-phone: "+1 856-875-5439"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/nj/turnersville/3941-route-42"
+street: State Route 42
+housenumber: "3941"
+phone: +1 856-875-5439
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/nj/turnersville/3941-route-42

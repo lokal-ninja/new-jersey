@@ -1,11 +1,11 @@
 id: 298735747
-type: way
+type: node
 latitude: 41.06059
 longitude: -74.75113
 postcode: "07860"
 city: Newton
-street: "Water Street"
-housenumber: 63
-phone: "+1 973-579-3005"
+street: Water Street
+housenumber: "63"
+phone: +1 973-579-3005
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/newton/63-water-st-37251"
+website: https://www.7-eleven.com/locations/nj/newton/63-water-st-37251

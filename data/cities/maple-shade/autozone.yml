@@ -1,11 +1,11 @@
 id: 702878546
-type: way
+type: node
 latitude: 39.93952
 longitude: -74.96808
 postcode: "08052"
 city: Maple Shade
-street: "Collins Road"
-housenumber: 5
+street: Collins Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nj/maple-shade/5-collins-rd.html"
+website: https://www.autozone.com/locations/nj/maple-shade/5-collins-rd.html

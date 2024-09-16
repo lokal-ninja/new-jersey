@@ -1,11 +1,11 @@
 id: 266432553
-type: way
+type: node
 latitude: 39.92251
 longitude: -75.08834
 postcode: "08103"
 city: Collingswood
-street: "Ferry Avenue"
-housenumber: 50
-phone: "+1 856-869-9293"
+street: Ferry Avenue
+housenumber: "50"
+phone: +1 856-869-9293
 opening_hours: ""
-website: "https://catellibrothers.com/"
+website: https://catellibrothers.com/

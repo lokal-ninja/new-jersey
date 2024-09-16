@@ -1,11 +1,11 @@
 id: 71340714
-type: way
+type: node
 latitude: 40.8741
 longitude: -74.73269
 postcode: "07828"
 city: Budd Lake
-street: "US 46"
-housenumber: 199
+street: US 46
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

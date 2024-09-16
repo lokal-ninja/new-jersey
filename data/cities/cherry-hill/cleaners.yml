@@ -1,11 +1,11 @@
 id: 439444051
-type: way
+type: node
 latitude: 39.86455
 longitude: -74.96468
-postcode: "08003-3367"
+postcode: 08003-3367
 city: Cherry Hill
-street: "East Evesham Road"
-housenumber: 486
+street: East Evesham Road
+housenumber: "486"
 phone: ""
 opening_hours: ""
 website: ""

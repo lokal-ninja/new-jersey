@@ -1,11 +1,11 @@
 id: 27081357
-type: way
+type: node
 latitude: 40.74999
 longitude: -74.03665
 postcode: "07030"
 city: Hoboken
-street: "Madison Street"
-housenumber: 900
-phone: "+1 201-792-6070"
-opening_hours: "Mo-Sa 07:00-00:00; Su 07:00-24:00"
-website: "https://www.shoprite.com/sm/planning/rsid/118"
+street: Madison Street
+housenumber: "900"
+phone: +1 201-792-6070
+opening_hours: Mo-Sa 07:00-00:00; Su 07:00-24:00
+website: https://www.shoprite.com/sm/planning/rsid/118

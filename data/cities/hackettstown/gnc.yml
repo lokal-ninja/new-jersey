@@ -1,11 +1,11 @@
 id: 1240238757
-type: way
+type: node
 latitude: 40.81973
 longitude: -74.83984
 postcode: "07840"
 city: Hackettstown
-street: "Rt 57"
-housenumber: 1885
-phone: "+1-908-441-3904"
+street: Rt 57
+housenumber: "1885"
+phone: +1-908-441-3904
 opening_hours: ""
 website: ""

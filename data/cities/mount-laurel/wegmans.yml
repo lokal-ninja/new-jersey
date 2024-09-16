@@ -1,11 +1,11 @@
 id: 260911791
-type: way
+type: node
 latitude: 39.96811
 longitude: -74.91548
 postcode: "08054"
 city: Mount Laurel
-street: "2 Centerton Road"
-housenumber: 2
-phone: "+1 856-439-7300"
-opening_hours: "PH,Mo-Su 07:00-24:00"
-website: "https://www.wegmans.com/stores/mt-laurel-nj"
+street: 2 Centerton Road
+housenumber: "2"
+phone: +1 856-439-7300
+opening_hours: PH,Mo-Su 07:00-24:00
+website: https://www.wegmans.com/stores/mt-laurel-nj

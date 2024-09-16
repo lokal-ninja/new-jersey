@@ -1,11 +1,11 @@
 id: 786298429
-type: way
+type: node
 latitude: 39.74974
 longitude: -74.11185
 postcode: "08006"
 city: Barnegat Light
-street: "Central Avenue"
-housenumber: 1801
-phone: "+1-609-401-8211"
+street: Central Avenue
+housenumber: "1801"
+phone: +1-609-401-8211
 opening_hours: ""
-website: "https://agnellos.com/"
+website: https://agnellos.com/

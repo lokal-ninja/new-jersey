@@ -1,11 +1,11 @@
 id: 1248749968
-type: way
+type: node
 latitude: 40.87921
 longitude: -74.73162
 postcode: "07828"
 city: Budd Lake
-street: "US-46"
-housenumber: 141
-phone: "+1-862-254-2209"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://wizardonline.shop/"
+street: US-46
+housenumber: "141"
+phone: +1-862-254-2209
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://wizardonline.shop/

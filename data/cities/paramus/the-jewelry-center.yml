@@ -1,11 +1,11 @@
 id: 308076117
-type: way
+type: node
 latitude: 40.91398
 longitude: -74.04442
 postcode: "07652"
 city: Paramus
-street: "Route 4 West"
-housenumber: 327
-phone: "+1-201-488-5210"
+street: Route 4 West
+housenumber: "327"
+phone: +1-201-488-5210
 opening_hours: ""
-website: "https://www.thejewelrycenter.net"
+website: https://www.thejewelrycenter.net

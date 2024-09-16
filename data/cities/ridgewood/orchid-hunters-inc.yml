@@ -4,8 +4,8 @@ latitude: 40.97918
 longitude: -74.12264
 postcode: "07450"
 city: Ridgewood
-street: "Godwin Avenue"
-housenumber: 25
-phone: "+1-201-739-9365"
-opening_hours: "by appointment"
-website: "https://orchid-hunters-inc.business.site/"
+street: Godwin Avenue
+housenumber: "25"
+phone: +1-201-739-9365
+opening_hours: '"by appointment"'
+website: https://orchid-hunters-inc.business.site/

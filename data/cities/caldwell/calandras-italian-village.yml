@@ -1,11 +1,11 @@
 id: 725214799
-type: way
+type: node
 latitude: 40.83655
 longitude: -74.2743
 postcode: "07006"
 city: Caldwell
-street: "Bloomfield Avenue"
-housenumber: 234
+street: Bloomfield Avenue
+housenumber: "234"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

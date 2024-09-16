@@ -1,11 +1,11 @@
 id: 204706702
-type: way
+type: node
 latitude: 40.50453
 longitude: -74.39755
 postcode: "08817"
 city: Edison
-street: "US Highway 1"
-housenumber: 470
-phone: "+1 732-640-1778"
-opening_hours: "24/7"
-website: "https://www.exxon.com/en/find-station/edison-nj-edisonexxon-200318162"
+street: US Highway 1
+housenumber: "470"
+phone: +1 732-640-1778
+opening_hours: 24/7
+website: https://www.exxon.com/en/find-station/edison-nj-edisonexxon-200318162

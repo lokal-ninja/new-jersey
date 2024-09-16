@@ -1,11 +1,11 @@
 id: 914300589
-type: way
+type: node
 latitude: 40.92559
 longitude: -73.96516
 postcode: "07670"
 city: Tenafly
-street: "Washington Street"
-housenumber: 5
+street: Washington Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 401699340
-type: way
+type: node
 latitude: 40.73577
 longitude: -74.05678
 postcode: "07306"
 city: Jersey City
-street: "Central Avenue"
-housenumber: 41
-phone: "+1 551-220-1441"
-opening_hours: "24/7"
+street: Central Avenue
+housenumber: "41"
+phone: +1 551-220-1441
+opening_hours: 24/7
 website: ""

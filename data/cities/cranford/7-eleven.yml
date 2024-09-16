@@ -1,11 +1,11 @@
 id: 682022607
-type: way
+type: node
 latitude: 40.65554
 longitude: -74.30025
 postcode: "07016"
 city: Cranford
-street: "South Avenue East"
-housenumber: 299
-phone: "+1 908-272-0542"
+street: South Avenue East
+housenumber: "299"
+phone: +1 908-272-0542
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/cranford/299-south-ave-e-37619"
+website: https://www.7-eleven.com/locations/nj/cranford/299-south-ave-e-37619

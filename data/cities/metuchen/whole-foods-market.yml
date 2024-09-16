@@ -1,11 +1,11 @@
 id: 698958702
-type: way
+type: node
 latitude: 40.54021
 longitude: -74.36587
 postcode: "08840"
 city: Metuchen
-street: "Middlesex Avenue"
-housenumber: 645
-phone: "+1 732-515-6180"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/metuchen"
+street: Middlesex Avenue
+housenumber: "645"
+phone: +1 732-515-6180
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/metuchen

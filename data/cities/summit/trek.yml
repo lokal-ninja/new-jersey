@@ -1,11 +1,11 @@
 id: 634029643
-type: way
+type: node
 latitude: 40.71778
 longitude: -74.35664
 postcode: "07901"
 city: Summit
-street: "Springfield Avenue"
-housenumber: 348
+street: Springfield Avenue
+housenumber: "348"
 phone: ""
 opening_hours: ""
-website: "https://www.trekbikes.com/us/en_US/retail/summit/"
+website: https://www.trekbikes.com/us/en_US/retail/summit/

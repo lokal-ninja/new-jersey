@@ -1,11 +1,11 @@
 id: 615635704
-type: way
+type: node
 latitude: 40.22497
 longitude: -74.01067
 postcode: ""
 city: Asbury Park
-street: "Main Street"
-housenumber: 1201
+street: Main Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "http://www.asburyparkcyclery.com"
+website: http://www.asburyparkcyclery.com

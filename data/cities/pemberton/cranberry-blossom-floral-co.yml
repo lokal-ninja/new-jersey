@@ -1,11 +1,11 @@
 id: 426034290
-type: way
+type: node
 latitude: 39.97147
 longitude: -74.68325
 postcode: "08068"
 city: Pemberton
-street: "Hanover Street"
-housenumber: 120
-phone: "(609) 894-8080"
+street: Hanover Street
+housenumber: "120"
+phone: (609) 894-8080
 opening_hours: ""
 website: ""

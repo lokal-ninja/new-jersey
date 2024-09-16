@@ -1,11 +1,11 @@
 id: 1107267118
-type: way
+type: node
 latitude: 40.55382
 longitude: -74.41331
 postcode: "07080"
 city: South Plainfield
-street: "McKinley Street"
-housenumber: 120
+street: McKinley Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 503883340
-type: way
+type: node
 latitude: 41.02741
 longitude: -74.29641
-postcode: "07420-1564"
+postcode: 07420-1564
 city: Haskell
-street: "Ringwood Avenue"
-housenumber: 1130
-phone: "+1 973-831-0806"
+street: Ringwood Avenue
+housenumber: "1130"
+phone: +1 973-831-0806
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/haskell/1130-ringwood-av-11456"
+website: https://www.7-eleven.com/locations/nj/haskell/1130-ringwood-av-11456

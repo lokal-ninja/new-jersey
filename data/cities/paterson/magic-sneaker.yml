@@ -1,11 +1,11 @@
 id: 378588967
-type: way
+type: node
 latitude: 40.91716
 longitude: -74.17302
 postcode: "07505"
 city: Paterson
-street: "Main Street"
-housenumber: 211
+street: Main Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

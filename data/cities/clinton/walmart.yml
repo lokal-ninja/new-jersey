@@ -1,11 +1,11 @@
 id: 355827179
-type: way
+type: node
 latitude: 40.62916
 longitude: -74.9212
 postcode: "08809"
 city: Clinton
-street: "Wal-Mart Plaza"
-housenumber: 29
-phone: "+1 908-730-8665"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2582-clinton-nj"
+street: Wal-Mart Plaza
+housenumber: "29"
+phone: +1 908-730-8665
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2582-clinton-nj

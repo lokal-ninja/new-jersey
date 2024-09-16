@@ -1,11 +1,11 @@
 id: 962957298
-type: way
+type: node
 latitude: 40.96213
 longitude: -74.24609
 postcode: "07470"
 city: Wayne
-street: "Paterson-Hamburg Turnpike"
-housenumber: 1210
+street: Paterson-Hamburg Turnpike
+housenumber: "1210"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wayne-nj-pharmacies/54-hamburg-turnpike-preakness-s-c-wayne-nj-07470/storeid=655"
+website: https://www.cvs.com/store-locator/wayne-nj-pharmacies/54-hamburg-turnpike-preakness-s-c-wayne-nj-07470/storeid=655

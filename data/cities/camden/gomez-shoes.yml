@@ -1,11 +1,11 @@
 id: 265319354
-type: way
+type: node
 latitude: 39.95998
 longitude: -75.0862
 postcode: "08105"
 city: Camden
-street: "River Avenue"
-housenumber: 3200
+street: River Avenue
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

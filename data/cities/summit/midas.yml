@@ -1,11 +1,11 @@
 id: 440966685
-type: way
+type: node
 latitude: 40.72517
 longitude: -74.37237
 postcode: "07901"
 city: Summit
-street: "Morris Avenue"
-housenumber: 492
-phone: "908-273-3303"
+street: Morris Avenue
+housenumber: "492"
+phone: 908-273-3303
 opening_hours: ""
 website: ""

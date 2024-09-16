@@ -1,11 +1,11 @@
 id: 168556197
-type: way
+type: node
 latitude: 40.43976
 longitude: -74.42822
 postcode: "08850"
 city: Milltown
-street: "South Main Street"
-housenumber: 401
-phone: "+1 732-432-0500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/milltown/nj/milltown/08850/918"
+street: South Main Street
+housenumber: "401"
+phone: +1 732-432-0500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/milltown/nj/milltown/08850/918

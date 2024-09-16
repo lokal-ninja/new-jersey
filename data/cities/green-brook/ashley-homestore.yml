@@ -1,11 +1,11 @@
 id: 746035190
-type: way
+type: node
 latitude: 40.58841
 longitude: -74.50602
 postcode: "08812"
 city: Green Brook
-street: "Highway 22"
-housenumber: 350
-phone: "+1 732-893-2378"
+street: Highway 22
+housenumber: "350"
+phone: +1 732-893-2378
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/new-jersey/green-brook/7710000276/"
+website: https://stores.ashleyfurniture.com/store/us/new-jersey/green-brook/7710000276/

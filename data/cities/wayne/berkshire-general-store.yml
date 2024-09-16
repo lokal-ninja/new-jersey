@@ -1,11 +1,11 @@
 id: 274174814
-type: way
+type: node
 latitude: 40.91098
 longitude: -74.24468
 postcode: "07470"
 city: Wayne
-street: "Hanes Drive"
-housenumber: 25
+street: Hanes Drive
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

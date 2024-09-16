@@ -1,11 +1,11 @@
 id: 829310789
-type: way
+type: node
 latitude: 40.27895
 longitude: -74.29529
 postcode: "07728"
 city: Freehold
-street: "US 9"
-housenumber: 4268
+street: US 9
+housenumber: "4268"
 phone: ""
 opening_hours: ""
-website: "https://www.dchfreeholdtoyota.com/"
+website: https://www.dchfreeholdtoyota.com/

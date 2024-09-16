@@ -1,11 +1,11 @@
 id: 556897400
-type: way
+type: node
 latitude: 40.93535
 longitude: -74.23295
 postcode: "07470"
 city: Wayne
-street: "Woodstock Drive"
-housenumber: 62
+street: Woodstock Drive
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

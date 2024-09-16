@@ -1,11 +1,11 @@
 id: 1015173604
-type: way
+type: node
 latitude: 40.83975
 longitude: -74.70831
 postcode: "07836"
 city: Flanders
-street: "US 206"
-housenumber: 244
+street: US 206
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

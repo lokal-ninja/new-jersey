@@ -1,11 +1,11 @@
 id: 914301465
-type: way
+type: node
 latitude: 40.92604
 longitude: -73.9661
 postcode: "07670"
 city: Tenafly
-street: "South Summit Street"
-housenumber: 8
+street: South Summit Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

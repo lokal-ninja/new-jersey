@@ -1,11 +1,11 @@
 id: 786293374
-type: way
+type: node
 latitude: 39.74955
 longitude: -74.11389
 postcode: "08006"
 city: Barnegat Light
-street: "Bayview Avenue"
-housenumber: 1901
-phone: "+1-609-361-8039"
+street: Bayview Avenue
+housenumber: "1901"
+phone: +1-609-361-8039
 opening_hours: ""
-website: "https://www.theseawife.com/"
+website: https://www.theseawife.com/

@@ -1,11 +1,11 @@
 id: 605867271
-type: way
+type: node
 latitude: 40.04051
 longitude: -74.14345
-postcode: "08723-7421"
+postcode: 08723-7421
 city: Bricktown
-street: "Lake Shore Way"
-housenumber: 108
-phone: "+1 732-920-3711"
+street: Lake Shore Way
+housenumber: "108"
+phone: +1 732-920-3711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/bricktown/108-lake-shore-way-11043"
+website: https://www.7-eleven.com/locations/nj/bricktown/108-lake-shore-way-11043

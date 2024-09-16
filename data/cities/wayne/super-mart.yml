@@ -1,11 +1,11 @@
 id: 239911876
-type: way
+type: node
 latitude: 40.91487
 longitude: -74.26454
 postcode: "07470"
 city: Wayne
-street: "Mountainview Boulevard"
-housenumber: 96
+street: Mountainview Boulevard
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

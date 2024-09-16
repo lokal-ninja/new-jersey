@@ -1,11 +1,11 @@
 id: 591836536
-type: way
+type: node
 latitude: 39.92243
 longitude: -75.10132
 postcode: "08104"
 city: Camden
-street: "Norris Street"
-housenumber: 1783
+street: Norris Street
+housenumber: "1783"
 phone: ""
 opening_hours: ""
 website: ""

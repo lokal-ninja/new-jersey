@@ -1,11 +1,11 @@
 id: 449120574
-type: way
+type: node
 latitude: 39.88979
 longitude: -74.99965
 postcode: "08034"
 city: Cherry Hill
-street: "Kresson Road"
-housenumber: 610
+street: Kresson Road
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

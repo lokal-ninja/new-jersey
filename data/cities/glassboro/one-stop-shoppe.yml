@@ -1,11 +1,11 @@
 id: 255320002
-type: way
+type: node
 latitude: 39.70361
 longitude: -75.1068
 postcode: "08028"
 city: Glassboro
-street: "Delsea Drive North"
-housenumber: 36
+street: Delsea Drive North
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

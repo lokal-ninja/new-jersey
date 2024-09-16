@@ -1,11 +1,11 @@
 id: 693440828
-type: way
+type: node
 latitude: 40.80884
 longitude: -74.19257
 postcode: "07003"
 city: Bloomfield
-street: "Broad Street"
-housenumber: 446
-phone: "973-743-1480"
+street: Broad Street
+housenumber: "446"
+phone: 973-743-1480
 opening_hours: ""
-website: "https://gencarellisbakery.com/"
+website: https://gencarellisbakery.com/

@@ -1,11 +1,11 @@
 id: 451459579
-type: way
+type: node
 latitude: 40.50785
 longitude: -74.34941
 postcode: "08837"
 city: Edison
-street: "Northfield Avenue"
-housenumber: 50
-phone: "+1-732-560-9410"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://americas.fujielectric.com/"
+street: Northfield Avenue
+housenumber: "50"
+phone: +1-732-560-9410
+opening_hours: Mo-Fr 09:00-17:00
+website: https://americas.fujielectric.com/

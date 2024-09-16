@@ -1,11 +1,11 @@
 id: 1313132734
-type: way
+type: node
 latitude: 39.44372
 longitude: -74.73621
 postcode: "08330"
 city: Mays Landing
-street: "Rte 50"
-housenumber: 902
+street: Rte 50
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

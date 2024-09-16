@@ -1,11 +1,11 @@
 id: 972612954
-type: way
+type: node
 latitude: 40.48836
 longitude: -74.43651
 postcode: "08901"
 city: New Brunswick
-street: "Memorial Parkway"
-housenumber: 80
+street: Memorial Parkway
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

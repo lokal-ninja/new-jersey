@@ -1,11 +1,11 @@
 id: 737384201
-type: way
+type: node
 latitude: 40.4866
 longitude: -74.65255
 postcode: "08844"
 city: Hillsborough
-street: "US Highway 206"
-housenumber: 796
-phone: "908-874-5600"
+street: US Highway 206
+housenumber: "796"
+phone: 908-874-5600
 opening_hours: ""
-website: "https://www.hillsboroughfuneralhome.com/"
+website: https://www.hillsboroughfuneralhome.com/

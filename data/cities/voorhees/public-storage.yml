@@ -1,11 +1,11 @@
 id: 1098929618
-type: way
+type: node
 latitude: 39.85466
 longitude: -74.98362
-postcode: "08043-1417"
+postcode: 08043-1417
 city: Voorhees
-street: "Berlin Road"
-housenumber: 612
+street: Berlin Road
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

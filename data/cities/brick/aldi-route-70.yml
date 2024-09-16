@@ -1,11 +1,11 @@
 id: 1151688143
-type: way
+type: node
 latitude: 40.06525
 longitude: -74.13594
 postcode: "08723"
 city: Brick
-street: "Route 70"
-housenumber: 780
-phone: "+1 833-460-7069"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/nj/brick/780-route-70"
+street: Route 70
+housenumber: "780"
+phone: +1 833-460-7069
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/nj/brick/780-route-70

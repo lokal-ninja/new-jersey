@@ -1,11 +1,11 @@
 id: 195992636
-type: way
+type: node
 latitude: 40.52448
 longitude: -74.36392
 postcode: "08837"
 city: Edison
-street: "US Highway 1"
-housenumber: 1049
-phone: "+1 732-906-5600"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.stopandshop.com/nj/edison/1049-us-highway-1-south"
+street: US Highway 1
+housenumber: "1049"
+phone: +1 732-906-5600
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.stopandshop.com/nj/edison/1049-us-highway-1-south

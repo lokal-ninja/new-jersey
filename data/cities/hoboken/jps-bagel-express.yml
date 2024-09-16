@@ -4,8 +4,8 @@ latitude: 40.73684
 longitude: -74.03012
 postcode: "07030"
 city: Hoboken
-street: "Newark Street"
-housenumber: 52
-phone: "+1 201 420 6409"
+street: Newark Street
+housenumber: "52"
+phone: +1 201 420 6409
 opening_hours: ""
-website: "https://www.jpsbagelexpress.com/"
+website: https://www.jpsbagelexpress.com/

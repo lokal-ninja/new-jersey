@@ -1,11 +1,11 @@
 id: 625754976
-type: way
+type: node
 latitude: 40.44152
 longitude: -74.85742
 postcode: "08551"
 city: Ringoes
-street: "US Highway 202"
-housenumber: 1019
+street: US Highway 202
+housenumber: "1019"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NJ/Ringoes/1019-US-HIGHWAY-202"
+website: https://www.speedway.com/locations/NJ/Ringoes/1019-US-HIGHWAY-202

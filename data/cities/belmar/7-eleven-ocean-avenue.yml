@@ -1,11 +1,11 @@
 id: 603124852
-type: way
+type: node
 latitude: 40.17861
 longitude: -74.01368
 postcode: "07719"
 city: Belmar
-street: "Ocean Avenue"
-housenumber: 801
-phone: "+1 732-681-8311"
+street: Ocean Avenue
+housenumber: "801"
+phone: +1 732-681-8311
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/belmar/801-ocean-ave-25398"
+website: https://www.7-eleven.com/locations/nj/belmar/801-ocean-ave-25398

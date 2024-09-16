@@ -1,11 +1,11 @@
 id: 668139271
-type: way
+type: node
 latitude: 40.75315
 longitude: -74.40532
 postcode: "07940"
 city: Madison
-street: "Main Street"
-housenumber: 222
-phone: "+1 973-822-8444"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/madisonnj"
+street: Main Street
+housenumber: "222"
+phone: +1 973-822-8444
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/madisonnj

@@ -1,11 +1,11 @@
 id: 591693159
-type: way
+type: node
 latitude: 39.9237
 longitude: -75.11183
 postcode: "08104"
 city: Camden
-street: "Carl Miller Boulevard"
-housenumber: 831
+street: Carl Miller Boulevard
+housenumber: "831"
 phone: ""
 opening_hours: ""
 website: ""

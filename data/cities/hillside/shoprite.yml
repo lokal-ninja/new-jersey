@@ -1,11 +1,11 @@
 id: 468837328
-type: way
+type: node
 latitude: 40.69996
 longitude: -74.23329
 postcode: "07205"
 city: Hillside
-street: "Route 22 West"
-housenumber: 370
-phone: "+1 908-810-4662"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://www.shoprite.com/sm/planning/rsid/159"
+street: Route 22 West
+housenumber: "370"
+phone: +1 908-810-4662
+opening_hours: Mo-Su 06:00-00:00
+website: https://www.shoprite.com/sm/planning/rsid/159

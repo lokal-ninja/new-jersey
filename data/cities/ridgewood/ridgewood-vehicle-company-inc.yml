@@ -1,11 +1,11 @@
 id: 691844240
-type: way
+type: node
 latitude: 40.97588
 longitude: -74.1224
 postcode: "07450"
 city: Ridgewood
-street: "South Broad Street"
-housenumber: 246
-phone: "+1-866-854-4797"
+street: South Broad Street
+housenumber: "246"
+phone: +1-866-854-4797
 opening_hours: ""
-website: "http://ridgewoodvehicle.com/"
+website: http://ridgewoodvehicle.com/

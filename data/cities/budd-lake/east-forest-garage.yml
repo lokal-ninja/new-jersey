@@ -1,11 +1,11 @@
 id: 1015172460
-type: way
+type: node
 latitude: 40.87742
 longitude: -74.73205
 postcode: "07828"
 city: Budd Lake
-street: "E Forest Road"
-housenumber: 4
-phone: "+1-973-347-7877"
+street: E Forest Road
+housenumber: "4"
+phone: +1-973-347-7877
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157105164
-type: way
+type: node
 latitude: 40.88629
 longitude: -74.06584
 postcode: "07644"
 city: Lodi
-street: "State Route 17 North"
-housenumber: 99
-phone: "+1 201-226-9929"
+street: State Route 17 North
+housenumber: "99"
+phone: +1 201-226-9929
 opening_hours: ""
-website: "https://www.homedepot.com/l/lodi/nj/lodi/07644/932"
+website: https://www.homedepot.com/l/lodi/nj/lodi/07644/932

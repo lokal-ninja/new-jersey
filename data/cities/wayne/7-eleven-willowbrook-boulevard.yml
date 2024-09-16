@@ -1,11 +1,11 @@
 id: 274201775
-type: way
+type: node
 latitude: 40.88937
 longitude: -74.24863
 postcode: "07470"
 city: Wayne
-street: "Willowbrook Boulevard"
-housenumber: 51
-phone: "+1 973-256-2113"
+street: Willowbrook Boulevard
+housenumber: "51"
+phone: +1 973-256-2113
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/wayne/51-willowbrook-blvd-39776"
+website: https://www.7-eleven.com/locations/nj/wayne/51-willowbrook-blvd-39776

@@ -1,11 +1,11 @@
 id: 332768184
-type: way
+type: node
 latitude: 40.98988
 longitude: -74.14118
 postcode: ""
 city: Midland Park
-street: "Godwin Avenue"
-housenumber: 245
-phone: "201-857-4500"
+street: Godwin Avenue
+housenumber: "245"
+phone: 201-857-4500
 opening_hours: ""
-website: "https://www.moralibarberhouse.com"
+website: https://www.moralibarberhouse.com

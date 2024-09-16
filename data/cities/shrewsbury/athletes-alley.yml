@@ -4,8 +4,8 @@ latitude: 40.33531
 longitude: -74.06278
 postcode: "07702"
 city: Shrewsbury
-street: "Main Street"
-housenumber: 483
-phone: "+1 732 842 1127"
+street: Main Street
+housenumber: "483"
+phone: +1 732 842 1127
 opening_hours: ""
-website: "http://athletesalley.com/"
+website: http://athletesalley.com/

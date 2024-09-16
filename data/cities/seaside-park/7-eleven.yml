@@ -1,11 +1,11 @@
 id: 923614523
-type: way
+type: node
 latitude: 39.93221
 longitude: -74.07734
-postcode: "08752-1311"
+postcode: 08752-1311
 city: Seaside Park
-street: "North West Central Avenue"
-housenumber: 1215
-phone: "+1 732-830-6850"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/nj/seaside-park/1215-n-w-central-ave-26992"
+street: North West Central Avenue
+housenumber: "1215"
+phone: +1 732-830-6850
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/nj/seaside-park/1215-n-w-central-ave-26992

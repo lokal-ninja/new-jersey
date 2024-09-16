@@ -1,11 +1,11 @@
 id: 857878944
-type: way
+type: node
 latitude: 40.25897
 longitude: -74.01202
 postcode: "07755"
 city: Oakhurst
-street: "Monmouth Road"
-housenumber: 236
+street: Monmouth Road
+housenumber: "236"
 phone: ""
 opening_hours: ""
-website: "https://www.fiorefuneralhomes.com/"
+website: https://www.fiorefuneralhomes.com/

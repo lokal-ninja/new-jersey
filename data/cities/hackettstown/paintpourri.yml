@@ -1,11 +1,11 @@
 id: 836153352
-type: way
+type: node
 latitude: 40.83544
 longitude: -74.82384
 postcode: "07840"
 city: Hackettstown
-street: "Mountain Avenue"
-housenumber: 324
-phone: "+1-908-852-0704"
+street: Mountain Avenue
+housenumber: "324"
+phone: +1-908-852-0704
 opening_hours: ""
-website: "https://www.paintpourri.com/"
+website: https://www.paintpourri.com/

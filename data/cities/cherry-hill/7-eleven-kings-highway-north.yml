@@ -1,11 +1,11 @@
 id: 450111453
-type: way
+type: node
 latitude: 39.92375
 longitude: -74.99897
 postcode: "08034"
 city: Cherry Hill
-street: "Kings Highway North"
-housenumber: 721
-phone: "+1 856-779-2480"
+street: Kings Highway North
+housenumber: "721"
+phone: +1 856-779-2480
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/cherry-hill/721-n-kings-hwy-10924"
+website: https://www.7-eleven.com/locations/nj/cherry-hill/721-n-kings-hwy-10924

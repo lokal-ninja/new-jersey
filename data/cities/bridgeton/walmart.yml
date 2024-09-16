@@ -1,11 +1,11 @@
 id: 266475121
-type: way
+type: node
 latitude: 39.46725
 longitude: -75.20956
 postcode: "08302"
 city: Bridgeton
-street: "Highway 77"
-housenumber: 1130
-phone: "+1 856-453-0418"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/5384/bridgeton-nj/whats-new"
+street: Highway 77
+housenumber: "1130"
+phone: +1 856-453-0418
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/5384/bridgeton-nj/whats-new

@@ -1,11 +1,11 @@
 id: 204460795
-type: way
+type: node
 latitude: 40.55812
 longitude: -74.43289
 postcode: "07080"
 city: South Plainfield
-street: "Hamilton Boulevard"
-housenumber: 3100
-phone: "+1 732-752-5900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/s-plainfield/nj/south-plainfield/07080/903"
+street: Hamilton Boulevard
+housenumber: "3100"
+phone: +1 732-752-5900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/s-plainfield/nj/south-plainfield/07080/903

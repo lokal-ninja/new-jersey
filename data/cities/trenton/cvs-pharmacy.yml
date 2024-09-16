@@ -1,11 +1,11 @@
 id: 699618124
-type: way
+type: node
 latitude: 40.22448
 longitude: -74.73679
 postcode: "08608"
 city: Trenton
-street: "Greenwood Avenue"
-housenumber: 1248
+street: Greenwood Avenue
+housenumber: "1248"
 phone: ""
 opening_hours: ""
 website: ""

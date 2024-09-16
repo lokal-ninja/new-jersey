@@ -1,11 +1,11 @@
 id: 76793183
-type: way
+type: node
 latitude: 39.46299
 longitude: -74.49567
 postcode: "08205"
 city: Galloway
-street: "South Pitney Road"
-housenumber: 401
-phone: "+1 609-404-4160"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/600"
+street: South Pitney Road
+housenumber: "401"
+phone: +1 609-404-4160
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/600

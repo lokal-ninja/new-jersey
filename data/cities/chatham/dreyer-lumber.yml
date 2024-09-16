@@ -1,11 +1,11 @@
 id: 500240927
-type: way
+type: node
 latitude: 40.72987
 longitude: -74.3805
-postcode: "07928-2751"
+postcode: 07928-2751
 city: Chatham
-street: "Watchung Avenue"
-housenumber: 20
-phone: "+1 973-635-5151"
+street: Watchung Avenue
+housenumber: "20"
+phone: +1 973-635-5151
 opening_hours: ""
-website: "https://dreyerslumber.com/"
+website: https://dreyerslumber.com/

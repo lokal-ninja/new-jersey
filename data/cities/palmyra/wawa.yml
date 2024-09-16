@@ -1,11 +1,11 @@
 id: 1289655769
-type: way
+type: node
 latitude: 40.00374
 longitude: -75.02125
 postcode: "08065"
 city: Palmyra
-street: "Cinnaminson Avenue"
-housenumber: 600
+street: Cinnaminson Avenue
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Su 24/7"
-website: "https://www.wawa.com/locations/0460"
+opening_hours: Mo-Su 24/7
+website: https://www.wawa.com/locations/0460

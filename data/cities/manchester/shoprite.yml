@@ -4,8 +4,8 @@ latitude: 40.01429
 longitude: -74.29956
 postcode: "08759"
 city: Manchester
-street: "Route 70 West"
-housenumber: 1001
-phone: "+1 732-657-0700"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/614"
+street: Route 70 West
+housenumber: "1001"
+phone: +1 732-657-0700
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/614

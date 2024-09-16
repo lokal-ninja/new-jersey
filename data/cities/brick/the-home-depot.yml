@@ -1,11 +1,11 @@
 id: 454780942
-type: way
+type: node
 latitude: 40.0729
 longitude: -74.13133
 postcode: "08724"
 city: Brick
-street: "Route 88"
-housenumber: 1722
-phone: "+1 732-836-3220"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Brick/NJ/Brick/08724/912"
+street: Route 88
+housenumber: "1722"
+phone: +1 732-836-3220
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Brick/NJ/Brick/08724/912

@@ -1,11 +1,11 @@
 id: 554891991
-type: way
+type: node
 latitude: 40.19211
 longitude: -74.63908
-postcode: "08691-2107"
+postcode: 08691-2107
 city: Trenton
-street: "Marketplace Boulevard"
-housenumber: 320
-phone: "+1 609-581-6969"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/nj/trenton/3716"
+street: Marketplace Boulevard
+housenumber: "320"
+phone: +1 609-581-6969
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/nj/trenton/3716

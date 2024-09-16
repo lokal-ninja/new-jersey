@@ -1,11 +1,11 @@
 id: 740572529
-type: way
+type: node
 latitude: 40.17709
 longitude: -74.02629
 postcode: "07719"
 city: Belmar
-street: "Main Street"
-housenumber: 1202
+street: Main Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

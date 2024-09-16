@@ -1,11 +1,11 @@
 id: 241374430
-type: way
+type: node
 latitude: 40.87307
 longitude: -74.64718
 postcode: ""
 city: Ledgewood
-street: "Route 10 East"
-housenumber: 295
-phone: "973-584-2230"
+street: Route 10 East
+housenumber: "295"
+phone: 973-584-2230
 opening_hours: ""
-website: "https://www.franswicker.com/"
+website: https://www.franswicker.com/

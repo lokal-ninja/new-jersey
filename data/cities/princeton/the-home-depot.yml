@@ -1,11 +1,11 @@
 id: 516262840
-type: way
+type: node
 latitude: 40.30109
 longitude: -74.67788
 postcode: "08540"
 city: Princeton
-street: "Nassau Park Boulevard"
-housenumber: 701
-phone: "+1 609-987-8686"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/w-windsor/nj/princeton/08540/921"
+street: Nassau Park Boulevard
+housenumber: "701"
+phone: +1 609-987-8686
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/w-windsor/nj/princeton/08540/921

@@ -1,11 +1,11 @@
 id: 244905060
-type: way
+type: node
 latitude: 41.00517
 longitude: -74.29579
 postcode: "07442"
 city: Pompton Lakes
-street: "Ringwood Avenue"
-housenumber: 615
+street: Ringwood Avenue
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

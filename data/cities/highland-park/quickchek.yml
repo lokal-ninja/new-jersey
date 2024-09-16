@@ -1,11 +1,11 @@
 id: 318899378
-type: way
+type: node
 latitude: 40.50111
 longitude: -74.41692
 postcode: "08904"
 city: Highland Park
-street: "Woodbridge Avenue"
-housenumber: 130
-phone: "732-572-9149"
-opening_hours: "24/7"
-website: "https://quickchek.com/StoreHome/4"
+street: Woodbridge Avenue
+housenumber: "130"
+phone: 732-572-9149
+opening_hours: 24/7
+website: https://quickchek.com/StoreHome/4

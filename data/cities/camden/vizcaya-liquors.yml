@@ -1,11 +1,11 @@
 id: 265352013
-type: way
+type: node
 latitude: 39.95216
 longitude: -75.09147
 postcode: "08105"
 city: Camden
-street: "North 25th Street"
-housenumber: 641
+street: North 25th Street
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

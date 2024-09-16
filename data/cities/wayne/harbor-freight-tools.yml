@@ -1,11 +1,11 @@
 id: 239486984
-type: way
+type: node
 latitude: 40.935
 longitude: -74.27075
 postcode: "07470"
 city: Wayne
-street: "NJ-23"
-housenumber: 1491
-phone: "+1 862-314-2303"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1491-route-23-wayne-07470?number=3107"
+street: NJ-23
+housenumber: "1491"
+phone: +1 862-314-2303
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1491-route-23-wayne-07470?number=3107

@@ -1,11 +1,11 @@
 id: 197386357
-type: way
+type: node
 latitude: 40.4069
 longitude: -74.38558
 postcode: "08884"
 city: Spotswood
-street: "Summerhill Road"
-housenumber: 380
-phone: "+1 732-251-5202"
-opening_hours: "24/7"
-website: "https://www.shoprite.com/sm/planning/rsid/106"
+street: Summerhill Road
+housenumber: "380"
+phone: +1 732-251-5202
+opening_hours: 24/7
+website: https://www.shoprite.com/sm/planning/rsid/106

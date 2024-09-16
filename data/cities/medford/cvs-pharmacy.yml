@@ -1,11 +1,11 @@
 id: 485974326
-type: way
+type: node
 latitude: 39.90136
 longitude: -74.84557
 postcode: "08055"
 city: Medford
-street: "State Route 70"
-housenumber: 137
+street: State Route 70
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/medford-nj-pharmacies/137-route-70-medford-nj-08055/storeid=465"
+website: https://www.cvs.com/store-locator/medford-nj-pharmacies/137-route-70-medford-nj-08055/storeid=465

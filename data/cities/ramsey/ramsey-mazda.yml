@@ -1,11 +1,11 @@
 id: 71755144
-type: way
+type: node
 latitude: 41.05462
 longitude: -74.11943
 postcode: "07446"
 city: Ramsey
-street: "Route 17"
-housenumber: 436
+street: Route 17
+housenumber: "436"
 phone: ""
 opening_hours: ""
 website: ""

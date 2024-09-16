@@ -1,11 +1,11 @@
 id: 427311859
-type: way
+type: node
 latitude: 40.12385
 longitude: -74.06991
-postcode: "08736-1101"
+postcode: 08736-1101
 city: Manasquan
-street: "Highway 35"
-housenumber: 2435
-phone: "+1 732-528-6909"
-opening_hours: "09:00-17:00"
+street: Highway 35
+housenumber: "2435"
+phone: +1 732-528-6909
+opening_hours: 09:00-17:00
 website: ""

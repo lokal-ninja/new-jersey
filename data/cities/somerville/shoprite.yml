@@ -1,11 +1,11 @@
 id: 543022110
-type: way
+type: node
 latitude: 40.56835
 longitude: -74.61538
 postcode: "08876"
 city: Somerville
-street: "South Davenport Street"
-housenumber: 1
-phone: "+1 908-231-8100"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/468"
+street: South Davenport Street
+housenumber: "1"
+phone: +1 908-231-8100
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/468

@@ -1,11 +1,11 @@
 id: 247304054
-type: way
+type: node
 latitude: 41.00603
 longitude: -74.29617
 postcode: "07442"
 city: Pompton Lakes
-street: "Broad Street"
-housenumber: 6
+street: Broad Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

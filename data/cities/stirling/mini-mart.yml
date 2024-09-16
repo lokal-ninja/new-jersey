@@ -1,11 +1,11 @@
 id: 518461447
-type: way
+type: node
 latitude: 40.66887
 longitude: -74.48227
 postcode: "07980"
 city: Stirling
-street: "Valley Road"
-housenumber: 1039
+street: Valley Road
+housenumber: "1039"
 phone: ""
 opening_hours: ""
 website: ""

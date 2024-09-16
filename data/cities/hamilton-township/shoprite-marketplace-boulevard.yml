@@ -1,11 +1,11 @@
 id: 485717475
-type: way
+type: node
 latitude: 40.1922
 longitude: -74.64266
 postcode: "08691"
 city: Hamilton Township
-street: "Marketplace Boulevard"
-housenumber: 130
-phone: "+1 609-581-5823"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/521"
+street: Marketplace Boulevard
+housenumber: "130"
+phone: +1 609-581-5823
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/521

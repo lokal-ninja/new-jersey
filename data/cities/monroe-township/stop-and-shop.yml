@@ -1,11 +1,11 @@
 id: 286363203
-type: way
+type: node
 latitude: 40.31658
 longitude: -74.44017
 postcode: "08831"
 city: Monroe Township
-street: "Perrineville Road"
-housenumber: 1600
-phone: "+1 609-655-8900"
+street: Perrineville Road
+housenumber: "1600"
+phone: +1 609-655-8900
 opening_hours: ""
 website: ""

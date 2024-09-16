@@ -4,8 +4,8 @@ latitude: 39.09846
 longitude: -74.72329
 postcode: "08202"
 city: Avalon
-street: "Ocean Drive"
-housenumber: 2701
-phone: "+1 609-967-3326"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/432"
+street: Ocean Drive
+housenumber: "2701"
+phone: +1 609-967-3326
+opening_hours: 24/7
+website: https://www.wawa.com/locations/432

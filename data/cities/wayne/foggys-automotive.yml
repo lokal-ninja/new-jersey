@@ -1,11 +1,11 @@
 id: 569399895
-type: way
+type: node
 latitude: 40.94547
 longitude: -74.21303
 postcode: "07470"
 city: Wayne
-street: "Ratzer Road"
-housenumber: 1536
+street: Ratzer Road
+housenumber: "1536"
 phone: ""
 opening_hours: ""
 website: ""

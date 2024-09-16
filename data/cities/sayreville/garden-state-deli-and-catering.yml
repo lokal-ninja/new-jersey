@@ -1,11 +1,11 @@
 id: 890907736
-type: way
+type: node
 latitude: 40.46878
 longitude: -74.34875
 postcode: "08872"
 city: Sayreville
-street: "Pulaski Avenue"
-housenumber: 165
-phone: "732-967-6000"
-opening_hours: "Mo closed; Tu-Fr 08:30-18:00; Sa 08:30-15:00; Su closed"
-website: "https://www.gardenstatedeli.net/"
+street: Pulaski Avenue
+housenumber: "165"
+phone: 732-967-6000
+opening_hours: Mo closed; Tu-Fr 08:30-18:00; Sa 08:30-15:00; Su closed
+website: https://www.gardenstatedeli.net/

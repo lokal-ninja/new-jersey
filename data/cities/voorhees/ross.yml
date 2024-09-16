@@ -1,11 +1,11 @@
 id: 456920490
-type: way
+type: node
 latitude: 39.8506
 longitude: -74.98037
 postcode: "08043"
 city: Voorhees
-street: "Haddonfield-Berlin Road"
-housenumber: 700
-phone: "+1 856-435-0106"
-opening_hours: "Mo-Sa 09:30-22:00; Su 10:00-22:00"
-website: "http://rosstores.com"
+street: Haddonfield-Berlin Road
+housenumber: "700"
+phone: +1 856-435-0106
+opening_hours: Mo-Sa 09:30-22:00; Su 10:00-22:00
+website: http://rosstores.com

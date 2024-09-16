@@ -1,11 +1,11 @@
 id: 30167183
-type: way
+type: node
 latitude: 39.96712
 longitude: -74.91522
 postcode: "08054"
 city: Mount Laurel
-street: "Centerton Road"
-housenumber: 4
-phone: "+1 856-533-1197"
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.target.com/sl/mount-laurel/1917"
+street: Centerton Road
+housenumber: "4"
+phone: +1 856-533-1197
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.target.com/sl/mount-laurel/1917

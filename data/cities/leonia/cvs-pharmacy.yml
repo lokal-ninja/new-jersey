@@ -1,11 +1,11 @@
 id: 650731917
-type: way
+type: node
 latitude: 40.86526
 longitude: -73.98616
 postcode: "07605"
 city: Leonia
-street: "Broad Avenue"
-housenumber: 410
+street: Broad Avenue
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/leonia-nj-pharmacies/410-broad-ave-leonia-nj-07605/storeid=2746"
+website: https://www.cvs.com/store-locator/leonia-nj-pharmacies/410-broad-ave-leonia-nj-07605/storeid=2746

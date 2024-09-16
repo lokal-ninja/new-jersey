@@ -1,11 +1,11 @@
 id: 959147378
-type: way
+type: node
 latitude: 39.83077
 longitude: -74.19818
 postcode: "08731"
 city: Lacey Township
-street: "South Main Street"
-housenumber: 425
+street: South Main Street
+housenumber: "425"
 phone: ""
 opening_hours: ""
-website: "https://www.hammettslgc.com/"
+website: https://www.hammettslgc.com/

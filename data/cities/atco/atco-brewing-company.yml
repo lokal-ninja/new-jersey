@@ -1,11 +1,11 @@
 id: 507686467
-type: way
+type: node
 latitude: 39.77151
 longitude: -74.89971
 postcode: "08004"
 city: Atco
-street: "White Horse Pike"
-housenumber: 302
+street: White Horse Pike
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

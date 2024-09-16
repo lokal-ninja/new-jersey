@@ -1,11 +1,11 @@
 id: 591835489
-type: way
+type: node
 latitude: 39.92203
 longitude: -75.10089
 postcode: "08104"
 city: Camden
-street: "Browning Street"
-housenumber: 1301
+street: Browning Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

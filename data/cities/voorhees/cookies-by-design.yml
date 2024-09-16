@@ -1,11 +1,11 @@
 id: 457109472
-type: way
+type: node
 latitude: 39.8516
 longitude: -74.98237
 postcode: "08043"
 city: Voorhees
-street: "Haddonfield-Berlin Road"
-housenumber: 700
+street: Haddonfield-Berlin Road
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

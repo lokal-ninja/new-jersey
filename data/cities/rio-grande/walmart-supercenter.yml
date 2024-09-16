@@ -1,11 +1,11 @@
 id: 531837142
-type: way
+type: node
 latitude: 39.0214
 longitude: -74.87203
 postcode: "08242"
 city: Rio Grande
-street: "Route 9 South"
-housenumber: 3159
-phone: "+1 609-465-2204"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3337/rio-grande-nj/whats-new"
+street: Route 9 South
+housenumber: "3159"
+phone: +1 609-465-2204
+opening_hours: 24/7
+website: https://www.walmart.com/store/3337/rio-grande-nj/whats-new

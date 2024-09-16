@@ -1,11 +1,11 @@
 id: 1235130000
-type: way
+type: node
 latitude: 40.91386
 longitude: -74.577
 postcode: "07885"
 city: Wharton
-street: "NJ 15 North"
-housenumber: 401
+street: NJ 15 North
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

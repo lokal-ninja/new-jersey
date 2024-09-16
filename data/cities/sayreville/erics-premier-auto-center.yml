@@ -1,11 +1,11 @@
 id: 922881308
-type: way
+type: node
 latitude: 40.46175
 longitude: -74.36846
 postcode: "08872"
 city: Sayreville
-street: "MacArthur Avenue"
-housenumber: 115
-phone: "732-238-8585"
+street: MacArthur Avenue
+housenumber: "115"
+phone: 732-238-8585
 opening_hours: ""
 website: ""

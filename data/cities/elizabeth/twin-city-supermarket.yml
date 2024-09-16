@@ -1,11 +1,11 @@
 id: 943633604
-type: way
+type: node
 latitude: 40.68682
 longitude: -74.20665
 postcode: ""
 city: Elizabeth
-street: "Sherman Avenue"
-housenumber: 1916
+street: Sherman Avenue
+housenumber: "1916"
 phone: ""
 opening_hours: ""
-website: "http://twincitysupermarkets.com/"
+website: http://twincitysupermarkets.com/

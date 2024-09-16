@@ -1,11 +1,11 @@
 id: 552145549
-type: way
+type: node
 latitude: 40.75533
 longitude: -74.04248
 postcode: "07087"
 city: Union City
-street: "4th Street"
-housenumber: 601
+street: 4th Street
+housenumber: "601"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00, Su 09:00-20:00"
-website: "http://www.finefaresupermarkets.com/"
+opening_hours: Mo-Sa 08:00-21:00, Su 09:00-20:00
+website: http://www.finefaresupermarkets.com/

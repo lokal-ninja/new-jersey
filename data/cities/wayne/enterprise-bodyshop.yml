@@ -1,11 +1,11 @@
 id: 246693038
-type: way
+type: node
 latitude: 40.99129
 longitude: -74.28067
 postcode: "07470"
 city: Wayne
-street: "Paterson-Hamburg Turnpike"
-housenumber: 2455
+street: Paterson-Hamburg Turnpike
+housenumber: "2455"
 phone: ""
 opening_hours: ""
 website: ""

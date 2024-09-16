@@ -1,11 +1,11 @@
 id: 963517854
-type: way
+type: node
 latitude: 39.02959
 longitude: -74.94106
 postcode: "08251"
 city: Villas
-street: "Pennsylvania Avenue"
-housenumber: 301
+street: Pennsylvania Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

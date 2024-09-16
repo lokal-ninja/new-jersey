@@ -1,11 +1,11 @@
 id: 783215713
-type: way
+type: node
 latitude: 39.74343
 longitude: -75.2236
 postcode: "08062"
 city: Mullica Hill
-street: "North Main Street"
-housenumber: 103
-phone: "856-4344720"
+street: North Main Street
+housenumber: "103"
+phone: 856-4344720
 opening_hours: ""
-website: "https://thomasandmain.com/"
+website: https://thomasandmain.com/

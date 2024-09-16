@@ -4,8 +4,8 @@ latitude: 40.31684
 longitude: -74.06093
 postcode: "07702"
 city: Shrewsbury
-street: "Broad Street"
-housenumber: 1021
+street: Broad Street
+housenumber: "1021"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nj/shrewsbury/1021-broad-st"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/nj/shrewsbury/1021-broad-st

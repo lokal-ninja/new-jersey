@@ -1,11 +1,11 @@
 id: 800511500
-type: way
+type: node
 latitude: 39.7962
 longitude: -74.19955
 postcode: "08758"
 city: Waretown
-street: "Route 9"
-housenumber: 501
-phone: "+1 609-971-6001"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/619"
+street: Route 9
+housenumber: "501"
+phone: +1 609-971-6001
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/619

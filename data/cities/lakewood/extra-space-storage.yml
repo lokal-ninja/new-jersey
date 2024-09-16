@@ -1,11 +1,11 @@
 id: 1239778629
-type: way
+type: node
 latitude: 40.04873
 longitude: -74.21279
 postcode: "08701"
 city: Lakewood
-street: "John Davidson Rockefeller Memorial Highway"
-housenumber: 125
+street: John Davidson Rockefeller Memorial Highway
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

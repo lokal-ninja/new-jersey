@@ -1,11 +1,11 @@
 id: 454780775
-type: way
+type: node
 latitude: 40.07301
 longitude: -74.12576
 postcode: "08724"
 city: Brick
-street: "Route 88"
-housenumber: 1872
-phone: "+1 732-840-7772"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1977/brick-nj/whats-new"
+street: Route 88
+housenumber: "1872"
+phone: +1 732-840-7772
+opening_hours: 24/7
+website: https://www.walmart.com/store/1977/brick-nj/whats-new

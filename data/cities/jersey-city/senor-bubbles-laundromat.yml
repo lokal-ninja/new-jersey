@@ -4,8 +4,8 @@ latitude: 40.73639
 longitude: -74.05148
 postcode: "07306"
 city: Jersey City
-street: "Baldwin Avenue"
-housenumber: 456
-phone: "+1-201-656-3471"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.senorbubbles.com/"
+street: Baldwin Avenue
+housenumber: "456"
+phone: +1-201-656-3471
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.senorbubbles.com/

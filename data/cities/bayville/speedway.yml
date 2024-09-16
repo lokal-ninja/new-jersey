@@ -1,11 +1,11 @@
 id: 1000341768
-type: way
+type: node
 latitude: 39.92876
 longitude: -74.17378
 postcode: "08721"
 city: Bayville
-street: "Atlantic City Boulevard"
-housenumber: 125
+street: Atlantic City Boulevard
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NJ/Bayville/125-ATLANTIC-CITY-BLVD"
+website: https://www.speedway.com/locations/NJ/Bayville/125-ATLANTIC-CITY-BLVD

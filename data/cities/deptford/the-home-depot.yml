@@ -1,11 +1,11 @@
 id: 28654864
-type: way
+type: node
 latitude: 39.81872
 longitude: -75.09449
 postcode: "08096"
 city: Deptford
-street: "Hurffville Road"
-housenumber: 1370
-phone: "+1 856-374-7700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/deptford/nj/deptford/08096/929"
+street: Hurffville Road
+housenumber: "1370"
+phone: +1 856-374-7700
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/deptford/nj/deptford/08096/929

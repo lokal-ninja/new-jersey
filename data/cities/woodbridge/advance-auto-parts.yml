@@ -1,11 +1,11 @@
 id: 201826685
-type: way
+type: node
 latitude: 40.53586
 longitude: -74.29563
 postcode: "07095"
 city: Woodbridge
-street: "US 9 North"
-housenumber: 322
+street: US 9 North
+housenumber: "322"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nj/woodbridge/322-us-highway-9-n"
+website: https://stores.advanceautoparts.com/nj/woodbridge/322-us-highway-9-n

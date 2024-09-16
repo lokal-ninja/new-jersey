@@ -1,11 +1,11 @@
 id: 782884587
-type: way
+type: node
 latitude: 39.77244
 longitude: -75.05074
 postcode: "08012"
 city: Blackwood
-street: "Sicklerville Road"
-housenumber: 106
+street: Sicklerville Road
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

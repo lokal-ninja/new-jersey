@@ -1,11 +1,11 @@
 id: 989796594
-type: way
+type: node
 latitude: 39.94223
 longitude: -74.97184
 postcode: "08052"
 city: Maple Shade
-street: "NJ-23"
-housenumber: 2834
+street: NJ-23
+housenumber: "2834"
 phone: ""
 opening_hours: ""
 website: ""

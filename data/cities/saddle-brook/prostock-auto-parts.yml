@@ -1,11 +1,11 @@
 id: 654999958
-type: way
+type: node
 latitude: 40.90893
 longitude: -74.10618
 postcode: "07663"
 city: Saddle Brook
-street: "North Midland Avenue"
-housenumber: 280
+street: North Midland Avenue
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

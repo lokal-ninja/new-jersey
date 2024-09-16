@@ -1,11 +1,11 @@
 id: 588722897
-type: way
+type: node
 latitude: 39.74922
 longitude: -75.07817
 postcode: "08080"
 city: Sewell
-street: "Greentree Road"
-housenumber: 306
-phone: "856 218 3964"
+street: Greentree Road
+housenumber: "306"
+phone: 856 218 3964
 opening_hours: ""
-website: "www.mavistire.com"
+website: www.mavistire.com

@@ -1,11 +1,11 @@
 id: 963506646
-type: way
+type: node
 latitude: 40.46097
 longitude: -74.36103
 postcode: "08872"
 city: Sayreville
-street: "Main Street"
-housenumber: 100
+street: Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 242750285
-type: way
+type: node
 latitude: 40.45789
 longitude: -74.30654
 postcode: "08859"
 city: Parlin
-street: "Bordentown Avenue"
-housenumber: 3008
+street: Bordentown Avenue
+housenumber: "3008"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 96520748
-type: way
+type: node
 latitude: 40.83797
 longitude: -74.18376
 postcode: "07003"
 city: Bloomfield
-street: "Broad Street"
-housenumber: 1409
-phone: "+1 973-338-4141"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/215"
+street: Broad Street
+housenumber: "1409"
+phone: +1 973-338-4141
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/215

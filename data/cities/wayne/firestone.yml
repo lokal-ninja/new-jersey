@@ -1,11 +1,11 @@
 id: 58570318
-type: way
+type: node
 latitude: 40.88813
 longitude: -74.25293
 postcode: "07470"
 city: Wayne
-street: "Willowbrook Boulevard"
-housenumber: 74
-phone: "+1 973-435-4845"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
+street: Willowbrook Boulevard
+housenumber: "74"
+phone: +1 973-435-4845
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 621796864
-type: way
+type: node
 latitude: 40.54133
 longitude: -74.85549
 postcode: "08822"
 city: Flemington
-street: "State Route 31"
-housenumber: 334
+street: State Route 31
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

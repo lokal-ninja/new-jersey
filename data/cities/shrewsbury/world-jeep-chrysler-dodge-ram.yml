@@ -1,11 +1,11 @@
 id: 345035621
-type: way
+type: node
 latitude: 40.32506
 longitude: -74.07255
 postcode: "07702"
 city: Shrewsbury
-street: "Shrewsbury Avenue"
-housenumber: 681
-phone: "(877) 886-0812"
+street: Shrewsbury Avenue
+housenumber: "681"
+phone: (877) 886-0812
 opening_hours: ""
 website: ""

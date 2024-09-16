@@ -1,11 +1,11 @@
 id: 459959691
-type: way
+type: node
 latitude: 39.98163
 longitude: -74.78651
-postcode: "08048-2900"
+postcode: 08048-2900
 city: Lumberton
-street: "State Route 38"
-housenumber: 1636
-phone: "+1 833-460-7007"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nj/lumberton/1636-route-38"
+street: State Route 38
+housenumber: "1636"
+phone: +1 833-460-7007
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nj/lumberton/1636-route-38

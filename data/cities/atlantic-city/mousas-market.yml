@@ -1,11 +1,11 @@
 id: 591379167
-type: way
+type: node
 latitude: 39.36924
 longitude: -74.42197
 postcode: "08401"
 city: Atlantic City
-street: "North New Jersey Avenue"
-housenumber: 230
+street: North New Jersey Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 741683512
-type: way
+type: node
 latitude: 39.80997
 longitude: -75.06751
 postcode: "08012"
 city: Blackwood
-street: "North Black Horse Pike"
-housenumber: 625
-phone: "+1 856-228-1368"
+street: North Black Horse Pike
+housenumber: "625"
+phone: +1 856-228-1368
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-625+n+black+horse+pike-blackwood-nj-08012/id=1531"
+website: https://www.walgreens.com/locator/walgreens-625+n+black+horse+pike-blackwood-nj-08012/id=1531

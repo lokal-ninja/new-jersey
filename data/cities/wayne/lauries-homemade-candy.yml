@@ -1,11 +1,11 @@
 id: 587352618
-type: way
+type: node
 latitude: 40.98019
 longitude: -74.24438
 postcode: "07470"
 city: Wayne
-street: "Berdan Avenue"
-housenumber: 600
+street: Berdan Avenue
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

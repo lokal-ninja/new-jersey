@@ -1,11 +1,11 @@
 id: 780376919
-type: way
+type: node
 latitude: 39.76222
 longitude: -74.10745
 postcode: "08006"
 city: Barnegat Light
-street: "West 4th Street"
-housenumber: 33
-phone: "+1-609-494-3049"
+street: West 4th Street
+housenumber: "33"
+phone: +1-609-494-3049
 opening_hours: ""
-website: "https://www.inletdeli.com/"
+website: https://www.inletdeli.com/

@@ -1,11 +1,11 @@
 id: 443394944
-type: way
+type: node
 latitude: 39.9318
 longitude: -75.06235
 postcode: "08109"
 city: Pennsauken Township
-street: "Marlton Pike"
-housenumber: 5461
+street: Marlton Pike
+housenumber: "5461"
 phone: ""
 opening_hours: ""
 website: ""

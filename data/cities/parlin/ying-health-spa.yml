@@ -1,11 +1,11 @@
 id: 983068903
-type: way
+type: node
 latitude: 40.46832
 longitude: -74.30655
 postcode: "08859"
 city: Parlin
-street: "Washington Road"
-housenumber: 3195
-phone: "848-468-6846"
+street: Washington Road
+housenumber: "3195"
+phone: 848-468-6846
 opening_hours: ""
 website: ""

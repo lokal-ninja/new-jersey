@@ -1,11 +1,11 @@
 id: 268695193
-type: way
+type: node
 latitude: 41.1191
 longitude: -74.71303
 postcode: "07822"
 city: Augusta
-street: "Lafayette Road"
-housenumber: 1
+street: Lafayette Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.wawa.com/"
+website: https://www.wawa.com/

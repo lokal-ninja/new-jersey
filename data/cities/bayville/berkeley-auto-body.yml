@@ -1,11 +1,11 @@
 id: 462880455
-type: way
+type: node
 latitude: 39.93063
 longitude: -74.17747
 postcode: "08721"
 city: Bayville
-street: "Atlantic City Boulevard"
-housenumber: 80
+street: Atlantic City Boulevard
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

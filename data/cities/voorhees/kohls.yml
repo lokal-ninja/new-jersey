@@ -1,11 +1,11 @@
 id: 30031776
-type: way
+type: node
 latitude: 39.82473
 longitude: -74.93074
 postcode: "08043"
 city: Voorhees
-street: "State Route 73"
-housenumber: 79
-phone: "+1 856-753-3276"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/nj/voorhees-723.shtml"
+street: State Route 73
+housenumber: "79"
+phone: +1 856-753-3276
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/nj/voorhees-723.shtml

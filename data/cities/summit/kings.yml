@@ -1,11 +1,11 @@
 id: 253385142
-type: way
+type: node
 latitude: 40.71263
 longitude: -74.38468
 postcode: ""
 city: Summit
-street: "Springfield Avenue"
-housenumber: 784
+street: Springfield Avenue
+housenumber: "784"
 phone: ""
 opening_hours: ""
-website: "https://local.kingsfoodmarkets.com/nj/summit/784-springfield-ave.html"
+website: https://local.kingsfoodmarkets.com/nj/summit/784-springfield-ave.html

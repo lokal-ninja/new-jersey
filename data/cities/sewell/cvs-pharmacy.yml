@@ -1,11 +1,11 @@
 id: 263297182
-type: way
+type: node
 latitude: 39.76378
 longitude: -75.0867
 postcode: "08080"
 city: Sewell
-street: "Egg Harbor Road"
-housenumber: 307
+street: Egg Harbor Road
+housenumber: "307"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/sewell-nj-pharmacies/307-egg-harbor-rd-sewell-nj-08080/storeid=362"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/sewell-nj-pharmacies/307-egg-harbor-rd-sewell-nj-08080/storeid=362

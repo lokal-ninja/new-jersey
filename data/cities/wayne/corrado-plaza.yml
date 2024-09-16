@@ -1,11 +1,11 @@
 id: 272916725
-type: way
+type: node
 latitude: 40.96656
 longitude: -74.24468
 postcode: "07470"
 city: Wayne
-street: "Berdan Avenue"
-housenumber: 237
+street: Berdan Avenue
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293217147
-type: way
+type: node
 latitude: 41.07619
 longitude: -74.73768
 postcode: ""
 city: Newton
-street: "Hampton House Road Route 206"
-housenumber: 46
+street: Hampton House Road Route 206
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

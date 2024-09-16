@@ -1,11 +1,11 @@
 id: 469589040
-type: way
+type: node
 latitude: 40.68214
 longitude: -74.20654
 postcode: "07208"
 city: Elizabeth
-street: "Newark Avenue"
-housenumber: 801
+street: Newark Avenue
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

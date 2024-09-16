@@ -1,11 +1,11 @@
 id: 1035218169
-type: way
+type: node
 latitude: 40.22998
 longitude: -74.75777
 postcode: "08638"
 city: Trenton
-street: "Brunswick Avenue"
-housenumber: 420
+street: Brunswick Avenue
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

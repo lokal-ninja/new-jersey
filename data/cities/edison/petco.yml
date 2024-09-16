@@ -1,11 +1,11 @@
 id: 195992660
-type: way
+type: node
 latitude: 40.522
 longitude: -74.36436
 postcode: "08837"
 city: Edison
-street: "US Route 1 South"
-housenumber: 1029
-phone: "+1 732-516-0330"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/nj/edison/pet-supplies-edison-nj-283.html"
+street: US Route 1 South
+housenumber: "1029"
+phone: +1 732-516-0330
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/nj/edison/pet-supplies-edison-nj-283.html

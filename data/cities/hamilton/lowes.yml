@@ -1,11 +1,11 @@
 id: 485596080
-type: way
+type: node
 latitude: 40.19789
 longitude: -74.6349
 postcode: "08691"
 city: Hamilton
-street: "Marketplace Boulevard"
-housenumber: 1000
-phone: "+1 609-581-8740"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nj-hamilton/1046"
+street: Marketplace Boulevard
+housenumber: "1000"
+phone: +1 609-581-8740
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nj-hamilton/1046

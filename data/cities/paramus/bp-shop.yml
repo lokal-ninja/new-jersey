@@ -1,11 +1,11 @@
 id: 615326983
-type: way
+type: node
 latitude: 40.96239
 longitude: -74.07581
 postcode: "07652"
 city: Paramus
-street: "New Jersey Route 17"
-housenumber: 640
+street: New Jersey Route 17
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

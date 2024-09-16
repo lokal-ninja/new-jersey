@@ -1,11 +1,11 @@
 id: 485596077
-type: way
+type: node
 latitude: 40.19567
 longitude: -74.63768
 postcode: "08691"
 city: Hamilton
-street: "Marketplace Boulevard"
-housenumber: 550
+street: Marketplace Boulevard
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nj/hamilton/550-marketplace-blvd"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/nj/hamilton/550-marketplace-blvd

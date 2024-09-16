@@ -1,11 +1,11 @@
 id: 888452998
-type: way
+type: node
 latitude: 39.9809
 longitude: -74.25466
 postcode: "08755"
 city: Toms River
-street: "Saint Catherine Boulevard"
-housenumber: 145
+street: Saint Catherine Boulevard
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

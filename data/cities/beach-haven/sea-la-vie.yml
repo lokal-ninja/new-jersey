@@ -1,11 +1,11 @@
 id: 700227457
-type: way
+type: node
 latitude: 39.56484
 longitude: -74.23897
 postcode: "08008"
 city: Beach Haven
-street: "North Bay Avenue"
-housenumber: 211
+street: North Bay Avenue
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.sealavienj.com"
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.sealavienj.com

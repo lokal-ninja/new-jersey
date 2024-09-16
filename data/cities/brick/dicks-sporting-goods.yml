@@ -1,11 +1,11 @@
 id: 917557045
-type: way
+type: node
 latitude: 40.05473
 longitude: -74.15431
 postcode: "08723"
 city: Brick
-street: "Route 70"
-housenumber: 487
-phone: "+1 732-477-4844"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nj/brick/272/"
+street: Route 70
+housenumber: "487"
+phone: +1 732-477-4844
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nj/brick/272/

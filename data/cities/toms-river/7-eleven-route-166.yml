@@ -1,11 +1,11 @@
 id: 791023388
-type: way
+type: node
 latitude: 39.98381
 longitude: -74.20962
-postcode: "08753-2727"
+postcode: 08753-2727
 city: Toms River
-street: "Route 166"
-housenumber: 1219
-phone: "+1 732-341-9561"
+street: Route 166
+housenumber: "1219"
+phone: +1 732-341-9561
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/toms-river/1219-rt-166-11041"
+website: https://www.7-eleven.com/locations/nj/toms-river/1219-rt-166-11041

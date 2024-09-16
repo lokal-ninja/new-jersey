@@ -1,11 +1,11 @@
 id: 485717471
-type: way
+type: node
 latitude: 40.19216
 longitude: -74.64125
 postcode: "08691"
 city: Hamilton
-street: "Marketplace Boulevard"
-housenumber: 170
-phone: "+1 609-585-4418"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nj/hamilton-store1148.html"
+street: Marketplace Boulevard
+housenumber: "170"
+phone: +1 609-585-4418
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nj/hamilton-store1148.html

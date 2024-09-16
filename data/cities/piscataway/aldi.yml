@@ -1,11 +1,11 @@
 id: 262103219
-type: way
+type: node
 latitude: 40.55252
 longitude: -74.43874
 postcode: "08854"
 city: Piscataway
-street: "Centennial Avenue"
-housenumber: 1321
-phone: "+1 877-460-7033"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/nj/piscataway/1321-centennial-avenue"
+street: Centennial Avenue
+housenumber: "1321"
+phone: +1 877-460-7033
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/nj/piscataway/1321-centennial-avenue

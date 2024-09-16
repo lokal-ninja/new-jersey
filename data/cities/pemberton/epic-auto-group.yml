@@ -1,11 +1,11 @@
 id: 421641583
-type: way
+type: node
 latitude: 39.97836
 longitude: -74.6796
 postcode: "08068"
 city: Pemberton
-street: "Fort Dix Road"
-housenumber: 14
+street: Fort Dix Road
+housenumber: "14"
 phone: "6098942000"
 opening_hours: ""
-website: "https://www.epicautogroupsales.com/"
+website: https://www.epicautogroupsales.com/

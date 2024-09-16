@@ -1,11 +1,11 @@
 id: 390446127
-type: way
+type: node
 latitude: 41.12872
 longitude: -74.70518
 postcode: "07822"
 city: Augusta
-street: "CR-565"
-housenumber: 553
+street: CR-565
+housenumber: "553"
 phone: "9739400011"
-opening_hours: "08:00-18:00"
-website: "http://www.roselinesbakery.com"
+opening_hours: 08:00-18:00
+website: http://www.roselinesbakery.com

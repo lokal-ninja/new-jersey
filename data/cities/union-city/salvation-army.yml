@@ -1,11 +1,11 @@
 id: 486688762
-type: way
+type: node
 latitude: 40.77839
 longitude: -74.02541
 postcode: "07087"
 city: Union City
-street: "43rd Street"
-housenumber: 515
+street: 43rd Street
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

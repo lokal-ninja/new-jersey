@@ -1,11 +1,11 @@
 id: 587708110
-type: way
+type: node
 latitude: 40.58082
 longitude: -74.61669
 postcode: "08876"
 city: Somerville
-street: "US-22"
-housenumber: 870
+street: US-22
+housenumber: "870"
 phone: ""
 opening_hours: ""
 website: ""

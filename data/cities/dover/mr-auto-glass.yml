@@ -1,11 +1,11 @@
 id: 1307329150
-type: way
+type: node
 latitude: 40.88895
 longitude: -74.54951
 postcode: "07801"
 city: Dover
-street: "East McFarlan Street"
-housenumber: 237
-phone: "+1-973-786-2228"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
+street: East McFarlan Street
+housenumber: "237"
+phone: +1-973-786-2228
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
 website: ""

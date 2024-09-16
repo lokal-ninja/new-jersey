@@ -4,8 +4,8 @@ latitude: 40.71713
 longitude: -74.35745
 postcode: "07901"
 city: Summit
-street: "Beechwood Road"
-housenumber: 3
+street: Beechwood Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
 website: ""

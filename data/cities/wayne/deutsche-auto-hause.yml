@@ -1,11 +1,11 @@
 id: 575232388
-type: way
+type: node
 latitude: 40.9144
 longitude: -74.26982
 postcode: "07470"
 city: Wayne
-street: "Mountainview Boulevard"
-housenumber: 209
+street: Mountainview Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

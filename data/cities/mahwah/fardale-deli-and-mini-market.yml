@@ -1,11 +1,11 @@
 id: 1214664366
-type: way
+type: node
 latitude: 41.02985
 longitude: -74.16816
 postcode: "07430"
 city: Mahwah
-street: "Wyckoff Avenue"
-housenumber: 754
+street: Wyckoff Avenue
+housenumber: "754"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256111902
-type: way
+type: node
 latitude: 40.72412
 longitude: -74.30835
 postcode: "07041"
 city: Millburn
-street: "Essex Street"
-housenumber: 266
+street: Essex Street
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

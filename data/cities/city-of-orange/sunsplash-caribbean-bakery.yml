@@ -4,8 +4,8 @@ latitude: 40.76861
 longitude: -74.22261
 postcode: "07050"
 city: City of Orange
-street: "Main Street"
-housenumber: 56
-phone: "+1 973-395-3777"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://sunsplash.us"
+street: Main Street
+housenumber: "56"
+phone: +1 973-395-3777
+opening_hours: Mo-Sa 07:00-22:00
+website: http://sunsplash.us

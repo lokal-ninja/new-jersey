@@ -1,11 +1,11 @@
 id: 264982766
-type: way
+type: node
 latitude: 39.95485
 longitude: -75.12275
 postcode: "08102"
 city: Camden
-street: "North 2nd Street"
-housenumber: 901
+street: North 2nd Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 992908401
-type: way
+type: node
 latitude: 39.66395
 longitude: -75.51042
 postcode: "08070"
 city: Pennsville
-street: "North Broadway"
-housenumber: 173
-phone: "(856) 678-4066"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00"
+street: North Broadway
+housenumber: "173"
+phone: (856) 678-4066
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.51272
 longitude: -74.38398
 postcode: "08817"
 city: Edison
-street: "US Highway 1"
-housenumber: 775
-phone: "+1 732-543-1458"
-opening_hours: "Mo-Sa 10:00-20:30; Su 11:00-18:00"
-website: "https://platoscloset.com/"
+street: US Highway 1
+housenumber: "775"
+phone: +1 732-543-1458
+opening_hours: Mo-Sa 10:00-20:30; Su 11:00-18:00
+website: https://platoscloset.com/

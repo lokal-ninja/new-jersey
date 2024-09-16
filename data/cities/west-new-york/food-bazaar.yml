@@ -1,11 +1,11 @@
 id: 453189436
-type: way
+type: node
 latitude: 40.78511
 longitude: -74.01345
 postcode: "07087"
 city: West New York
-street: "Broadway"
-housenumber: 5701
-phone: "+1-201-863-2826"
-opening_hours: "Mo-Su 07:00-22:30"
-website: "https://www.foodbazaar.com/"
+street: Broadway
+housenumber: "5701"
+phone: +1-201-863-2826
+opening_hours: Mo-Su 07:00-22:30
+website: https://www.foodbazaar.com/

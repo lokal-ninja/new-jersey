@@ -1,11 +1,11 @@
 id: 1240674518
-type: way
+type: node
 latitude: 40.90351
 longitude: -74.70616
 postcode: "07874"
 city: Stanhope
-street: "NJ 183"
-housenumber: 24
-phone: "+1-973-527-7880"
+street: NJ 183
+housenumber: "24"
+phone: +1-973-527-7880
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.83128
 longitude: -74.09253
 postcode: "07073"
 city: East Rutherford
-street: "NJ 17"
-housenumber: 55
+street: NJ 17
+housenumber: "55"
 phone: "+12015084546"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/nj/east-rutherford/3287/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/nj/east-rutherford/3287/

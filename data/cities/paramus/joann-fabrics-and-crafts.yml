@@ -1,11 +1,11 @@
 id: 514533544
-type: way
+type: node
 latitude: 40.95928
 longitude: -74.07422
 postcode: "07652"
 city: Paramus
-street: "A"
-housenumber: 30
-phone: "+1 201-444-7926"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://stores.joann.com/nj/paramus/2217/"
+street: A
+housenumber: "30"
+phone: +1 201-444-7926
+opening_hours: Mo-Sa 09:00-21:00
+website: https://stores.joann.com/nj/paramus/2217/

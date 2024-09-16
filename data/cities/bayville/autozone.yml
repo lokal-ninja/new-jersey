@@ -1,11 +1,11 @@
 id: 462879287
-type: way
+type: node
 latitude: 39.92094
 longitude: -74.16352
 postcode: "08721"
 city: Bayville
-street: "Atlantic City Boulevard"
-housenumber: 290
+street: Atlantic City Boulevard
+housenumber: "290"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nj/bayville/290-route-9.html"
+website: https://www.autozone.com/locations/nj/bayville/290-route-9.html

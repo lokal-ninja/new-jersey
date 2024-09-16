@@ -1,11 +1,11 @@
 id: 1251885689
-type: way
+type: node
 latitude: 39.98948
 longitude: -74.26499
 postcode: "08755"
 city: Toms River
-street: "Corporate Circle"
-housenumber: 501
-phone: "+1-732-344-0306"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"
+street: Corporate Circle
+housenumber: "501"
+phone: +1-732-344-0306
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00
 website: ""

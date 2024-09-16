@@ -1,11 +1,11 @@
 id: 211211648
-type: way
+type: node
 latitude: 40.81358
 longitude: -74.38167
 postcode: "07936"
 city: East Hanover
-street: "NJ 10 West"
-housenumber: 130
-phone: "+1 973-887-3145"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.target.com/sl/east-hanover/1491"
+street: NJ 10 West
+housenumber: "130"
+phone: +1 973-887-3145
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.target.com/sl/east-hanover/1491

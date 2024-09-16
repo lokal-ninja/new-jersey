@@ -1,11 +1,11 @@
 id: 1313132733
-type: way
+type: node
 latitude: 39.46979
 longitude: -74.75064
 postcode: "08330"
 city: Mays Landing
-street: "Weymouth Road"
-housenumber: 6456
+street: Weymouth Road
+housenumber: "6456"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 460110419
-type: way
+type: node
 latitude: 39.89033
 longitude: -74.92685
 postcode: "08053"
 city: Marlton
-street: "State Route 73"
-housenumber: 163
+street: State Route 73
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

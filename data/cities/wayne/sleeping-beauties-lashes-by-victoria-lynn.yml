@@ -1,11 +1,11 @@
 id: 555616519
-type: way
+type: node
 latitude: 40.93544
 longitude: -74.22816
 postcode: "07470"
 city: Wayne
-street: "Valley Road"
-housenumber: 691
+street: Valley Road
+housenumber: "691"
 phone: ""
 opening_hours: ""
 website: ""

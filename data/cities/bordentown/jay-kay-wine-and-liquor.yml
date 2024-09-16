@@ -1,11 +1,11 @@
 id: 954100038
-type: way
+type: node
 latitude: 40.17337
 longitude: -74.70036
 postcode: ""
 city: Bordentown
 street: ""
-housenumber: 624
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

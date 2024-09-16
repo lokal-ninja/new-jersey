@@ -1,11 +1,11 @@
 id: 966900390
-type: way
+type: node
 latitude: 40.76316
 longitude: -74.96062
 postcode: ""
 city: Washington
-street: "E. Washington Avenue"
-housenumber: 402
-phone: "+1-908-689-6191"
+street: E. Washington Avenue
+housenumber: "402"
+phone: +1-908-689-6191
 opening_hours: ""
 website: ""

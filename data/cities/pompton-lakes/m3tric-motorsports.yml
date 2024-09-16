@@ -1,11 +1,11 @@
 id: 235394141
-type: way
+type: node
 latitude: 41.00713
 longitude: -74.29081
 postcode: "07442"
 city: Pompton Lakes
-street: "Cannonball Road"
-housenumber: 19
+street: Cannonball Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

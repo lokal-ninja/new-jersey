@@ -1,11 +1,11 @@
 id: 1290769105
-type: way
+type: node
 latitude: 39.98403
 longitude: -74.59003
 postcode: "08015"
 city: Browns Mills
-street: "Trenton Road"
-housenumber: 324
+street: Trenton Road
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

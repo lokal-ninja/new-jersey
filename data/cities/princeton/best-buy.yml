@@ -1,11 +1,11 @@
 id: 161490601
-type: way
+type: node
 latitude: 40.30305
 longitude: -74.68021
 postcode: "08540"
 city: Princeton
-street: "Nassau Park Boulevard"
-housenumber: 251
-phone: "+1 609-514-9500"
+street: Nassau Park Boulevard
+housenumber: "251"
+phone: +1 609-514-9500
 opening_hours: ""
-website: "https://stores.bestbuy.com/nj/princeton/251-nassau-park-blvd-578.html"
+website: https://stores.bestbuy.com/nj/princeton/251-nassau-park-blvd-578.html

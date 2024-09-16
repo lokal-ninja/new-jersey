@@ -1,11 +1,11 @@
 id: 1230293556
-type: way
+type: node
 latitude: 40.84621
 longitude: -74.81416
 postcode: "07840"
 city: Hackettstown
-street: "US 46"
-housenumber: 34
-phone: "+1-908-452-9011"
+street: US 46
+housenumber: "34"
+phone: +1-908-452-9011
 opening_hours: ""
-website: "https://www.pepboys.com/stores/nj/hackettstown"
+website: https://www.pepboys.com/stores/nj/hackettstown

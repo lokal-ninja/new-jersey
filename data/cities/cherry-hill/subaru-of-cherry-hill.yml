@@ -1,11 +1,11 @@
 id: 325015712
-type: way
+type: node
 latitude: 39.91899
 longitude: -75.03266
 postcode: "08002"
 city: Cherry Hill
-street: "Marlton Pike"
-housenumber: 1800
-phone: "(856)330-1500"
+street: Marlton Pike
+housenumber: "1800"
+phone: (856)330-1500
 opening_hours: ""
-website: "https://www.subaruofcherryhill.com/"
+website: https://www.subaruofcherryhill.com/

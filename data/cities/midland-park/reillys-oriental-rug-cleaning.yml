@@ -1,11 +1,11 @@
 id: 332771262
-type: way
+type: node
 latitude: 40.98505
 longitude: -74.14047
 postcode: ""
 city: Midland Park
-street: "Paterson Avenue"
-housenumber: 15
-phone: "(201) 445-0800"
+street: Paterson Avenue
+housenumber: "15"
+phone: (201) 445-0800
 opening_hours: ""
 website: ""

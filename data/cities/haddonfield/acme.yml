@@ -1,11 +1,11 @@
 id: 282160069
-type: way
+type: node
 latitude: 39.89692
 longitude: -75.03093
 postcode: "08033"
 city: Haddonfield
-street: "Ellis Street"
-housenumber: 40
-phone: "+1 856-429-0177"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.acmemarkets.com/nj/haddonfield/40-ellis-st.html"
+street: Ellis Street
+housenumber: "40"
+phone: +1 856-429-0177
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.acmemarkets.com/nj/haddonfield/40-ellis-st.html

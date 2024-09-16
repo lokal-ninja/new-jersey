@@ -1,11 +1,11 @@
 id: 363304464
-type: way
+type: node
 latitude: 40.30663
 longitude: -74.78719
 postcode: "08534"
 city: Pennington
-street: "Pennington Road"
-housenumber: 2555
-phone: "+1 609-882-0711"
-opening_hours: "Mo-Sa 07:00-23:00; Su 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/533"
+street: Pennington Road
+housenumber: "2555"
+phone: +1 609-882-0711
+opening_hours: Mo-Sa 07:00-23:00; Su 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/533

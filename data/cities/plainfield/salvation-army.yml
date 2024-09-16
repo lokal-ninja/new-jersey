@@ -1,11 +1,11 @@
 id: 267329409
-type: way
+type: node
 latitude: 40.6176
 longitude: -74.41566
 postcode: ""
 city: Plainfield
-street: "Watchung Avenue"
-housenumber: 615
-phone: "+1 908 756 2595"
+street: Watchung Avenue
+housenumber: "615"
+phone: +1 908 756 2595
 opening_hours: ""
 website: ""

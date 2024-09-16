@@ -1,11 +1,11 @@
 id: 293255258
-type: way
+type: node
 latitude: 40.87989
 longitude: -74.64629
 postcode: "07852"
 city: Ledgewood
-street: "US 46"
-housenumber: 1113
-phone: "+1-973-252-5418"
+street: US 46
+housenumber: "1113"
+phone: +1-973-252-5418
 opening_hours: ""
-website: "https://www.autozone.com/"
+website: https://www.autozone.com/

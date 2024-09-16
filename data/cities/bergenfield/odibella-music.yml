@@ -1,11 +1,11 @@
 id: 442860826
-type: way
+type: node
 latitude: 40.91248
 longitude: -73.99806
 postcode: "07621"
 city: Bergenfield
-street: "South Washington Avenue"
-housenumber: 456
+street: South Washington Avenue
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

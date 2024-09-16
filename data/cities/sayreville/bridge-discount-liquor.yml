@@ -1,11 +1,11 @@
 id: 886316894
-type: way
+type: node
 latitude: 40.45497
 longitude: -74.36808
 postcode: "08872"
 city: Sayreville
-street: "Washington Road"
-housenumber: 32
-phone: "732-254-3306"
+street: Washington Road
+housenumber: "32"
+phone: 732-254-3306
 opening_hours: ""
 website: ""

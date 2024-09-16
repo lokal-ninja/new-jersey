@@ -1,11 +1,11 @@
 id: 818514966
-type: way
+type: node
 latitude: 40.20788
 longitude: -74.74888
 postcode: "08611"
 city: Trenton
-street: "South Clinton Avenue"
-housenumber: 929
+street: South Clinton Avenue
+housenumber: "929"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 651090957
-type: way
+type: node
 latitude: 40.86545
 longitude: -73.98492
 postcode: "07605"
 city: Leonia
-street: "Broad Avenue"
-housenumber: 431
+street: Broad Avenue
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

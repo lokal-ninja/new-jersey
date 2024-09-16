@@ -1,11 +1,11 @@
 id: 206502940
-type: way
+type: node
 latitude: 40.54842
 longitude: -74.42735
-postcode: "07080-1135"
+postcode: 07080-1135
 city: South Plainfield
-street: "Hadley Center Drive"
-housenumber: 5000
-phone: "+1 908-444-2023"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/south-plainfield/1929"
+street: Hadley Center Drive
+housenumber: "5000"
+phone: +1 908-444-2023
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/south-plainfield/1929

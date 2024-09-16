@@ -1,11 +1,11 @@
 id: 27111256
-type: way
+type: node
 latitude: 40.73232
 longitude: -74.03578
-postcode: "07310-1202"
+postcode: 07310-1202
 city: Jersey City
-street: "14th Street"
-housenumber: 100
-phone: "+1 201-499-0017"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://www.target.com/sl/jersey-city/1886"
+street: 14th Street
+housenumber: "100"
+phone: +1 201-499-0017
+opening_hours: Mo-Su 07:00-00:00
+website: https://www.target.com/sl/jersey-city/1886

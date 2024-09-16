@@ -1,11 +1,11 @@
 id: 125522686
-type: way
+type: node
 latitude: 40.89274
 longitude: -74.47607
 postcode: "07834"
 city: Denville
-street: "1st Avenue"
-housenumber: 20
+street: 1st Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.denvillehardware.com/"
+website: https://www.denvillehardware.com/

@@ -1,11 +1,11 @@
 id: 933083319
-type: way
+type: node
 latitude: 39.82907
 longitude: -74.20092
 postcode: "08731"
 city: Lacey Township
-street: "South Main Street"
-housenumber: 444
+street: South Main Street
+housenumber: "444"
 phone: ""
 opening_hours: ""
 website: ""

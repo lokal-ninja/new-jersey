@@ -1,11 +1,11 @@
 id: 84908518
-type: way
+type: node
 latitude: 40.90273
 longitude: -74.56344
 postcode: "07801"
 city: Dover
-street: "Mount Pleasant Avenue"
-housenumber: 530
-phone: "+1 973-442-0101"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/dover/nj/dover/07801/925"
+street: Mount Pleasant Avenue
+housenumber: "530"
+phone: +1 973-442-0101
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/dover/nj/dover/07801/925

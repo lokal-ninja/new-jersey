@@ -1,11 +1,11 @@
 id: 83006059
-type: way
+type: node
 latitude: 40.92198
 longitude: -74.66627
 postcode: "07843"
 city: Hopatcong
-street: "Lakeside Blvd"
-housenumber: 40
+street: Lakeside Blvd
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

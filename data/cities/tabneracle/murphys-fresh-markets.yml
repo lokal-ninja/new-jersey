@@ -1,11 +1,11 @@
 id: 744996599
-type: way
+type: node
 latitude: 39.84737
 longitude: -74.73957
 postcode: "08088"
 city: Tabneracle
-street: "Medford Lakes Rd"
-housenumber: 381
+street: Medford Lakes Rd
+housenumber: "381"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

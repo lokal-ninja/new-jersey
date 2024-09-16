@@ -1,11 +1,11 @@
 id: 262103221
-type: way
+type: node
 latitude: 40.55489
 longitude: -74.44216
 postcode: "08854"
 city: Piscataway
-street: "Centennial Avenue"
-housenumber: 1303
-phone: "+1 732-562-1771"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/2633/piscataway-nj/whats-new"
+street: Centennial Avenue
+housenumber: "1303"
+phone: +1 732-562-1771
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/2633/piscataway-nj/whats-new

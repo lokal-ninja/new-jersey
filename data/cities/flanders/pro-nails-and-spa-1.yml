@@ -1,11 +1,11 @@
 id: 1242682294
-type: way
+type: node
 latitude: 40.88421
 longitude: -74.70882
 postcode: "07836"
 city: Flanders
-street: "International Drive"
-housenumber: 50
-phone: "+1-973-527-7070"
+street: International Drive
+housenumber: "50"
+phone: +1-973-527-7070
 opening_hours: ""
-website: "https://pronailspa1flander.com/"
+website: https://pronailspa1flander.com/

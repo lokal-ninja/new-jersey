@@ -1,11 +1,11 @@
 id: 205412005
-type: way
+type: node
 latitude: 39.95431
 longitude: -75.072
 postcode: "08105"
 city: Camden
-street: "Westfield Avenue"
-housenumber: 4002
+street: Westfield Avenue
+housenumber: "4002"
 phone: ""
 opening_hours: ""
 website: ""

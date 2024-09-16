@@ -1,11 +1,11 @@
 id: 968960341
-type: way
+type: node
 latitude: 40.9817
 longitude: -74.27779
 postcode: "07470"
 city: Wayne
-street: "Ticonderoga Terrace"
-housenumber: 160
+street: Ticonderoga Terrace
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 412905186
-type: way
+type: node
 latitude: 40.72346
 longitude: -74.0928
 postcode: "07304"
 city: Jersey City
-street: "NJ-440"
-housenumber: 733
-phone: "+1 201-984-4034"
+street: NJ-440
+housenumber: "733"
+phone: +1 201-984-4034
 opening_hours: ""
-website: "https://stores.partycity.com/us/nj/jerseycity/party-store-pc406.html"
+website: https://stores.partycity.com/us/nj/jerseycity/party-store-pc406.html

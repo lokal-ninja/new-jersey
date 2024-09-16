@@ -1,11 +1,11 @@
 id: 27080469
-type: way
+type: node
 latitude: 40.74563
 longitude: -74.03405
 postcode: "07030"
 city: Hoboken
-street: "Clinton Street"
-housenumber: 614
-phone: "+1 201-795-5005"
-opening_hours: "Mo-Sa 06:00-24:00; Su 07:00-24:00"
-website: "https://local.acmemarkets.com/nj/hoboken/614-clinton-st.html"
+street: Clinton Street
+housenumber: "614"
+phone: +1 201-795-5005
+opening_hours: Mo-Sa 06:00-24:00; Su 07:00-24:00
+website: https://local.acmemarkets.com/nj/hoboken/614-clinton-st.html

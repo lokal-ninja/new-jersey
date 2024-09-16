@@ -1,11 +1,11 @@
 id: 627665228
-type: way
+type: node
 latitude: 39.99211
 longitude: -74.9438
 postcode: "08057"
 city: Moorestown Township
-street: "Bridgeboro Road"
-housenumber: 347
+street: Bridgeboro Road
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

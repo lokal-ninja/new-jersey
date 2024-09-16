@@ -1,11 +1,11 @@
 id: 671586050
-type: way
+type: node
 latitude: 40.41053
 longitude: -74.30469
 postcode: "08857"
 city: Old Bridge
-street: "US 9"
-housenumber: 2239
-phone: "+1 732-727-3533"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/509"
+street: US 9
+housenumber: "2239"
+phone: +1 732-727-3533
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/509

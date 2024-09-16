@@ -4,8 +4,8 @@ latitude: 40.50627
 longitude: -74.39332
 postcode: "08817"
 city: Edison
-street: "US Highway 1"
-housenumber: 580
-phone: "+1 848-290-1151"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8406"
+street: US Highway 1
+housenumber: "580"
+phone: +1 848-290-1151
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8406

@@ -1,11 +1,11 @@
 id: 85371441
-type: way
+type: node
 latitude: 40.90285
 longitude: -74.56498
 postcode: ""
 city: Dover
-street: "Mount Pleasant Avenue"
-housenumber: 510
+street: Mount Pleasant Avenue
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

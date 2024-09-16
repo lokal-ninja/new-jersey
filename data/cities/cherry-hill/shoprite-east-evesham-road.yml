@@ -1,11 +1,11 @@
 id: 304798514
-type: way
+type: node
 latitude: 39.86223
 longitude: -74.97364
-postcode: "08003-4010"
+postcode: 08003-4010
 city: Cherry Hill
-street: "East Evesham Road"
-housenumber: 400
-phone: "+1 856-216-1400"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/529"
+street: East Evesham Road
+housenumber: "400"
+phone: +1 856-216-1400
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/529

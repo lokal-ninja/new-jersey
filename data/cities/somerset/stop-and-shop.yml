@@ -1,11 +1,11 @@
 id: 189568229
-type: way
+type: node
 latitude: 40.51211
 longitude: -74.4853
 postcode: "08873"
 city: Somerset
-street: "Easton Avenue"
-housenumber: 940
-phone: "+1 732-828-0139"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://stopandshop.com/location-details/#/store/detail/0809"
+street: Easton Avenue
+housenumber: "940"
+phone: +1 732-828-0139
+opening_hours: Mo-Su 06:00-00:00
+website: https://stopandshop.com/location-details/#/store/detail/0809

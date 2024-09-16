@@ -1,11 +1,11 @@
 id: 1050810411
-type: way
+type: node
 latitude: 39.35963
 longitude: -74.42876
 postcode: "08401"
 city: Atlantic City
-street: "Pacific Avenue"
-housenumber: 1512
+street: Pacific Avenue
+housenumber: "1512"
 phone: ""
 opening_hours: ""
 website: ""

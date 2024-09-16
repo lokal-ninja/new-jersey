@@ -1,11 +1,11 @@
 id: 871995727
-type: way
+type: node
 latitude: 39.65164
 longitude: -75.52866
 postcode: "08070"
 city: Pennsville
-street: "Highland Avenue"
-housenumber: 77
+street: Highland Avenue
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

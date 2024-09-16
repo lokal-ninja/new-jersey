@@ -1,11 +1,11 @@
 id: 559761372
-type: way
+type: node
 latitude: 40.12431
 longitude: -74.05274
 postcode: "08736"
 city: Manasquan
-street: "Main Street"
-housenumber: 75
+street: Main Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

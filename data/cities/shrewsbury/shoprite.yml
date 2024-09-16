@@ -1,11 +1,11 @@
 id: 952751930
-type: way
+type: node
 latitude: 40.3155
 longitude: -74.06774
 postcode: "07702"
 city: Shrewsbury
-street: "Shrewsbury Avenue"
-housenumber: 1151
-phone: "+1 732-380-0411"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/620"
+street: Shrewsbury Avenue
+housenumber: "1151"
+phone: +1 732-380-0411
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/620

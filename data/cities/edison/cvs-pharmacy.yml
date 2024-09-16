@@ -1,11 +1,11 @@
 id: 204706646
-type: way
+type: node
 latitude: 40.50873
 longitude: -74.39214
 postcode: "08817"
 city: Edison
-street: "Eden Avenue"
-housenumber: 8
-phone: "+1 732-248-7911"
-opening_hours: "07:00-24:00"
-website: "https://www.cvs.com/store-locator/edison-nj-pharmacies/8-eden-avenue-edison-nj-08817/storeid=2456"
+street: Eden Avenue
+housenumber: "8"
+phone: +1 732-248-7911
+opening_hours: 07:00-24:00
+website: https://www.cvs.com/store-locator/edison-nj-pharmacies/8-eden-avenue-edison-nj-08817/storeid=2456

@@ -2,10 +2,10 @@ id: 8888963248
 type: node
 latitude: 40.13956
 longitude: -74.70851
-postcode: "08505-2274"
+postcode: 08505-2274
 city: Bordentown
-street: "Route 130"
-housenumber: 262
-phone: "+1 855-460-7022"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/nj/bordentown/262c-route-130"
+street: Route 130
+housenumber: "262"
+phone: +1 855-460-7022
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/nj/bordentown/262c-route-130

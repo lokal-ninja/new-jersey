@@ -1,11 +1,11 @@
 id: 459493598
-type: way
+type: node
 latitude: 39.81275
 longitude: -74.93114
 postcode: "08091"
 city: West Berlin
-street: "State Route 73"
-housenumber: 408
+street: State Route 73
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

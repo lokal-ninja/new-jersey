@@ -1,11 +1,11 @@
 id: 543828412
-type: way
+type: node
 latitude: 40.62957
 longitude: -74.30554
 postcode: "07066"
 city: Clark
-street: "Central Avenue"
-housenumber: 76
-phone: "+1 732-381-7600"
-opening_hours: "Mo-Sa 06:00-01:00"
-website: "https://www.shoprite.com/sm/planning/rsid/163"
+street: Central Avenue
+housenumber: "76"
+phone: +1 732-381-7600
+opening_hours: Mo-Sa 06:00-01:00
+website: https://www.shoprite.com/sm/planning/rsid/163

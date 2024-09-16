@@ -1,11 +1,11 @@
 id: 554891992
-type: way
+type: node
 latitude: 40.19199
 longitude: -74.63826
 postcode: "08691"
 city: Hamilton
-street: "Marketplace Boulevard"
-housenumber: 380
-phone: "+1 609-581-8121"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Su 09:00-23:00"
+street: Marketplace Boulevard
+housenumber: "380"
+phone: +1 609-581-8121
+opening_hours: Mo-Th 09:30-23:00; Fr-Su 09:00-23:00
 website: ""

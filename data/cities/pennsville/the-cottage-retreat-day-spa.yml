@@ -1,11 +1,11 @@
 id: 544162048
-type: way
+type: node
 latitude: 39.6558
 longitude: -75.52113
 postcode: "08070"
 city: Pennsville
-street: "West Pittsfield Street"
-housenumber: 6
+street: West Pittsfield Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/TheCottageSpa/"
+website: https://www.facebook.com/TheCottageSpa/

@@ -1,11 +1,11 @@
 id: 365400298
-type: way
+type: node
 latitude: 39.94538
 longitude: -75.09661
 postcode: "08105"
 city: Camden
-street: "Federal Street"
-housenumber: 1911
+street: Federal Street
+housenumber: "1911"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465260963
-type: way
+type: node
 latitude: 40.86155
 longitude: -74.06457
-postcode: "07608-1120"
+postcode: 07608-1120
 city: Teterboro
-street: "Teterboro Landing Drive"
-housenumber: 2
-phone: "+1 201-596-7001"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/teterboro-nj-1214.html"
+street: Teterboro Landing Drive
+housenumber: "2"
+phone: +1 201-596-7001
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/teterboro-nj-1214.html

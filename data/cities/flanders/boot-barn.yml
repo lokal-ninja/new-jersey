@@ -1,11 +1,11 @@
 id: 1292754192
-type: way
+type: node
 latitude: 40.8824
 longitude: -74.70544
 postcode: "07836"
 city: Flanders
-street: "International Drive"
-housenumber: 30
-phone: "+1-862-419-8700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+street: International Drive
+housenumber: "30"
+phone: +1-862-419-8700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
 website: ""

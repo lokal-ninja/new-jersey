@@ -1,11 +1,11 @@
 id: 587707572
-type: way
+type: node
 latitude: 40.58056
 longitude: -74.61419
 postcode: "08876"
 city: Somerville
-street: "Mercer Street"
-housenumber: 218
-phone: "+1 908-210-9080"
+street: Mercer Street
+housenumber: "218"
+phone: +1 908-210-9080
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/somerville/218-mercer-st-11446"
+website: https://www.7-eleven.com/locations/nj/somerville/218-mercer-st-11446

@@ -1,11 +1,11 @@
 id: 619292061
-type: way
+type: node
 latitude: 40.3909
 longitude: -74.34018
 postcode: "08857"
 city: Old Bridge
-street: "NJ-18"
-housenumber: 1453
+street: NJ-18
+housenumber: "1453"
 phone: ""
 opening_hours: ""
 website: ""

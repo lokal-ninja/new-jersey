@@ -1,11 +1,11 @@
 id: 590978989
-type: way
+type: node
 latitude: 39.95826
 longitude: -74.17374
 postcode: "08753"
 city: Toms River
-street: "Route 37 East"
-housenumber: 353
+street: Route 37 East
+housenumber: "353"
 phone: ""
 opening_hours: ""
 website: ""

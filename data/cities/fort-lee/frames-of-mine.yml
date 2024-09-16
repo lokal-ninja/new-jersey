@@ -1,11 +1,11 @@
 id: 651822956
-type: way
+type: node
 latitude: 40.85053
 longitude: -73.96575
 postcode: "07024"
 city: Fort Lee
-street: "Main Street"
-housenumber: 100
+street: Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

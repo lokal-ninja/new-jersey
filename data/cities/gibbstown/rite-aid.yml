@@ -1,11 +1,11 @@
 id: 857229308
-type: way
+type: node
 latitude: 39.818
 longitude: -75.25942
 postcode: "08027"
 city: Gibbstown
-street: "Harmony Road"
-housenumber: 380
-phone: "+1 856-423-2944"
-opening_hours: "Mo 09:00-18:00; Tu-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/nj/gibbstown/380-harmony-road.html"
+street: Harmony Road
+housenumber: "380"
+phone: +1 856-423-2944
+opening_hours: Mo 09:00-18:00; Tu-Su 08:00-22:00
+website: https://www.riteaid.com/locations/nj/gibbstown/380-harmony-road.html

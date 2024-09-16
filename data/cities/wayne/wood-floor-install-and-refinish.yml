@@ -1,11 +1,11 @@
 id: 557191234
-type: way
+type: node
 latitude: 40.93409
 longitude: -74.23424
 postcode: "07470"
 city: Wayne
-street: "Clifford Drive"
-housenumber: 33
+street: Clifford Drive
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

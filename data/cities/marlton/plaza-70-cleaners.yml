@@ -1,11 +1,11 @@
 id: 460447099
-type: way
+type: node
 latitude: 39.8926
 longitude: -74.91775
 postcode: "08053"
 city: Marlton
-street: "State Route 70"
-housenumber: 65
+street: State Route 70
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188170677
-type: way
+type: node
 latitude: 40.55563
 longitude: -74.34522
 postcode: "08820"
 city: Edison
-street: "Lincoln Highway"
-housenumber: 21
-phone: "+1 732-516-0221"
+street: Lincoln Highway
+housenumber: "21"
+phone: +1 732-516-0221
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/edison/21-lincoln-highway-32412"
+website: https://www.7-eleven.com/locations/nj/edison/21-lincoln-highway-32412

@@ -1,11 +1,11 @@
 id: 122741416
-type: way
+type: node
 latitude: 40.88201
 longitude: -74.65466
 postcode: "07852"
 city: Ledgewood
-street: "US 46"
-housenumber: 1237
-phone: "+1-862-206-0777"
+street: US 46
+housenumber: "1237"
+phone: +1-862-206-0777
 opening_hours: ""
 website: ""

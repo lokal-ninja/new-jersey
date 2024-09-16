@@ -1,11 +1,11 @@
 id: 262427709
-type: way
+type: node
 latitude: 40.71496
 longitude: -74.3531
 postcode: "07901"
 city: Summit
-street: "Broad Street"
-housenumber: 267
+street: Broad Street
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

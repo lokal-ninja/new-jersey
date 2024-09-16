@@ -1,11 +1,11 @@
 id: 425446347
-type: way
+type: node
 latitude: 39.97134
 longitude: -74.68066
 postcode: "08068"
 city: Pemberton
-street: "Egbert Street"
-housenumber: 31
-phone: "(609) 894-2255"
+street: Egbert Street
+housenumber: "31"
+phone: (609) 894-2255
 opening_hours: ""
-website: "https://lankenaufuneralhomes.com"
+website: https://lankenaufuneralhomes.com

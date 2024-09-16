@@ -4,8 +4,8 @@ latitude: 40.68571
 longitude: -74.3174
 postcode: "07081"
 city: Springfield
-street: "Route 22"
-housenumber: 155
+street: Route 22
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nj/springfield/155-route-22-ste-2"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/nj/springfield/155-route-22-ste-2

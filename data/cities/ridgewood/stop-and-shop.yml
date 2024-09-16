@@ -1,11 +1,11 @@
 id: 115665616
-type: way
+type: node
 latitude: 40.98127
 longitude: -74.11593
 postcode: "07450"
 city: Ridgewood
-street: "Franklin Avenue"
-housenumber: 175
+street: Franklin Avenue
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

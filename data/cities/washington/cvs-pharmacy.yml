@@ -1,11 +1,11 @@
 id: 1016501785
-type: way
+type: node
 latitude: 40.76017
 longitude: -74.97566
 postcode: "07882"
 city: Washington
-street: "E. Washington Avenue"
-housenumber: 160
+street: E. Washington Avenue
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/washington-nj-pharmacies/160-e-washington-avenue-washington-nj-07882/storeid=11271"
+website: https://www.cvs.com/store-locator/washington-nj-pharmacies/160-e-washington-avenue-washington-nj-07882/storeid=11271

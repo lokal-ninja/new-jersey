@@ -1,11 +1,11 @@
 id: 85515185
-type: way
+type: node
 latitude: 40.9003
 longitude: -74.70387
 postcode: ""
 city: Netcong
-street: "Allen St"
-housenumber: 5
+street: Allen St
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

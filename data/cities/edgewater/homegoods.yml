@@ -1,11 +1,11 @@
 id: 460363977
-type: way
+type: node
 latitude: 40.80386
 longitude: -73.99157
 postcode: "07020"
 city: Edgewater
-street: "River Road"
-housenumber: 489
-phone: "+1 201-941-1071"
-opening_hours: "Mo-Fr 09:30-21:30; Sa 09:00-21:30"
+street: River Road
+housenumber: "489"
+phone: +1 201-941-1071
+opening_hours: Mo-Fr 09:30-21:30; Sa 09:00-21:30
 website: ""

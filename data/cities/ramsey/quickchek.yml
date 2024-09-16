@@ -1,11 +1,11 @@
 id: 658003978
-type: way
+type: node
 latitude: 41.04407
 longitude: -74.11476
 postcode: "07458"
 city: Ramsey
-street: "New Jersey Route 17"
-housenumber: 40
-phone: "+1-201-818-3065"
-opening_hours: "24/7"
+street: New Jersey Route 17
+housenumber: "40"
+phone: +1-201-818-3065
+opening_hours: 24/7
 website: ""

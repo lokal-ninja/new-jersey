@@ -1,11 +1,11 @@
 id: 239508662
-type: way
+type: node
 latitude: 40.92539
 longitude: -74.26892
 postcode: "07470"
 city: Wayne
-street: "NJ-23"
-housenumber: 1217
-phone: "+1 973-694-1082"
+street: NJ-23
+housenumber: "1217"
+phone: +1 973-694-1082
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/wayne/1217-route-23-39202"
+website: https://www.7-eleven.com/locations/nj/wayne/1217-route-23-39202

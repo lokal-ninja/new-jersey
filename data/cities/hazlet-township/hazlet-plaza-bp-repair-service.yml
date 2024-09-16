@@ -1,11 +1,11 @@
 id: 604384588
-type: way
+type: node
 latitude: 40.41944
 longitude: -74.17973
 postcode: "07730"
 city: Hazlet Township
-street: "NJ 35"
-housenumber: 3039
-phone: "+1-732-203-1300"
-opening_hours: "Mo-Su 06:00-22:00"
+street: NJ 35
+housenumber: "3039"
+phone: +1-732-203-1300
+opening_hours: Mo-Su 06:00-22:00
 website: ""

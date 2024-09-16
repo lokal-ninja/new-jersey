@@ -1,11 +1,11 @@
 id: 241374428
-type: way
+type: node
 latitude: 40.87404
 longitude: -74.6468
 postcode: "07852"
 city: Ledgewood
-street: "Route 10"
-housenumber: 310
-phone: "+1 973-252-8542"
+street: Route 10
+housenumber: "310"
+phone: +1 973-252-8542
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nj/ledgewood/166024/"
+website: https://www.mattressfirm.com/en-us/stores/nj/ledgewood/166024/

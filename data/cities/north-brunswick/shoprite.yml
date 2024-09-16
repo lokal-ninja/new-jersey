@@ -1,11 +1,11 @@
 id: 175497683
-type: way
+type: node
 latitude: 40.43357
 longitude: -74.48911
 postcode: "08902"
 city: North Brunswick
-street: "Renaissance Boulevard"
-housenumber: 400
-phone: "+1 732-940-3112"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/524"
+street: Renaissance Boulevard
+housenumber: "400"
+phone: +1 732-940-3112
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/524

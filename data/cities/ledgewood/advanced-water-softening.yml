@@ -1,11 +1,11 @@
 id: 1236400903
-type: way
+type: node
 latitude: 40.88505
 longitude: -74.65794
 postcode: "07852"
 city: Ledgewood
-street: "US 46"
-housenumber: 1369
-phone: "+1-973-839-2456"
+street: US 46
+housenumber: "1369"
+phone: +1-973-839-2456
 opening_hours: ""
-website: "https://advancedwatersoftening.com/"
+website: https://advancedwatersoftening.com/

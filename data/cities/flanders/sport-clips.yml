@@ -1,11 +1,11 @@
 id: 1242682295
-type: way
+type: node
 latitude: 40.88404
 longitude: -74.70887
 postcode: "07836"
 city: Flanders
-street: "International Drive"
-housenumber: 50
-phone: "+1-973-448-2850"
+street: International Drive
+housenumber: "50"
+phone: +1-973-448-2850
 opening_hours: ""
-website: "https://sportclips.com/"
+website: https://sportclips.com/

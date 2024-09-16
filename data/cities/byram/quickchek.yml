@@ -1,11 +1,11 @@
 id: 233436537
-type: way
+type: node
 latitude: 40.92342
 longitude: -74.71902
 postcode: ""
 city: Byram
-street: "US 206"
-housenumber: 17
+street: US 206
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

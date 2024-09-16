@@ -1,11 +1,11 @@
 id: 528654149
-type: way
+type: node
 latitude: 39.79583
 longitude: -75.03982
 postcode: "08012"
 city: Blackwood
-street: "Little Gloucester Road"
-housenumber: 1301
+street: Little Gloucester Road
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

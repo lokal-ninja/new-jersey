@@ -1,11 +1,11 @@
 id: 1187879521
-type: way
+type: node
 latitude: 39.82358
 longitude: -74.92599
 postcode: "08043"
 city: Voorhees Township
-street: "Cooper Road"
-housenumber: 76
+street: Cooper Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/voorhees-nj/"
+website: https://haletrailer.com/locations/voorhees-nj/

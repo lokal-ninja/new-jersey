@@ -1,11 +1,11 @@
 id: 407537207
-type: way
+type: node
 latitude: 40.23674
 longitude: -74.77894
 postcode: "08618"
 city: Trenton
-street: "Oakland Street"
-housenumber: 199
+street: Oakland Street
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

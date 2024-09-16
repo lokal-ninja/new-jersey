@@ -1,11 +1,11 @@
 id: 805580380
-type: way
+type: node
 latitude: 39.01215
 longitude: -74.79676
-postcode: "08260-3058"
+postcode: 08260-3058
 city: North Wildwood
-street: "West Spruce Avenue"
-housenumber: 330
-phone: "+1 609-522-0910"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8322"
+street: West Spruce Avenue
+housenumber: "330"
+phone: +1 609-522-0910
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8322

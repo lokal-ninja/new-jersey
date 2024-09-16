@@ -1,11 +1,11 @@
 id: 175365855
-type: way
+type: node
 latitude: 40.51653
 longitude: -74.62574
 postcode: "08844"
 city: Hillsborough
-street: "Route 206"
-housenumber: 315
-phone: "+1 908-359-7034"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Route 206
+housenumber: "315"
+phone: +1 908-359-7034
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

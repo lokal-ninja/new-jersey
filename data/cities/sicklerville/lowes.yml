@@ -1,11 +1,11 @@
 id: 143998985
-type: way
+type: node
 latitude: 39.74966
 longitude: -74.99297
 postcode: "08081"
 city: Sicklerville
-street: "Cross Keys Road"
-housenumber: 485
-phone: "+1 856-237-2030"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nj-sicklerville/2630"
+street: Cross Keys Road
+housenumber: "485"
+phone: +1 856-237-2030
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nj-sicklerville/2630

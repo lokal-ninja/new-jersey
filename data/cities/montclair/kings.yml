@@ -1,11 +1,11 @@
 id: 317221900
-type: way
+type: node
 latitude: 40.84364
 longitude: -74.20785
 postcode: "07043"
 city: Montclair
-street: "Valley Road"
-housenumber: 644
+street: Valley Road
+housenumber: "644"
 phone: ""
 opening_hours: ""
-website: "https://local.kingsfoodmarkets.com/nj/upper-montclair/650-valley-rd.html"
+website: https://local.kingsfoodmarkets.com/nj/upper-montclair/650-valley-rd.html

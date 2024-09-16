@@ -1,11 +1,11 @@
 id: 947536984
-type: way
+type: node
 latitude: 40.07482
 longitude: -74.08228
-postcode: "08742-4269"
+postcode: 08742-4269
 city: Point Pleasant
-street: "Bridge Avenue"
-housenumber: 2900
-phone: "+1 732-295-3619"
+street: Bridge Avenue
+housenumber: "2900"
+phone: +1 732-295-3619
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/point-pleasant/2900-bridge-av-11046"
+website: https://www.7-eleven.com/locations/nj/point-pleasant/2900-bridge-av-11046

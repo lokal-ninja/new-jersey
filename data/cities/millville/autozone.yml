@@ -4,8 +4,8 @@ latitude: 39.42486
 longitude: -75.04054
 postcode: "08332"
 city: Millville
-street: "Bluebird Lane"
-housenumber: 106
+street: Bluebird Lane
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nj/millville/106-bluebird-ln.html"
+website: https://www.autozone.com/locations/nj/millville/106-bluebird-ln.html

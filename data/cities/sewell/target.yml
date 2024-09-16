@@ -1,11 +1,11 @@
 id: 552018322
-type: way
+type: node
 latitude: 39.76518
 longitude: -75.13198
 postcode: "08080"
 city: sewell
-street: "Woodbury Glassboro Road"
-housenumber: 675
-phone: "+1 856-415-2380"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/mantua/2384"
+street: Woodbury Glassboro Road
+housenumber: "675"
+phone: +1 856-415-2380
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/mantua/2384

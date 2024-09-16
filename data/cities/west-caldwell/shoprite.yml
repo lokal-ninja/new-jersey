@@ -1,11 +1,11 @@
 id: 771944610
-type: way
+type: node
 latitude: 40.84871
 longitude: -74.29678
 postcode: "07006"
 city: West Caldwell
-street: "Passaic Avenue"
-housenumber: 540
-phone: "+1 973-575-1770"
-opening_hours: "06:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/207"
+street: Passaic Avenue
+housenumber: "540"
+phone: +1 973-575-1770
+opening_hours: 06:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/207

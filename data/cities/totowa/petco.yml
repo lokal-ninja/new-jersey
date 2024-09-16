@@ -1,11 +1,11 @@
 id: 275275732
-type: way
+type: node
 latitude: 40.89185
 longitude: -74.22146
 postcode: "07512"
 city: Totowa
 street: ""
-housenumber: 
-phone: "+1 973-237-9451"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/nj/totowa/pet-supplies-totowa-nj-2794.html"
+housenumber: ""
+phone: +1 973-237-9451
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/nj/totowa/pet-supplies-totowa-nj-2794.html

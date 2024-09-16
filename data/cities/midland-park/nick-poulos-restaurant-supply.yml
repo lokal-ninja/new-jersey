@@ -1,11 +1,11 @@
 id: 332768197
-type: way
+type: node
 latitude: 40.98849
 longitude: -74.14031
 postcode: ""
 city: Midland Park
-street: "Godwin Avenue"
-housenumber: 200
-phone: "(201) 444-8080"
+street: Godwin Avenue
+housenumber: "200"
+phone: (201) 444-8080
 opening_hours: ""
 website: ""

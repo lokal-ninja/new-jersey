@@ -1,11 +1,11 @@
 id: 553157381
-type: way
+type: node
 latitude: 40.89021
 longitude: -74.27165
 postcode: "07004"
 city: Fairfield
-street: "Route 46 East"
-housenumber: 632
-phone: "+1 973-396-0069"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://target.com/sl/fairfield/1175"
+street: Route 46 East
+housenumber: "632"
+phone: +1 973-396-0069
+opening_hours: Mo-Su 08:00-22:00
+website: https://target.com/sl/fairfield/1175

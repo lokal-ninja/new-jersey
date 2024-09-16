@@ -4,8 +4,8 @@ latitude: 40.00641
 longitude: -74.79359
 postcode: "08060"
 city: Mount Holly
-street: "High Street"
-housenumber: 555
+street: High Street
+housenumber: "555"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/nj/mt-holly/555-high-st-(rt541)"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/nj/mt-holly/555-high-st-(rt541)

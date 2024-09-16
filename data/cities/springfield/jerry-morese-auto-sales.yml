@@ -1,11 +1,11 @@
 id: 543724649
-type: way
+type: node
 latitude: 40.71661
 longitude: -74.32519
 postcode: "07081"
 city: Springfield
-street: "Morris Avenue"
-housenumber: 585
+street: Morris Avenue
+housenumber: "585"
 phone: ""
 opening_hours: ""
-website: "https://jmoreseautos.com/"
+website: https://jmoreseautos.com/

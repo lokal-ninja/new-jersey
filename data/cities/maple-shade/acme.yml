@@ -1,11 +1,11 @@
 id: 440978343
-type: way
+type: node
 latitude: 39.9474
 longitude: -74.97148
 postcode: "08052"
 city: Maple Shade
-street: "South Lenola Road"
-housenumber: 300
-phone: "+1 856-778-2028"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.acmemarkets.com/nj/maple-shade/300-s-lenola-rd.html"
+street: South Lenola Road
+housenumber: "300"
+phone: +1 856-778-2028
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.acmemarkets.com/nj/maple-shade/300-s-lenola-rd.html

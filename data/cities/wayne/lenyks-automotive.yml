@@ -1,11 +1,11 @@
 id: 239911893
-type: way
+type: node
 latitude: 40.91409
 longitude: -74.26626
 postcode: "07470"
 city: Wayne
-street: "Sherman Street"
-housenumber: 14
+street: Sherman Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

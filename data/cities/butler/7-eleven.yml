@@ -1,11 +1,11 @@
 id: 276093076
-type: way
+type: node
 latitude: 40.99166
 longitude: -74.34537
 postcode: "07405"
 city: Butler
-street: "Route 23"
-housenumber: 1284
-phone: "+1 973-838-3134"
+street: Route 23
+housenumber: "1284"
+phone: +1 973-838-3134
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nj/butler/1284-route-23-34226"
+website: https://www.7-eleven.com/locations/nj/butler/1284-route-23-34226

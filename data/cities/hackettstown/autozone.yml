@@ -1,11 +1,11 @@
 id: 841967108
-type: way
+type: node
 latitude: 40.83663
 longitude: -74.82395
 postcode: "07840"
 city: Hackettstown
-street: "Mountain Avenue"
-housenumber: 310
-phone: "+1-908-452-9020"
+street: Mountain Avenue
+housenumber: "310"
+phone: +1-908-452-9020
 opening_hours: ""
-website: "https://www.autozone.com/locations/nj/hackettstown/310-mountain-ave.html"
+website: https://www.autozone.com/locations/nj/hackettstown/310-mountain-ave.html

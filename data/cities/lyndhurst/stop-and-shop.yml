@@ -1,11 +1,11 @@
 id: 1108391113
-type: way
+type: node
 latitude: 40.80459
 longitude: -74.11812
 postcode: "07071"
 city: Lyndhurst
-street: "Lewandowski Street"
-housenumber: 425
+street: Lewandowski Street
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

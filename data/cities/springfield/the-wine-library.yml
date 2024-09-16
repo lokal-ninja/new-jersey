@@ -1,11 +1,11 @@
 id: 484356608
-type: way
+type: node
 latitude: 40.71692
 longitude: -74.3242
 postcode: ""
 city: Springfield
-street: "Morris Avenue"
-housenumber: 586
-phone: "+1-888-980-9463"
+street: Morris Avenue
+housenumber: "586"
+phone: +1-888-980-9463
 opening_hours: ""
-website: "https://winelibrary.com/"
+website: https://winelibrary.com/

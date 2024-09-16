@@ -4,8 +4,8 @@ latitude: 40.79406
 longitude: -74.25555
 postcode: "07052"
 city: West Orange
-street: "Prospect Avenue"
-housenumber: 495
+street: Prospect Avenue
+housenumber: "495"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/nj/west-orange/495-prospect-ave"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/nj/west-orange/495-prospect-ave

@@ -1,11 +1,11 @@
 id: 1154099264
-type: way
+type: node
 latitude: 39.72258
 longitude: -75.11707
 postcode: "08028"
 city: Glassboro
-street: "North Delsea Drive"
-housenumber: 811
-phone: "+1 856-431-4396"
-opening_hours: "Mo-Tu,Su 10:00-21:00; We-Sa 09:00-21:00"
-website: "https://local.biglots.com/nj/glassboro/811-n-delsea-dr"
+street: North Delsea Drive
+housenumber: "811"
+phone: +1 856-431-4396
+opening_hours: Mo-Tu,Su 10:00-21:00; We-Sa 09:00-21:00
+website: https://local.biglots.com/nj/glassboro/811-n-delsea-dr

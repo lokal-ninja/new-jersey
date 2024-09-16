@@ -1,11 +1,11 @@
 id: 398246020
-type: way
+type: node
 latitude: 40.8411
 longitude: -74.20832
 postcode: "07043"
 city: Montclair
-street: "Valley Road"
-housenumber: 596
+street: Valley Road
+housenumber: "596"
 phone: ""
-opening_hours: "09:30-18:00"
+opening_hours: 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 438220106
-type: way
+type: node
 latitude: 39.86135
 longitude: -74.97624
-postcode: "08003-3300"
+postcode: 08003-3300
 city: Cherry Hill
-street: "Springdale Road"
-housenumber: 100
+street: Springdale Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

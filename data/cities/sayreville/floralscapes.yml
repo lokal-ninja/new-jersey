@@ -1,11 +1,11 @@
 id: 886322224
-type: way
+type: node
 latitude: 40.44513
 longitude: -74.31973
 postcode: "08872"
 city: Sayreville
-street: "Bordentown Avenue"
-housenumber: 3185
-phone: "732-525-2006"
+street: Bordentown Avenue
+housenumber: "3185"
+phone: 732-525-2006
 opening_hours: ""
-website: "http://www.floralscapesnj.com/"
+website: http://www.floralscapesnj.com/

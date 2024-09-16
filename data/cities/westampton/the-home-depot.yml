@@ -1,11 +1,11 @@
 id: 956795651
-type: way
+type: node
 latitude: 40.03469
 longitude: -74.82138
 postcode: "08060"
 city: Westampton
-street: "Route 541"
-housenumber: 2703
-phone: "+1 609-387-8178"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/burlington/nj/westampton/08060/939"
+street: Route 541
+housenumber: "2703"
+phone: +1 609-387-8178
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/burlington/nj/westampton/08060/939

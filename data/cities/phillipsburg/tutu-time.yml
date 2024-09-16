@@ -4,8 +4,8 @@ latitude: 40.70153
 longitude: -75.17203
 postcode: "08865"
 city: Phillipsburg
-street: "South 3rd Street"
-housenumber: 310
+street: South 3rd Street
+housenumber: "310"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.facebook.com/kelseystutus"
+opening_hours: '"by appointment"'
+website: https://www.facebook.com/kelseystutus

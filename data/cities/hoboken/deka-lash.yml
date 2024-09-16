@@ -4,8 +4,8 @@ latitude: 40.74393
 longitude: -74.02912
 postcode: "07030"
 city: Hoboken
-street: "Washington Street"
-housenumber: 612
+street: Washington Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
-website: "https://dekalash.com/"
+website: https://dekalash.com/

@@ -1,11 +1,11 @@
 id: 184688628
-type: way
+type: node
 latitude: 40.85666
 longitude: -73.96516
 postcode: "07024"
 city: Fort Lee
-street: "Lemoine Avenue"
-housenumber: 2160
-phone: "+1 201-944-1145"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.acmemarkets.com/nj/fort-lee/2160-lemoine-ave.html"
+street: Lemoine Avenue
+housenumber: "2160"
+phone: +1 201-944-1145
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.acmemarkets.com/nj/fort-lee/2160-lemoine-ave.html

@@ -1,11 +1,11 @@
 id: 94793190
-type: way
+type: node
 latitude: 40.51611
 longitude: -74.62589
 postcode: "08844"
 city: Hillsborough
-street: "Route 206"
-housenumber: 315
-phone: "+1 908-904-6140"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nj-hillsborough/1656"
+street: Route 206
+housenumber: "315"
+phone: +1 908-904-6140
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nj-hillsborough/1656

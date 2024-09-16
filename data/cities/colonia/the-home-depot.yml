@@ -1,11 +1,11 @@
 id: 267331183
-type: way
+type: node
 latitude: 40.59135
 longitude: -74.29122
 postcode: "07067"
 city: Colonia
-street: "Saint George's Avenue"
-housenumber: 1555
-phone: "+1 732-388-7825"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/colonia/nj/colonia/07067/981"
+street: Saint George's Avenue
+housenumber: "1555"
+phone: +1 732-388-7825
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/colonia/nj/colonia/07067/981

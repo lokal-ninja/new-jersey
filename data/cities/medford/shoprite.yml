@@ -1,11 +1,11 @@
 id: 33847997
-type: way
+type: node
 latitude: 39.9033
 longitude: -74.82127
 postcode: "08055"
 city: Medford
-street: "Route 70 East"
-housenumber: 208
-phone: "+1 609-953-7700"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/540"
+street: Route 70 East
+housenumber: "208"
+phone: +1 609-953-7700
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/540

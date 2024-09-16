@@ -1,11 +1,11 @@
 id: 308075102
-type: way
+type: node
 latitude: 40.91425
 longitude: -74.05285
 postcode: "07652"
 city: Paramus
-street: "Route 4 East At Forest Avenue"
-housenumber: 224
-phone: "+1 201-843-6616"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/160"
+street: Route 4 East At Forest Avenue
+housenumber: "224"
+phone: +1 201-843-6616
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/160

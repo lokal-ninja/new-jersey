@@ -1,11 +1,11 @@
 id: 756395296
-type: way
+type: node
 latitude: 41.04255
 longitude: -74.63416
 postcode: "07871"
 city: Sparta
-street: "Town Center Drive"
-housenumber: 5
+street: Town Center Drive
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

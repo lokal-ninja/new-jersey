@@ -1,11 +1,11 @@
 id: 379239868
-type: way
+type: node
 latitude: 40.90904
 longitude: -74.19322
 postcode: "07501"
 city: Paterson
-street: "McBride Avenue"
-housenumber: 425
-phone: "(973) 345-4444"
+street: McBride Avenue
+housenumber: "425"
+phone: (973) 345-4444
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 462423509
-type: way
+type: node
 latitude: 39.86023
 longitude: -75.00745
 postcode: "08003"
 city: Cherry Hill
-street: "Burnt Mill Road"
-housenumber: 10
+street: Burnt Mill Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1102721744
-type: way
+type: node
 latitude: 40.80453
 longitude: -74.14486
 postcode: "07109"
 city: Belleville
-street: "Washington Avenue"
-housenumber: 726
-phone: "+1 973-302-8600"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/126"
+street: Washington Avenue
+housenumber: "726"
+phone: +1 973-302-8600
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/126

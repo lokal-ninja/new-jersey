@@ -1,11 +1,11 @@
 id: 677720252
-type: way
+type: node
 latitude: 41.01237
 longitude: -74.12239
 postcode: "07463"
 city: Waldwick
-street: "Hewson Avenue"
-housenumber: 13
+street: Hewson Avenue
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

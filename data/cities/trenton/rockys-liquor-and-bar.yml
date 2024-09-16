@@ -1,11 +1,11 @@
 id: 1033818388
-type: way
+type: node
 latitude: 40.23757
 longitude: -74.74018
 postcode: "08638"
 city: Trenton
-street: "Mulberry Street"
-housenumber: 330
+street: Mulberry Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

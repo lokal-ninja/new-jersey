@@ -1,11 +1,11 @@
 id: 1247036144
-type: way
+type: node
 latitude: 40.88881
 longitude: -74.71651
 postcode: "07828"
 city: Budd Lake
-street: "International Drive"
-housenumber: 61
-phone: "(973) 426-1463"
+street: International Drive
+housenumber: "61"
+phone: (973) 426-1463
 opening_hours: ""
-website: "https://www.hofthesalon.com/"
+website: https://www.hofthesalon.com/

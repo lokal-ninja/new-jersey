@@ -1,11 +1,11 @@
 id: 557052152
-type: way
+type: node
 latitude: 40.65314
 longitude: -74.35185
 postcode: "07090"
 city: Westfield
-street: "Elm Street"
-housenumber: 219
+street: Elm Street
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

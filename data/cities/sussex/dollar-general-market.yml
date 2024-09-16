@@ -1,11 +1,11 @@
 id: 1110600501
-type: way
+type: node
 latitude: 41.19837
 longitude: -74.59683
 postcode: "07461"
 city: Sussex
-street: "NJ-23"
-housenumber: 380
-phone: "(609) 400-1392"
+street: NJ-23
+housenumber: "380"
+phone: (609) 400-1392
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nj/wantage/16563"
+website: https://www.dollargeneral.com/store-directory/nj/wantage/16563

@@ -1,11 +1,11 @@
 id: 115699864
-type: way
+type: node
 latitude: 40.90213
 longitude: -74.66809
 postcode: ""
 city: Landing
-street: "Landing Rd"
-housenumber: 150
+street: Landing Rd
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

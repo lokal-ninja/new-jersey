@@ -1,11 +1,11 @@
 id: 489379432
-type: way
+type: node
 latitude: 39.87769
 longitude: -75.1143
 postcode: "08030"
 city: Brooklawn
-street: "Browning Lane"
-housenumber: 702
-phone: "+1 856-456-7141"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.riteaid.com/locations/nj/brooklawn/702-browning-rd.html"
+street: Browning Lane
+housenumber: "702"
+phone: +1 856-456-7141
+opening_hours: Mo-Fr 08:00-22:00; Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.riteaid.com/locations/nj/brooklawn/702-browning-rd.html

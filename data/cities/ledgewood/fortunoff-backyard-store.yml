@@ -1,11 +1,11 @@
 id: 1242345246
-type: way
+type: node
 latitude: 40.87507
 longitude: -74.64804
 postcode: "07852"
 city: Ledgewood
-street: "NJ 10"
-housenumber: 446
+street: NJ 10
+housenumber: "446"
 phone: ""
 opening_hours: ""
 website: ""

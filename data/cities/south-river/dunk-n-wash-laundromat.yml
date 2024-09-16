@@ -1,11 +1,11 @@
 id: 885756295
-type: way
+type: node
 latitude: 40.45102
 longitude: -74.38168
 postcode: "08882"
 city: South River
-street: "Main Street"
-housenumber: 73
+street: Main Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

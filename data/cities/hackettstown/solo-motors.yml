@@ -1,11 +1,11 @@
 id: 836153353
-type: way
+type: node
 latitude: 40.83519
 longitude: -74.82363
 postcode: "07840"
 city: Hackettstown
-street: "Mountain Avenue"
-housenumber: 328
+street: Mountain Avenue
+housenumber: "328"
 phone: ""
 opening_hours: ""
 website: ""

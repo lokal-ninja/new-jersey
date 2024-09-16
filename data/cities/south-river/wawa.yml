@@ -1,11 +1,11 @@
 id: 202429609
-type: way
+type: node
 latitude: 40.46182
 longitude: -74.40075
 postcode: "08882"
 city: South River
-street: "Old Bridge Turnpike"
-housenumber: 656
+street: Old Bridge Turnpike
+housenumber: "656"
 phone: ""
 opening_hours: ""
 website: ""

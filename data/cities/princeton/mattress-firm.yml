@@ -1,11 +1,11 @@
 id: 228133966
-type: way
+type: node
 latitude: 40.30974
 longitude: -74.6632
 postcode: "08540"
 city: Princeton
-street: "Brunswick Pike"
-housenumber: 3520
-phone: "+1 609-919-0924"
+street: Brunswick Pike
+housenumber: "3520"
+phone: +1 609-919-0924
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nj/princeton/162047/"
+website: https://www.mattressfirm.com/en-us/stores/nj/princeton/162047/

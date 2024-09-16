@@ -1,11 +1,11 @@
 id: 1178694495
-type: way
+type: node
 latitude: 40.42106
 longitude: -74.09205
 postcode: "07718"
 city: Belford
-street: "NJ 36"
-housenumber: 549
-phone: "+1 732-787-3542"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/nj/belford/549-rt-36-n-35863"
+street: NJ 36
+housenumber: "549"
+phone: +1 732-787-3542
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/nj/belford/549-rt-36-n-35863

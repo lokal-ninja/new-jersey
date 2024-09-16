@@ -1,11 +1,11 @@
 id: 989247952
-type: way
+type: node
 latitude: 40.29461
 longitude: -74.05491
 postcode: "07724"
 city: Eatontown
-street: "Route 35 South"
-housenumber: 136
-phone: "+1 844-747-5435"
+street: Route 35 South
+housenumber: "136"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""
