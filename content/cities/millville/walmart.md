@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /millville/walmart/
-shop: supermarket
+shop: department store
 ---
