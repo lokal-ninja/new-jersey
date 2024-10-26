@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /bricktown/7-eleven-lake-shore-way/
+url: /bricktown/7-eleven-mantoloking-road/
 shop: convenience
 ---

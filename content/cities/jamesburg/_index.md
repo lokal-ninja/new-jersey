@@ -1,6 +1,6 @@
 ---
 title: Jamesburg
 url: /jamesburg/
-latitude: 40.353
-longitude: -74.443
+latitude: 40.35
+longitude: -74.437
 ---
