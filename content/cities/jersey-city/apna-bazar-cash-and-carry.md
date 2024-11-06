@@ -1,5 +1,5 @@
 ---
 title: "Apna Bazar Cash & Carry"
 url: /jersey-city/apna-bazar-cash-and-carry/
-shop: convenience
+shop: supermarket
 ---
