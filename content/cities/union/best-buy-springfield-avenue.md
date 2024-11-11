@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /union/best-buy-highway-22-west/
+url: /union/best-buy-springfield-avenue/
 shop: electronics
 ---
