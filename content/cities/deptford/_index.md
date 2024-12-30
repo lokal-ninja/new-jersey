@@ -1,6 +1,6 @@
 ---
 title: Deptford
 url: /deptford/
-latitude: 39.83
-longitude: -75.103
+latitude: 39.837
+longitude: -75.09
 ---
