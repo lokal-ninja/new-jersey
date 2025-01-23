@@ -7,5 +7,5 @@ city: Alpine
 street: Palisades Interstate Parkway
 housenumber: ""
 phone: +1-201-750-0465
-opening_hours: Mo-Su 09:30-17:00
+opening_hours: opening_hours = We-Su 09:30-17:00
 website: https://njpalisades.org/stateline.html
