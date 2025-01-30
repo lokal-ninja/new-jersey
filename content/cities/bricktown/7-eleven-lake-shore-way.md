@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /belford/7-eleven-leonardville-road/
+url: /bricktown/7-eleven-lake-shore-way/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cresskill
 url: /cresskill/
-latitude: 40.941
-longitude: -73.96
+latitude: 40.942
+longitude: -73.961
 ---
