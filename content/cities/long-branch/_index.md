@@ -1,6 +1,6 @@
 ---
 title: Long Branch
 url: /long-branch/
-latitude: 40.303
-longitude: -74.009
+latitude: 40.304
+longitude: -73.987
 ---
