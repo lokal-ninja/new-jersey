@@ -1,6 +1,6 @@
 ---
 title: Metuchen
 url: /metuchen/
-latitude: 40.539
-longitude: -74.372
+latitude: 40.553
+longitude: -74.349
 ---
