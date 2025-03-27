@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /maple-shade/mavis-discount-tire-collins-road/
-shop: tyres
+shop: car repair
 ---
