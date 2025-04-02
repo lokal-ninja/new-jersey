@@ -1,6 +1,6 @@
 ---
 title: Clark
 url: /clark/
-latitude: 40.63
-longitude: -74.311
+latitude: 40.628
+longitude: -74.316
 ---
