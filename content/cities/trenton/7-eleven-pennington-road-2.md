@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /trenton/7-eleven-chambers-street/
+url: /trenton/7-eleven-pennington-road-2/
 shop: convenience
 ---
