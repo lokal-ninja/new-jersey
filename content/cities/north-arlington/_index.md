@@ -1,6 +1,6 @@
 ---
 title: North Arlington
 url: /north-arlington/
-latitude: 40.787
-longitude: -74.146
+latitude: 40.785
+longitude: -74.136
 ---
