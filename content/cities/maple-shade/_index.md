@@ -1,6 +1,6 @@
 ---
 title: Maple Shade
 url: /maple-shade/
-latitude: 39.947
-longitude: -74.971
+latitude: 39.94
+longitude: -74.972
 ---
