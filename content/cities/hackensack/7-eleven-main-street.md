@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /trenton/7-eleven-pennington-road-2/
+url: /hackensack/7-eleven-main-street/
 shop: convenience
 ---
