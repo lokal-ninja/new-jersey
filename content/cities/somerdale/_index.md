@@ -1,6 +1,6 @@
 ---
 title: Somerdale
 url: /somerdale/
-latitude: 39.854
-longitude: -75.025
+latitude: 39.845
+longitude: -75.019
 ---

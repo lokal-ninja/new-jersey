@@ -1,5 +1,5 @@
 ---
-title: "CASH IT IN"
+title: "Cash It In"
 url: /wayne/cash-it-in/
 shop: pawnbroker
 ---

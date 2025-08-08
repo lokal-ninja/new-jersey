@@ -1,6 +1,6 @@
 ---
 title: Teaneck
 url: /teaneck/
-latitude: 40.904
-longitude: -73.999
+latitude: 40.9
+longitude: -74
 ---

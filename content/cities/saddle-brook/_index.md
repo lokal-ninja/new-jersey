@@ -1,6 +1,6 @@
 ---
 title: Saddle Brook
 url: /saddle-brook/
-latitude: 40.895
-longitude: -74.084
+latitude: 40.908
+longitude: -74.092
 ---

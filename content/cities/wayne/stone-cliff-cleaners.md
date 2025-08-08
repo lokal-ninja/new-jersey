@@ -1,5 +1,5 @@
 ---
-title: "STONE CLIFF CLEANERS"
+title: "Stone Cliff Cleaners"
 url: /wayne/stone-cliff-cleaners/
 shop: laundry
 ---

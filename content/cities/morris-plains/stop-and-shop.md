@@ -1,5 +1,5 @@
 ---
-title: "Stop and Shop"
+title: "Stop & Shop"
 url: /morris-plains/stop-and-shop/
 shop: supermarket
 ---

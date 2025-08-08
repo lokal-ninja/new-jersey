@@ -1,5 +1,5 @@
 ---
-title: "ZEN SPA MASSAGE"
+title: "Zen Spa Massage"
 url: /wayne/zen-spa-massage/
 shop: massage
 ---
