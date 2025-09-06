@@ -1,5 +1,5 @@
 ---
-title: "Jack's Laundromat"
+title: "Jacks Laundromat"
 url: /newark/jacks-laundromat/
 shop: laundry
 ---
