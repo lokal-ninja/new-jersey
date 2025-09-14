@@ -1,6 +1,6 @@
 ---
 title: Orange
 url: /orange/
-latitude: 40.761
-longitude: -74.248
+latitude: 40.769
+longitude: -74.225
 ---
