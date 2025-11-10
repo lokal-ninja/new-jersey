@@ -1,6 +1,6 @@
 ---
 title: Holmdel
 url: /holmdel/
-latitude: 40.413
-longitude: -74.142
+latitude: 40.418
+longitude: -74.16
 ---
