@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /wayne/t-mobile-nj-23/
+url: /edison/t-mobile-parsonage-road/
 shop: mobile phone
 ---
