@@ -1,5 +1,5 @@
 ---
 title: "Prime Storage"
-url: /jersey-city/prime-storage-baldwin-avenue/
+url: /jersey-city/prime-storage-coles-street/
 shop: storage rental
 ---
