@@ -1,6 +1,6 @@
 ---
 title: Lawrence Township
 url: /lawrence-township/
-latitude: 40.272
-longitude: -74.711
+latitude: 40.309
+longitude: -74.712
 ---
