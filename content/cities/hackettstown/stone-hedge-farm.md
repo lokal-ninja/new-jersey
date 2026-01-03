@@ -1,5 +1,5 @@
 ---
 title: "Stone Hedge Farm"
-url: /hackesttown/stone-hedge-farm/
+url: /hackettstown/stone-hedge-farm/
 shop: garden centre
 ---
