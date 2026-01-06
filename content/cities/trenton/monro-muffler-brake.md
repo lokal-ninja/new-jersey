@@ -1,5 +1,5 @@
 ---
 title: "Monro Muffler Brake"
-url: /hamilton-township/monro-muffler-brake/
+url: /trenton/monro-muffler-brake/
 shop: car repair
 ---
