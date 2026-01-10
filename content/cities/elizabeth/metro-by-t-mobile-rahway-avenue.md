@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /trenton/metro-by-t-mobile-east-state-street/
+url: /elizabeth/metro-by-t-mobile-rahway-avenue/
 shop: mobile phone
 ---
