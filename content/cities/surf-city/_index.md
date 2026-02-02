@@ -1,6 +1,6 @@
 ---
 title: Surf City
 url: /surf-city/
-latitude: 39.662
-longitude: -74.166
+latitude: 39.657
+longitude: -74.171
 ---
