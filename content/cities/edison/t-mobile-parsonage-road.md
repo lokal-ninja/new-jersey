@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /trenton/t-mobile-east-state-street/
+url: /edison/t-mobile-parsonage-road/
 shop: mobile phone
 ---
