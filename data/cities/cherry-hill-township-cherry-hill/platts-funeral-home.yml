@@ -2,9 +2,9 @@ id: 388936859
 type: node
 latitude: 39.86072
 longitude: -74.98971
-postcode: "08003"
-city: Cherry Hill Township
-street: Haddonfield-Berlin Road
+postcode: 08003;08003-3700
+city: Cherry Hill Township;Cherry Hill
+street: Haddonfield-Berlin Road;Berlin Road
 housenumber: "2001"
 phone: ""
 opening_hours: ""
