@@ -1,5 +1,5 @@
 ---
-title: "Diamond's Nail"
+title: "Diamonds Nail"
 url: /milltown/diamonds-nail/
 shop: beauty
 ---

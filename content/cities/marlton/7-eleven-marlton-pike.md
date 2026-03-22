@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /hackensack/7-eleven-main-street/
+url: /marlton/7-eleven-marlton-pike/
 shop: convenience
 ---
