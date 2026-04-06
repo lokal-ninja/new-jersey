@@ -1,6 +1,6 @@
 ---
 title: Woodbury
 url: /woodbury/
-latitude: 39.833
-longitude: -75.089
+latitude: 39.826
+longitude: -75.159
 ---
