@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /belford/7-eleven-nj-36/
+url: /trenton/7-eleven-north-olden-avenue/
 shop: convenience
 ---

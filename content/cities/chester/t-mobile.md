@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /edison/t-mobile-us-route-1/
+url: /chester/t-mobile/
 shop: mobile phone
 ---
