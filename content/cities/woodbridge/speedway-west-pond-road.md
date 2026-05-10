@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /woodbridge/speedway-us-9-2/
+url: /woodbridge/speedway-west-pond-road/
 shop: convenience
 ---
