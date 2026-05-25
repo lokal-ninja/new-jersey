@@ -1,6 +1,6 @@
 ---
 title: Millville
 url: /millville/
-latitude: 39.425
-longitude: -75.043
+latitude: 39.42
+longitude: -75.042
 ---
