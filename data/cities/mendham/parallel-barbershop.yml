@@ -7,6 +7,5 @@ city: Mendham
 street: East Main Street
 housenumber: "23"
 phone: +1-973-934-4004
-opening_hours: 'Tuesday to Friday: 9 AM–7 PM, Saturday: 9 AM–3 PM Sunday to Monday:
-    Closed'
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-15:00; Su-Mo closed
 website: https://www.parallelbarbershop.com/
