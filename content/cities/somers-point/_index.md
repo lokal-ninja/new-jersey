@@ -1,6 +1,6 @@
 ---
 title: Somers Point
 url: /somers-point/
-latitude: 39.332
+latitude: 39.325
 longitude: -74.596
 ---
