@@ -1,6 +1,6 @@
 ---
 title: Oldwick
 url: /oldwick/
-latitude: 40.67
-longitude: -74.749
+latitude: 40.673
+longitude: -74.75
 ---

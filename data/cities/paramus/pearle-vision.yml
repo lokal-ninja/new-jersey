@@ -1,11 +1,12 @@
 id: 12207477726
 type: node
 latitude: 40.95854
-longitude: -74.07414
+longitude: -74.07413
 postcode: "07652"
 city: Paramus
 street: N State Rt 17
 housenumber: "556"
 phone: +1 201-670-0010
-opening_hours: ""
-website: ""
+opening_hours: Mo 09:00-18:00, Tu 09:00-19:00, We 08:00-16:00, Th 09:00-18:00, Fr
+    09:00-17:00, Sa 08:00-14:00
+website: https://www.pearlevision.com/en-us/stores/nj/paramus/7824/
