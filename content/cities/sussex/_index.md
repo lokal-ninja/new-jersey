@@ -2,5 +2,5 @@
 title: Sussex
 url: /sussex/
 latitude: 41.204
-longitude: -74.6
+longitude: -74.599
 ---

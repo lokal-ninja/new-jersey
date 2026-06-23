@@ -1,6 +1,6 @@
 ---
 title: Robbinsville Township
 url: /robbinsville-township/
-latitude: 40.223
-longitude: -74.637
+latitude: 40.218
+longitude: -74.628
 ---
