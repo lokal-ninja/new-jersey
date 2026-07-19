@@ -1,6 +1,6 @@
 ---
 title: North Brunswick
 url: /north-brunswick/
-latitude: 40.463
-longitude: -74.458
+latitude: 40.434
+longitude: -74.49
 ---
