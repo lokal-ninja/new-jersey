@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /old-bridge/wawa-us-highway-9-2/
+url: /old-bridge/wawa-nj-18/
 shop: convenience
 ---

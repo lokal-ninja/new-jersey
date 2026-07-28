@@ -1,6 +1,6 @@
 ---
 title: East Hanover
 url: /east-hanover/
-latitude: 40.806
-longitude: -74.371
+latitude: 40.809
+longitude: -74.372
 ---
