@@ -1,6 +1,6 @@
 ---
 title: Barnegat Light
 url: /barnegat-light/
-latitude: 39.758
-longitude: -74.106
+latitude: 39.75
+longitude: -74.114
 ---

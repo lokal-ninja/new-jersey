@@ -1,6 +1,6 @@
 ---
 title: Manahawkin
 url: /manahawkin/
-latitude: 39.708
-longitude: -74.28
+latitude: 39.697
+longitude: -74.266
 ---

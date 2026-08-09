@@ -1,6 +1,6 @@
 ---
 title: Asbury Park
 url: /asbury-park/
-latitude: 40.217
+latitude: 40.216
 longitude: -74.01
 ---
