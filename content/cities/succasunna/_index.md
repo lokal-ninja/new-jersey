@@ -1,6 +1,6 @@
 ---
 title: Succasunna
 url: /succasunna/
-latitude: 40.869
-longitude: -74.65
+latitude: 40.873
+longitude: -74.646
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hampton
 url: /hampton/
-latitude: 40.708
-longitude: -74.953
+latitude: 40.717
+longitude: -74.969
 ---
