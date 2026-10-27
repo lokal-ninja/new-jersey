@@ -1,6 +1,6 @@
 ---
 title: Nutley
 url: /nutley/
-latitude: 40.822
-longitude: -74.158
+latitude: 40.824
+longitude: -74.156
 ---
